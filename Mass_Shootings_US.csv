@@ -1,4 +1,4 @@
-"Incident Date",State,"City Or County",Address,"# Killed","# Injured",Operations
+IncidentDate,State,CityOrCounty,Address,Killed,Injured,Operations
 "October 29, 2019",Maryland,Baltimore,"4700 block of Liberty Heights Ave",1,3,N/A
 "October 29, 2019",California,"Long Beach","2709 E 7th St",3,9,N/A
 "October 28, 2019",Maryland,Baltimore,"4160 Pimlico Rd",1,3,N/A
