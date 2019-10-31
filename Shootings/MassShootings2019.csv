@@ -1,4 +1,4 @@
-IncidentID,IncidentDate,State,CityOrCounty,Address,Killed, Injured,Operations
+IncidentID,IncidentDate,State,CityOrCounty,Address,Killed,Injured,Operations
 1538647,"October 31, 2019",Maryland,Baltimore,"5100 block of Reisterstown Rd",0,1,N/A
 1538644,"October 31, 2019",Maryland,Baltimore,"4600 block of Liberty Heights Ave",0,1,N/A
 1538638,"October 31, 2019",Illinois,Rockford,"300 block of Hunter Ave",0,0,N/A
