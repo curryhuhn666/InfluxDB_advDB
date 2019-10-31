@@ -7,7 +7,7 @@ CREATE DATABASE MassShootings
 
 transaction,IncidentDate=October 29, 2019,State=Maryland,CityOrCounty=Baltimore,Address=4700 block of Liberty Heights Ave,Killed =1 ,Injured=3 ,Operations=nan
 transaction,IncidentDate=October 29, 2019,State=California,CityOrCounty=Long Beach,Address=2709 E 7th St,Killed =3 ,Injured=9 ,Operations=nan
-transaction,IncidentDate=October 28, 2019,State=Maryland,CityOrCounty=Baltimore,Address=4160 Pimlico Rd,Killed =1 ,Injured=3 ,Operations=nan
+transaction,IncidentDate=October 28, 2019,State=Maryland,CityOrCounty=Baltimore,Address=4160 Pimlico Rd,Killed =1,Injured=3 ,Operations=nan
 transaction,IncidentDate=October 27, 2019,State=Michigan,CityOrCounty=Detroit,Address=East Outer Dr and Helen St,Killed =0 ,Injured=4 ,Operations=nan
 transaction,IncidentDate=October 27, 2019,State=Michigan,CityOrCounty=Lansing,Address=Balfour Dr and W Miller Rd,Killed =1 ,Injured=4 ,Operations=nan
 transaction,IncidentDate=October 26, 2019,State=Texas,CityOrCounty=Greenville,Address=2275 US-380,Killed =2 ,Injured=6 ,Operations=nan

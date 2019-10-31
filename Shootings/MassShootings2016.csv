@@ -1,0 +1,501 @@
+IncidentID,IncidentDate,State,CityOrCounty,Address,Killed,Injured,Operations
+739539,"December 31, 2016",Virginia,"Newport News","Vernon Place",0,1,N/A
+739764,"December 31, 2016",Tennessee,Knoxville,"Highland View Drive",1,0,N/A
+738899,"December 31, 2016",Florida,Pensacola,"3 Talladega Trail",1,1,N/A
+741817,"December 31, 2016",Pennsylvania,Lancaster,"100 block of Chesapeake St",0,0,N/A
+739284,"December 31, 2016",Maryland,Baltimore,"4600 block of Reistertown Rd",0,1,N/A
+1207480,"December 31, 2016","New Hampshire",Hooksett,N/A,0,0,N/A
+740110,"December 31, 2016",California,Sacramento,"43rd Ave and S Land Park Dr",0,0,N/A
+744523,"December 31, 2016","New Mexico","Santa Fe (La Cienga)","Camino Largo",0,0,N/A
+740888,"December 31, 2016",Colorado,"Colorado Springs","2000 block of Sumter Drive",0,0,N/A
+739346,"December 31, 2016",Nebraska,Omaha,"2501 N 38th St",0,1,N/A
+739348,"December 31, 2016",Nebraska,Omaha,"61st St and Ames Ave",0,1,N/A
+739066,"December 31, 2016",Florida,Loxahatchee,"13289 Compton Rd",1,0,N/A
+741322,"December 31, 2016",Florida,"Miami (Cutler Bay)","20549 Southwest 93rd Avenue",1,0,N/A
+741777,"December 31, 2016",Florida,Kissimmee,"3000 Parkway Blvd",1,0,N/A
+746648,"December 31, 2016",Wyoming,"Casper (Bar Nunn)","2200 block of Tipton St",0,0,N/A
+746647,"December 31, 2016",Wyoming,Casper,"2000 block of Buffalo St",0,0,N/A
+746644,"December 31, 2016",Wyoming,Casper,"1800 block of Brigham Young Ave",0,0,N/A
+1030975,"December 31, 2016",Illinois,Carbondale,"E Birch St",0,0,N/A
+740880,"December 31, 2016",Florida,Tampa,"Deerfield St",0,1,N/A
+741738,"December 31, 2016","North Carolina",Morganton,"1419 Havenwood Drive",0,1,N/A
+754283,"December 31, 2016",Colorado,Denver,"3200 block of W 14th Ave",0,1,N/A
+746622,"December 31, 2016",California,Pittsburg,"1600 block of Norine Drive",0,0,N/A
+746614,"December 31, 2016",California,Brentwood,N/A,0,0,N/A
+738771,"December 31, 2016",Texas,Houston,"4235 Oak Shadows",1,0,N/A
+740875,"December 31, 2016",Ohio,"Newton Falls","Ridge Road",1,0,N/A
+739253,"December 31, 2016",Texas,Austin,"Reinli St and Sheridan Ave",0,1,N/A
+741718,"December 31, 2016",Texas,Houston,"6300 Block of Sherwood Dr",1,0,N/A
+739255,"December 31, 2016",Minnesota,Perham,"2nd St Southwest",0,1,N/A
+745133,"December 31, 2016",Tennessee,Finley,"40 Ash St",0,1,N/A
+740145,"December 31, 2016",Maryland,Baltimore,"S Hilton St",0,1,N/A
+739004,"December 31, 2016",Arizona,Tucson,"4509 East 22nd Street",0,2,N/A
+739248,"December 31, 2016",Kansas,"Kansas City","3rd St and Edgerton Ave",0,1,N/A
+739639,"December 31, 2016",Pennsylvania,Erie,"Prospect Ave and June St",1,1,N/A
+740839,"December 31, 2016",Texas,"Corpus Christi","200 block of Shawnee Street",0,0,N/A
+739242,"December 31, 2016",Kansas,Wichita,"2200 block of North Belmont",0,1,N/A
+740832,"December 31, 2016",Texas,"Corpus Christi","400 block of Clark Drive",0,0,N/A
+741686,"December 31, 2016","New Jersey",Trenton,"Hamilton Avenue",0,0,N/A
+739240,"December 31, 2016",Iowa,"Des Moines","900 Elder Ln",0,1,N/A
+739236,"December 31, 2016",Michigan,Kalamazoo,"1900 block of South Westnedge Avenue",0,1,N/A
+739569,"December 31, 2016",Wisconsin,Milwaukee,"3200 Block of N Achilles St",0,1,N/A
+738669,"December 31, 2016",Indiana,Indianapolis,"8300 block of Whipporwill Drive",0,1,N/A
+740436,"December 31, 2016",Massachusetts,Boston,"Topliff St and Holiday St",0,0,N/A
+739979,"December 31, 2016",Missouri,"Kansas City","5800 block of Blue Pkwy",0,3,N/A
+739230,"December 31, 2016",Illinois,Chicago,"4300 block of South Wolcott",0,1,N/A
+739561,"December 31, 2016",Wisconsin,Milwaukee,"4200 block of W. Burleigh Street",0,2,N/A
+739227,"December 31, 2016",Illinois,Chicago,"4400 block of South Marshfield",0,2,N/A
+739966,"December 31, 2016",Missouri,"Kansas City","East Meyer Blvd and Olive St",0,1,N/A
+742732,"December 31, 2016","New York",Huntington,"Bardwell St",0,0,N/A
+739947,"December 31, 2016",Kansas,Topeka,"2600 block of SE Massachusetts Ave",0,1,N/A
+770614,"December 31, 2016",Florida,Lakeland,"2440 US-92",0,0,N/A
+739221,"December 31, 2016",Georgia,Covington,"9176 US 278",0,1,N/A
+745128,"December 31, 2016",Oklahoma,"Oklahoma City","8300 block of 106th St",1,0,N/A
+738686,"December 31, 2016","New York",Brooklyn,"2265 Bedford Ave",1,0,N/A
+740468,"December 31, 2016",Maine,Oakland,"6 Rod Rd",0,0,N/A
+738903,"December 31, 2016",Indiana,Indianapolis,"4006 Newburgh Drive",1,0,N/A
+740788,"December 31, 2016",California,Fresno,"Van Ness Ave and Belmont Ave",0,0,N/A
+825045,"December 31, 2016",Oklahoma,Tulsa,"7700 S Lewis Ave",1,0,N/A
+739445,"December 31, 2016","South Carolina",Seabrook,"Coakley Drive and Keans Neck Road",0,0,N/A
+739691,"December 31, 2016",Missouri,"Kansas City","418 W 9th St",1,2,N/A
+740777,"December 31, 2016",California,Merced,"400 block of West Childs Ave",0,0,N/A
+738953,"December 31, 2016","New York","Mount Vernon","300 block of E 3rd Street",1,1,N/A
+739200,"December 31, 2016",Ohio,Columbus,"5526 Hall Rd",0,1,N/A
+739893,"December 31, 2016","New Jersey",Vineland,"800 block of East Walnut Road",0,1,N/A
+739891,"December 31, 2016",Florida,Melbourne,"2700 block of Cozumel Dr",0,0,N/A
+740447,"December 31, 2016",Georgia,"Lenox (El Dorado)","27 Briarwood Ct",2,2,N/A
+740761,"December 31, 2016",Kentucky,Louisville,N/A,0,1,N/A
+739193,"December 31, 2016",Ohio,Columbus,"Lockbourne Road and Faber Avenue",0,1,N/A
+739864,"December 31, 2016",Virginia,Portsmouth,"1500 block of Wilcox Avenue",1,0,N/A
+739825,"December 31, 2016",Florida,Marathon,"5515 Overseas Highway",0,0,N/A
+738850,"December 31, 2016",Illinois,Chicago,"5600 block of S Albany",0,1,N/A
+742697,"December 31, 2016",Indiana,"East Chicago",N/A,0,1,N/A
+739160,"December 31, 2016",Ohio,Dayton,"2800 block of Preston Street",0,1,N/A
+751458,"December 31, 2016","New Jersey",Newark,N/A,0,0,N/A
+742557,"December 31, 2016",Minnesota,"South Saint Paul","400 block of Camber Avenue",0,0,N/A
+746433,"December 31, 2016",Kansas,Leavenworth,N/A,0,0,N/A
+763736,"December 31, 2016",Kentucky,Louisville,"300 block of South 38th Street",0,1,N/A
+740708,"December 31, 2016","North Carolina","Pitt (county)","921 Coward Lane",0,1,N/A
+741084,"December 31, 2016",Texas,Austin,"Brazos St and E 6th St",0,1,N/A
+741593,"December 31, 2016",Ohio,Youngstown,"W Delason Ave",0,0,N/A
+742643,"December 31, 2016",Florida,Bryceville,"12000 block of CR 121",2,0,N/A
+739098,"December 31, 2016",Louisiana,Shreveport,"4025 Golf Links Blvd",1,0,N/A
+740960,"December 31, 2016","North Carolina",Eden,"1400 block of Fieldcrest Rd",0,1,N/A
+741580,"December 31, 2016",California,Antioch,"2301 Sycamore Dr",1,1,N/A
+739018,"December 31, 2016",Florida,Sanford,"911 S Palmetto Ave",0,1,N/A
+738867,"December 31, 2016",Louisiana,"New Orleans","2400 block of Martin Luther King Jr Boulevard",0,1,N/A
+739081,"December 31, 2016",Ohio,Eaton,"1139 Preble Dr",1,0,N/A
+739754,"December 31, 2016",Illinois,Aurora,"400 block of Melrose Avenue",1,0,N/A
+739107,"December 31, 2016",Minnesota,Mankato,"1900 Premier Dr",1,0,N/A
+739734,"December 31, 2016",Arkansas,"Black Rock","188 Lawrence County Road 221",1,0,N/A
+741194,"December 31, 2016","North Carolina",Morgantown,"Havenwood Dr",0,1,N/A
+739039,"December 31, 2016",Florida,Jacksonville,"5200 Anisa Ct",0,0,N/A
+742566,"December 31, 2016",California,"Monterey (county)","218 Boronda Road",1,0,N/A
+739038,"December 31, 2016",Florida,Jacksonville,"2700 Forbes St",0,0,N/A
+739037,"December 31, 2016",Florida,Jacksonville,"2900 Carleon Rd",0,0,N/A
+739036,"December 31, 2016",Florida,Jacksonville,"4200 S Homer Rd",0,0,N/A
+739035,"December 31, 2016",Florida,Jacksonville,"Rocky Creek Dr and Shiloh Creek Dr",0,0,N/A
+739032,"December 31, 2016",Florida,Jacksonville,"118th St and Ricker Rd",0,0,N/A
+739029,"December 31, 2016",Florida,Jacksonville,"200 Park St",0,0,N/A
+739028,"December 31, 2016",Florida,Jacksonville,"2000 W Las Brisas Way",0,0,N/A
+739027,"December 31, 2016",Florida,Jacksonville,"Homer Rd and Alaro Rd",0,0,N/A
+739025,"December 31, 2016",California,Stockton,"300 block of West Oak Street",0,0,N/A
+739724,"December 31, 2016",California,Sacramento,"1900 block of Expedition Way",0,1,N/A
+739310,"December 31, 2016",Kentucky,Louisville,"2300 block of Griffiths Avenue",0,1,N/A
+740172,"December 31, 2016",Michigan,Detroit,"13000 block of Kilbourne",0,1,N/A
+742539,"December 31, 2016",Georgia,Atlanta,"Boynton Avenue and Martin Street SE",0,0,N/A
+740719,"December 31, 2016",Oregon,"Grants Pass","Robertson Bridge Rd",1,0,N/A
+742532,"December 31, 2016",Texas,Marshall,"2100 block of Holland St",0,0,N/A
+742530,"December 31, 2016",Texas,Marshall,"3000 block of Brimm Street",0,0,N/A
+742478,"December 31, 2016",Michigan,"Battle Creek","637 Hubbard St",0,0,N/A
+738979,"December 31, 2016",Arizona,Phoenix,"6600 W Van Buren Street",1,0,N/A
+738715,"December 31, 2016",Georgia,Cumming,"211 Atlanta Rd",0,0,N/A
+748071,"December 31, 2016",Florida,Crestview,"SR 85",0,0,N/A
+747138,"December 31, 2016",Kansas,Salina,"1400 block of Pershing St",0,0,N/A
+739703,"December 31, 2016","North Carolina",Durham,"9700 block of S Lowell St",0,1,N/A
+739699,"December 31, 2016",Louisiana,Marrero,"1101 Medical Center Blvd",0,1,N/A
+749001,"December 31, 2016",Pennsylvania,Philadelphia,"800 block of E Washington Ln",0,0,N/A
+739697,"December 31, 2016",Louisiana,"New Orleans","Frenchman St and Caton St",0,1,N/A
+740599,"December 31, 2016",Louisiana,Thibodaux,"Livas Lane and West Park Ave",1,0,N/A
+739686,"December 31, 2016",Missouri,Columbia,"Clearview Dr",0,0,N/A
+772198,"December 31, 2016",Missouri,"Kansas City","E Gregory Blvd and College Ave",1,0,N/A
+741433,"December 31, 2016",Connecticut,Hamden,"Arch Street",0,0,N/A
+743356,"December 31, 2016",Indiana,Chesterton,"6358 N Calumet Rd",0,0,N/A
+741422,"December 31, 2016",Arkansas,Jonesboro,"300 block of Greenmeadow Lane",0,0,N/A
+743340,"December 31, 2016",Indiana,"Fort Wayne",N/A,0,0,N/A
+743338,"December 31, 2016",Indiana,"Fort Wayne",N/A,0,0,N/A
+741409,"December 31, 2016",Tennessee,Murfreesboro,"2310 Memorial Blvd",1,0,N/A
+739658,"December 31, 2016",Georgia,Augusta,"1400 block of Brown St",0,0,N/A
+740634,"December 31, 2016",Michigan,"Benton Harbor","250 N. Fair Ave",0,1,N/A
+740626,"December 31, 2016",Florida,Largo,"616 Rosery Rd",1,0,N/A
+740552,"December 31, 2016",Michigan,Detroit,"11000 block of Minden St",1,1,N/A
+740620,"December 31, 2016",Michigan,Detroit,"11000 Block of Christy St",0,1,N/A
+743569,"December 31, 2016","South Carolina",Santee,"Clark St and Old State Rd",0,1,N/A
+739628,"December 31, 2016",Maryland,Baltimore,"1900 block of McCulloh St",0,0,N/A
+739624,"December 31, 2016",Maryland,Baltimore,"200 block of Pontiac Ave",0,0,N/A
+739620,"December 31, 2016",Maryland,Baltimore,"200 block of N Mount St",0,0,N/A
+743155,"December 31, 2016",Illinois,"Blue Island","14100 block of South Western Ave",1,1,N/A
+743260,"December 31, 2016",Louisiana,"Bossier City","5400 block of Barksdale Blvd",0,1,N/A
+739589,"December 31, 2016",Illinois,Urbana,"142 Lincoln Square",0,0,N/A
+739296,"December 31, 2016",Nebraska,Lincoln,"1523 Superior St",2,0,N/A
+738949,"December 31, 2016",Illinois,Chicago,"5600 block of West Corcoran",0,1,N/A
+738830,"December 31, 2016",Illinois,Chicago,"2200 block of North Latrobe",0,2,N/A
+739000,"December 31, 2016",Michigan,Wyoming,"3500 block of Goodman Avenue SW",0,1,N/A
+747691,"December 31, 2016",Maryland,Suitland,"3500 block of Silver Park Dr",1,0,N/A
+739567,"December 31, 2016",Illinois,Joliet,"400 block of Grover",1,0,N/A
+743211,"December 31, 2016",Louisiana,Arabi,"1800 block of Schnell Dr",0,1,N/A
+739550,"December 31, 2016","West Virginia",Wheeling,"15th St",0,0,N/A
+739545,"December 31, 2016",Washington,Seattle,"3rd Ave and Pine St",0,1,N/A
+739278,"December 31, 2016",Nevada,Reno,"701 E 7th St",0,1,N/A
+739466,"December 31, 2016",Pennsylvania,Greencastle,"400 block of W Baltimore St",1,0,N/A
+740531,"December 31, 2016",Louisiana,"New Orleans","Almonaster Ave and N Prieur St",0,0,N/A
+739533,"December 31, 2016",Utah,"Salt Lake City (Taylorsville)","3900 Block of Squire Crest Dr",0,1,N/A
+742303,"December 31, 2016",California,Bakersfield,"Alfred Harrell Hwy",1,0,N/A
+742301,"December 31, 2016","South Carolina","Mount Pleasant","774 S Shelmore Blvd",0,0,N/A
+742287,"December 31, 2016","South Carolina",Santee,"Clark Street and Old State Road",0,1,N/A
+738728,"December 31, 2016","North Carolina","Rowan (county)","100 block of Apex Ln",1,0,N/A
+784124,"December 31, 2016",Pennsylvania,Pittsburgh,N/A,0,0,N/A
+740534,"December 31, 2016",Louisiana,"New Orleans (Jefferson)",N/A,0,1,N/A
+738749,"December 31, 2016",Texas,Houston,"3704 Fannin Street",1,3,N/A
+739656,"December 31, 2016",Tennessee,Memphis,"Saxon Ave and Cummings St",1,0,N/A
+740524,"December 31, 2016",Louisiana,"New Orleans","12000 block of I-10 Service Road",0,1,N/A
+739491,"December 31, 2016",Ohio,Cleveland,"E 118th St and Union Ave",0,1,N/A
+739489,"December 31, 2016",Ohio,Cleveland,"2300 Block of W 38th St",0,1,N/A
+739481,"December 31, 2016",Louisiana,"Covington (Claiborne)","Green Road",0,1,N/A
+742110,"December 31, 2016",Florida,"New Port Richey","Seven Springs Blvd",0,0,N/A
+742088,"December 31, 2016","New Mexico",Roswell,"W Berrendo Rd",2,0,N/A
+738664,"December 31, 2016",Indiana,Indianapolis,"3300 block of E Vermont St",0,2,N/A
+739475,"December 31, 2016",Massachusetts,Worcester,"2 Blodgett Place",0,0,N/A
+740180,"December 31, 2016",Missouri,"Saint Louis","Gasconade St and Oregon Ave",0,0,N/A
+742072,"December 31, 2016",Texas,Houston,N/A,0,0,N/A
+740469,"December 31, 2016",Maine,Skowhegan,"Back Rd",0,0,N/A
+740187,"December 31, 2016",Missouri,"Saint Louis","4400 block of S Spring Ave",2,0,N/A
+739456,"December 31, 2016",Arizona,Phoenix,"39th Avenue and McDowell Road",0,2,N/A
+740871,"December 31, 2016",Washington,Kennewick,"S Jean Street",0,1,N/A
+738940,"December 31, 2016",Illinois,Chicago,"4800 block of W Chicago Ave",1,0,N/A
+741420,"December 31, 2016",Arkansas,Jonesboro,"3800 block of Raider Rd",0,0,N/A
+738951,"December 31, 2016",Illinois,Chicago,"4000 block of W 21st Pl",0,1,N/A
+1089916,"December 31, 2016","New Jersey","Gloucester (county)",N/A,0,0,N/A
+740606,"December 31, 2016",Virginia,"Henrico (Highland Springs)","600 block of York Ave",0,1,N/A
+738921,"December 31, 2016",Kentucky,Louisville,"49 College Ct",0,2,N/A
+741125,"December 31, 2016",Mississippi,Pelahatchie,N/A,1,0,N/A
+738919,"December 31, 2016",Maryland,Baltimore,"2250 E North Ave",1,0,N/A
+755970,"December 31, 2016","New Jersey",Stratford,"Union Ave",1,0,N/A
+739368,"December 31, 2016",Illinois,Chicago,"900 block of North Karlov",0,2,N/A
+740403,"December 31, 2016",Louisiana,Shreveport,"2500 block of Kings Hwy",0,0,N/A
+739366,"December 31, 2016",Illinois,Chicago,"7200 block of South Coles",0,1,N/A
+739232,"December 31, 2016",Illinois,Chicago,"3700 block of S Wabash",0,1,N/A
+749524,"December 31, 2016",Texas,Grapevine,"700 Block of E Texas 114",0,0,N/A
+740234,"December 31, 2016",Texas,Houston,Hopper,0,1,N/A
+739493,"December 31, 2016",Oklahoma,Tulsa,"21st St and Sheridan Rd",0,3,N/A
+1071325,"December 31, 2016",Georgia,Griffin,"116 Liberty Cir",1,0,N/A
+740211,"December 31, 2016","North Carolina",Durham,"Gilbert St",0,0,N/A
+743016,"December 31, 2016",Indiana,Laurel,"13246 IN 121",0,1,N/A
+743012,"December 31, 2016","New Jersey",Trenton,"Sanford St",0,0,N/A
+742973,"December 31, 2016","South Carolina",Greenwood,"Highland Forest Dr",0,0,N/A
+739496,"December 31, 2016",Oklahoma,Tulsa,"2160 S Sheridan Rd",0,1,N/A
+744694,"December 31, 2016",Tennessee,Murfreesboro,N/A,0,0,N/A
+740042,"December 31, 2016",Oklahoma,Claremore,"Thomas Dr",1,1,N/A
+742938,"December 31, 2016",Texas,Dallas,N/A,0,1,N/A
+742926,"December 31, 2016",Texas,"Fort Worth",N/A,0,1,N/A
+742914,"December 31, 2016",Missouri,Joplin,"112 S Main St",0,0,N/A
+739343,"December 31, 2016","New York","New York (Manhattan)","48 East 105th St",0,0,N/A
+739651,"December 31, 2016",Georgia,Jonesboro,"8970 Thomas Rd",1,0,N/A
+745131,"December 31, 2016",Oklahoma,"Oklahoma City","900 block of NE 19th St",1,0,N/A
+739325,"December 31, 2016","New York","Niagara Falls","20th St",0,0,N/A
+740161,"December 31, 2016",Louisiana,Ruston,"105 East Texas Avenue",1,0,N/A
+742091,"December 31, 2016",Montana,Columbus,"E 1st Ave N and E 2nd Ave N",1,0,N/A
+739498,"December 31, 2016",Oklahoma,Norman,"1800 Block of Virginia St",1,0,N/A
+741882,"December 31, 2016","North Carolina",Edenton,"120 Block of West Cartaret St",0,2,N/A
+739341,"December 31, 2016",Washington,"Federal Way","32100 block of 46th Pl SW",1,0,N/A
+741841,"December 31, 2016",Florida,Wildwood,"Young Circle",0,0,N/A
+738908,"December 30, 2016",Florida,Miami,"10101 W Indigo St",1,0,N/A
+743781,"December 30, 2016",Massachusetts,Plainville,"71 Messenger St",0,0,N/A
+738041,"December 30, 2016",Ohio,Mansfield,"3230 Possum Run Rd",0,5,N/A
+740108,"December 30, 2016",California,Merced,"3200 block of Nashville Ct",0,0,N/A
+740106,"December 30, 2016",California,Merced,"300 block of S Parsons",0,0,N/A
+738576,"December 30, 2016",Connecticut,Wallingford,"95 S Turnpike Rd",2,3,N/A
+737814,"December 30, 2016",Georgia,Lincolnton,"Nethania Farm Road",1,0,N/A
+738391,"December 30, 2016",Tennessee,Memphis,"1190 block of Jackson",0,1,N/A
+748392,"December 30, 2016","New Jersey",Newark,"300 Block of S 11th St",1,0,N/A
+744451,"December 30, 2016",Tennessee,Kingsport,"713 Stuffle St",0,0,N/A
+738381,"December 30, 2016",Texas,"Corpus Christi","500 Block of Louisiana Avenue",0,0,N/A
+740934,"December 30, 2016",Nevada,"Las Vegas","Lake Mead Blvd and Losee Rd",1,0,N/A
+739261,"December 30, 2016",Oregon,Portland,"E Burnside St and 122nd Ave",0,1,N/A
+737943,"December 30, 2016",California,"Sacramento (Fruitridge)","5500 block of Enrico Boulevard",1,0,N/A
+746620,"December 30, 2016",California,Pittsburg,"Bliss Ave and Harbor St",0,0,N/A
+741411,"December 30, 2016",Georgia,"Webster (county)",N/A,1,0,N/A
+739264,"December 30, 2016",Oregon,Portland,"N Columbia Blvd",0,1,N/A
+737805,"December 30, 2016",Nebraska,Lincoln,"399 Sun Valley Blvd",0,0,N/A
+817352,"December 30, 2016",Pennsylvania,Philadelphia,N/A,0,0,N/A
+739269,"December 30, 2016",Pennsylvania,Pittsburgh,"3400 block of Fleming Ave",0,1,N/A
+740012,"December 30, 2016",Missouri,"Kansas City","4600 block of NE 83rd Terrace",0,1,N/A
+739250,"December 30, 2016",Louisiana,"New Orleans","1700 block of Old Prieur St",0,0,N/A
+745151,"December 30, 2016","New York",Cutchogue,"Midwood Rd",0,0,N/A
+739245,"December 30, 2016","Rhode Island",Coventry,"211 Williams Crossing Road",0,1,N/A
+738331,"December 30, 2016",Colorado,Denver,"3663 S Sheridan Blvd",0,0,N/A
+742736,"December 30, 2016","New York",Bloomingburg,"Wurtsboro Mountain Rd",0,0,N/A
+738648,"December 30, 2016",Massachusetts,Boston,"434 Massachusetts Ave",0,0,N/A
+737794,"December 30, 2016",Illinois,Belleville,"2913 West Blvd",1,1,N/A
+738288,"December 30, 2016",Illinois,Chicago,"100 block of North Long Ave",0,1,N/A
+738619,"December 30, 2016",Oklahoma,"Oklahoma City (Midwest City)","NE 10th St and N Douglas Blvd",0,1,N/A
+739577,"December 30, 2016","South Carolina",Burton,N/A,0,0,N/A
+737991,"December 30, 2016",Alabama,Montgomery,"100 block of Longbrook Drive",2,2,N/A
+740806,"December 30, 2016","North Carolina",Asheville,N/A,0,0,N/A
+738695,"December 30, 2016",Georgia,"Atlanta (College Park)","2000 block of Sitser Lane",0,0,N/A
+739207,"December 30, 2016",Florida,"Fort Myers","Glenwood Ave",0,1,N/A
+739682,"December 30, 2016",Indiana,"Terre Haute","22nd St and Liberty St",0,0,N/A
+738068,"December 30, 2016",Florida,Jacksonville,"5700 block of Holly Bell Dr",1,0,N/A
+738039,"December 30, 2016","North Carolina",Greenville,"122 Concord Dr",1,0,N/A
+742704,"December 30, 2016",Alaska,Ketchikan,"N Tongass Hwy",1,0,N/A
+738208,"December 30, 2016",Florida,"Cape Coral","SW 8th Pl",0,0,N/A
+741623,"December 30, 2016",Georgia,Albany,"212 West Society Ave",0,0,N/A
+738171,"December 30, 2016","New Jersey",Paterson,"Martin Street",0,1,N/A
+738154,"December 30, 2016",California,"San Francisco","Northridge and Harbor Road",0,1,N/A
+738149,"December 30, 2016",Florida,Jacksonville,"8300 E Argyle Corners Dr",0,0,N/A
+738148,"December 30, 2016",Florida,Jacksonville,"Painted Pony Dr and 110th St",0,0,N/A
+738145,"December 30, 2016",Florida,Jacksonville,"2500 W Congaree Dr",0,0,N/A
+739137,"December 30, 2016","New York",Rochester,"Wilder St",0,1,N/A
+738141,"December 30, 2016",Florida,Jacksonville,"110th St and Catoma St",0,0,N/A
+738136,"December 30, 2016",Florida,Jacksonville,"Townsend Rd and Ricker Rd",0,0,N/A
+738129,"December 30, 2016",Florida,Orlando,"4728 Walden Circle",1,0,N/A
+738608,"December 30, 2016",Ohio,Girard,"40 E Kline St",0,0,N/A
+739780,"December 30, 2016",Illinois,"Dundee (West Dundee)","150 Short St",0,0,N/A
+738414,"December 30, 2016",Pennsylvania,Hesston,"Seven Points Rd and Bakers Hollow Rd",2,0,N/A
+739100,"December 30, 2016",Kansas,Wichita,"2600 block of E Wilma",0,1,N/A
+738674,"December 30, 2016",Virginia,Gladys,"8000 block of Red House Rd",1,0,N/A
+738845,"December 30, 2016",Illinois,Chicago,"8100 block of S Bishop",1,0,N/A
+737877,"December 30, 2016",Tennessee,Antioch,"3606 Hamilton Church Road",0,0,N/A
+739076,"December 30, 2016",California,Fresno,"Fisher and Home Avenue",0,0,N/A
+739072,"December 30, 2016",Florida,Tampa,"Charter Oak Ct and Woodville St",0,0,N/A
+739071,"December 30, 2016",Florida,"Plant City","1400 block of Mcgee Rd",0,0,N/A
+739070,"December 30, 2016",Florida,Brandon,"1000 block of Versant Dr",0,0,N/A
+739033,"December 30, 2016",Virginia,Portsmouth,"1100 block of Virginia Ave",0,1,N/A
+739030,"December 30, 2016",California,Oakland,"77th Avenue and Garfield Avenues",1,0,N/A
+739275,"December 30, 2016","South Carolina","North Charleston","Iris St",1,0,N/A
+739016,"December 30, 2016",Florida,Palmetto,"2310 1st Ave E",0,0,N/A
+739011,"December 30, 2016",Florida,Destin,"405 Harbor Blvd",0,1,N/A
+738994,"December 30, 2016",Missouri,"Liberty (Pleasant Valley)",N/A,1,0,N/A
+737966,"December 30, 2016",Arizona,Phoenix,"12th Street and Northern Ave",1,0,N/A
+738078,"December 30, 2016",Tennessee,Nashville,"1000 Amberwood Cir",0,0,N/A
+745623,"December 30, 2016",Wisconsin,Madison,"Whitney Way and Raymond Rd",0,0,N/A
+738057,"December 30, 2016",Florida,"Belle Glade","2 W Ave A",0,1,N/A
+737925,"December 30, 2016",Tennessee,Memphis,"Powell Avenue and Holmes Street",1,0,N/A
+738651,"December 30, 2016",Maryland,Suitland,"3801 Southern Ave SE",0,1,N/A
+737939,"December 30, 2016",Tennessee,Chattanooga,"490 Greenway Dr",0,1,N/A
+755008,"December 30, 2016",Arizona,Cochise,N/A,0,0,N/A
+739671,"December 30, 2016",Texas,Denton,"600 block of Roberts St",0,0,N/A
+737672,"December 30, 2016",Texas,Friendswood,"19100 Glenwest Drive",1,0,N/A
+737667,"December 30, 2016","New York",Bronx,"300 E 170th",1,0,N/A
+738943,"December 30, 2016",Virginia,Fredericksburg,"1000 block of Myrick St",0,0,N/A
+738855,"December 30, 2016",Illinois,"Chicago (Englewood)","700 block of W 73rd",0,1,N/A
+737957,"December 30, 2016",Arizona,Phoenix,"71st and Indian School",0,1,N/A
+738733,"December 30, 2016",Michigan,Detroit,"17137 Harper",0,1,N/A
+738914,"December 30, 2016",Arizona,Laveen,"5115 W Southern Ave",0,1,N/A
+738911,"December 30, 2016",Ohio,"Union City","100 Block of S Wintergreen St",0,1,N/A
+966380,"December 30, 2016","New York","Corona (Queens)","Foch Blvd",0,1,N/A
+747020,"December 30, 2016","South Carolina",Donalds,"Tribble Rd",0,0,N/A
+743258,"December 30, 2016",Illinois,Joliet,"800 block of Rosalind Street",0,0,N/A
+1269779,"December 30, 2016",California,Stockton,"9100 block of Fitzpatrick Cir",1,0,N/A
+738862,"December 30, 2016",Louisiana,"New Orleans","North Tonti Street",0,1,N/A
+739068,"December 30, 2016",Virginia,Charlottesville,"500 block of 6th St SE",0,1,N/A
+739554,"December 30, 2016","South Carolina","Mc Clellanville (Mcclellanville)","824 Burgin Road",1,0,N/A
+738795,"December 30, 2016",Maryland,"Capitol Heights","White Pearl Place and Pepper Mill Rd",1,0,N/A
+738773,"December 30, 2016",Idaho,"Idaho Falls","West 65th South and South 5th West",0,1,N/A
+738711,"December 30, 2016",Texas,Houston,"Richelieu Lane and Oak Forest Drive",3,0,N/A
+737847,"December 30, 2016",Delaware,Magnolia,"Flint Dr",0,1,N/A
+742241,"December 30, 2016","South Carolina",Hampton,"107 Lanes Loop",1,0,N/A
+738917,"December 30, 2016",Wisconsin,"La Crosse","N3075 WI 16",0,1,N/A
+739505,"December 30, 2016","South Carolina","Myrtle Beach","S Myrtle St",0,1,N/A
+739503,"December 30, 2016","South Carolina","Richland (county)","Woodcrest Dr",0,1,N/A
+739556,"December 30, 2016",Wisconsin,Milwaukee,"6th St and Chambers St",1,0,N/A
+738697,"December 30, 2016",Louisiana,"New Orleans","2300 Block of New Orleans St",0,2,N/A
+741128,"December 30, 2016",Mississippi,Natchez,"Triumph Lane",1,0,N/A
+738142,"December 30, 2016",Illinois,Chicago,"8200 block of South Ingleside",1,1,N/A
+739487,"December 30, 2016",Ohio,Cleveland,"E 74th St and Superior Ave",0,1,N/A
+739485,"December 30, 2016",Ohio,Cleveland,"10000 Block of Crestwood Ave",0,1,N/A
+739479,"December 30, 2016",Illinois,Peoria,"1400 block of South Westmoreland Avenue",0,0,N/A
+738679,"December 30, 2016",Virginia,Danville,"300 block of Wooding Avenue",0,1,N/A
+738397,"December 30, 2016",Wisconsin,"Milwaukee (West Allis)","S. 94th St. and W. Schlinger Ave",2,0,N/A
+739290,"December 30, 2016",Pennsylvania,Butler,"10th St",1,0,N/A
+741030,"December 30, 2016",Connecticut,Bridgeport,"130 Old Town Road",0,1,N/A
+738759,"December 30, 2016",Texas,Houston,"9350 Country Creek St",1,0,N/A
+739162,"December 30, 2016","North Carolina",Charlotte,"5415 Kimmerly Woods Drive",0,0,N/A
+739167,"December 30, 2016","North Carolina",Charlotte,"6150 Old Pineville Road",0,0,N/A
+742065,"December 30, 2016",Tennessee,Memphis,"2830 Old Austin Peay Highway",0,0,N/A
+739177,"December 30, 2016","North Carolina",Charlotte,"2008 El Verano Circle",0,0,N/A
+739172,"December 30, 2016","North Carolina",Charlotte,"6625 Dupont Drive",0,0,N/A
+738402,"December 30, 2016",Tennessee,Antioch,"100 Chimney Top Drive",1,0,N/A
+740199,"December 30, 2016",Missouri,"Saint Louis","5300 block of Claxton Ave",0,1,N/A
+738650,"December 30, 2016",Massachusetts,Boston,"33 Stanton St",0,0,N/A
+739437,"December 30, 2016",Alabama,Montgomery,"2100 block of E. South Boulevard",0,1,N/A
+742351,"December 30, 2016",Alaska,Ekwok,N/A,0,0,N/A
+741421,"December 30, 2016",Tennessee,Murfreesboro,"3435 Florence Rd",0,0,N/A
+738100,"December 30, 2016",Indiana,Indianapolis,"5845 Rockville Rd",1,0,N/A
+738157,"December 30, 2016",Florida,Elkton,"State Rd 207",0,0,N/A
+738137,"December 30, 2016",Kentucky,Wingo,"McNutt Road",0,0,N/A
+738118,"December 30, 2016",Kentucky,Louisville,N/A,0,1,N/A
+737721,"December 30, 2016",Texas,Killeen,"North 22nd Street and Parmer Avenue",1,0,N/A
+741134,"December 30, 2016",Mississippi,"Harrison (county)","Canal Road",0,0,N/A
+739234,"December 30, 2016",Mississippi,Meridian,"803 29th St",1,0,N/A
+739518,"December 30, 2016",Texas,Killeen,"2300 Block of Woodlands Dr",0,2,N/A
+740297,"December 30, 2016",Texas,Houston,"Deering Drive",1,0,N/A
+737704,"December 30, 2016",Louisiana,Shreveport,"Hearne Avenue",0,1,N/A
+740270,"December 30, 2016",Texas,Laredo,"400 block of Plum Street",0,1,N/A
+738641,"December 30, 2016",Texas,"San Antonio","400 block of Nash Boulevard",1,1,N/A
+740207,"December 30, 2016","North Carolina",Wilson,N/A,0,0,N/A
+738440,"December 30, 2016",Pennsylvania,Williamsport,"2000 block of Boyd St",1,0,N/A
+738744,"December 30, 2016",Texas,"San Antonio","4243 W Commerce St",1,0,N/A
+739351,"December 30, 2016","New York",Utica,"Arthur St and West St",0,2,N/A
+738388,"December 30, 2016",Utah,Ogden,"27th St and Adams Ave",1,0,N/A
+803033,"December 30, 2016",Iowa,Hampton,"1600 block of Club Dr",0,0,N/A
+737919,"December 30, 2016",Nevada,"Las Vegas","600 block of North Las Vegas Boulevard",0,1,N/A
+738527,"December 30, 2016","New York",Syracuse,"1631-1633 W Onondaga St",0,2,N/A
+738300,"December 30, 2016",Illinois,Chicago,"4700 block of South Throop Street",0,1,N/A
+738305,"December 30, 2016",Illinois,Chicago,"200 block of West 117th Street",0,1,N/A
+738286,"December 30, 2016",Illinois,Chicago,"4800 block of West Ferdinand Street",1,0,N/A
+740174,"December 30, 2016","New York",Utica,"500 block of Milgate Street",0,0,N/A
+749305,"December 30, 2016",Colorado,"Englewood (Greenwood Village)","5336 DTC Blvd",0,1,N/A
+739334,"December 30, 2016",Massachusetts,"New Bedford",N/A,0,0,N/A
+739329,"December 30, 2016","New York",Albany,"118 Quail St",0,0,N/A
+739320,"December 30, 2016","New York",Buffalo,"Howell St",0,0,N/A
+739315,"December 30, 2016","North Carolina",Hendersonville,"1178 Gilliam Mountain Rd",0,0,N/A
+741998,"December 30, 2016",Texas,"Fort Worth","3600 block of Middlewood Drive",1,0,N/A
+739259,"December 30, 2016",Texas,"Fort Worth","5300 block of Wonder Dr",0,1,N/A
+739299,"December 30, 2016","New Hampshire",Goffstown,"Mast Road",0,0,N/A
+739292,"December 30, 2016",Nebraska,Lincoln,"2030 S 27th St",0,1,N/A
+738463,"December 29, 2016",Missouri,Novinger,"300 block of Swanson Ave",0,1,N/A
+738455,"December 29, 2016",Georgia,Newnan,"1363 Hwy 29 S",0,0,N/A
+747563,"December 29, 2016",Pennsylvania,Clarksville,"120 North St",1,0,N/A
+739281,"December 29, 2016","South Carolina",Spartanburg,N/A,0,1,N/A
+737340,"December 29, 2016",Arizona,"Paradise Valley","N Tatum Blvd and E Lincoln Dr",0,1,N/A
+740101,"December 29, 2016",Arkansas,"Little Rock","7523 Baseline Road",0,2,N/A
+747554,"December 29, 2016","New Hampshire",Rochester,"Rochester Hill Rd",0,0,N/A
+738357,"December 29, 2016",California,"San Francisco","211 Valencia Street",1,0,N/A
+737974,"December 29, 2016",California,"San Francisco","240 Golden Gate Avenue",1,1,N/A
+737897,"December 29, 2016",Michigan,Detroit,"Queen St and Fordham St",0,2,N/A
+738437,"December 29, 2016",Pennsylvania,"Upper Darby","100 block of Pennock Ave",0,0,N/A
+738395,"December 29, 2016",Alabama,Enterprise,"200 block of Colony Dr",0,0,N/A
+738385,"December 29, 2016","North Carolina","Durham (county)","Grandview Drive and Greyson Drive",0,1,N/A
+738445,"December 29, 2016",Wyoming,Casper,"300 block of N Jefferson St",0,0,N/A
+738052,"December 29, 2016",Tennessee,Memphis,"2800 block of Shady Vista Dr",0,1,N/A
+738960,"December 29, 2016",Virginia,Hanover,"32162 Mount Gideon Rd",0,0,N/A
+737375,"December 29, 2016",Virginia,Hampton,"4000 block of West Mercury Boulevard",0,1,N/A
+737351,"December 29, 2016",Ohio,Newark,"88 Day Avenue",0,1,N/A
+738374,"December 29, 2016",Texas,"Del Rio","71 Larkwood Ln",0,0,N/A
+738366,"December 29, 2016",Iowa,"Des Moines","4538 Lower Beaver Rd",0,0,N/A
+740040,"December 29, 2016","New York",Syracuse,"1300 block of West Onondaga Street",0,1,N/A
+738361,"December 29, 2016",Iowa,"Des Moines",N/A,0,2,N/A
+740032,"December 29, 2016","New York",Syracuse,"South Salina Street",0,1,N/A
+739239,"December 29, 2016",Iowa,"Des Moines","1414 East Walnut St",0,0,N/A
+744407,"December 29, 2016",Virginia,Collinsville,"2500 block of Virginia Avenue",0,0,N/A
+737330,"December 29, 2016",Texas,"Round Rock","Hunters Lodge Drive and Indian Oaks",2,0,N/A
+738311,"December 29, 2016","North Carolina",Goldsboro,"Spruce Street",0,0,N/A
+737504,"December 29, 2016",Kansas,Wichita,"5400 E 21st St",1,0,N/A
+737054,"December 29, 2016",Texas,Austin,"12907 Quinn Trail",1,0,N/A
+741674,"December 29, 2016",Iowa,"Des Moines","16th St and Washington Ave",0,1,N/A
+748274,"December 29, 2016",Nebraska,Neligh,"324 Main St",0,1,N/A
+737056,"December 29, 2016","North Carolina",Asheville,"1563 Patton Avenue",0,1,N/A
+801270,"December 29, 2016",Missouri,Carthage,N/A,0,0,N/A
+737948,"December 29, 2016",Colorado,Englewood,"3151 W Girard Ave",1,0,N/A
+744374,"December 29, 2016",Kentucky,Shelbyville,"16 Village Ln",0,0,N/A
+737265,"December 29, 2016",Florida,Brooker,"County Road 231",0,0,N/A
+738209,"December 29, 2016",Florida,"Fort Myers","4719 Palm Beach Blvd",0,0,N/A
+737248,"December 29, 2016",Florida,Miami,"2370 NW 48th Street",0,0,N/A
+738033,"December 29, 2016","North Carolina",Raleigh,"2900 block of Capital Blvd",1,0,N/A
+736678,"December 29, 2016",Georgia,"Atlanta (Chamblee)","4050 Buford Highway",1,0,N/A
+737558,"December 29, 2016",Indiana,Indianapolis,"7600 block of Little John Drive",1,0,N/A
+738173,"December 29, 2016",Florida,Jacksonville,"4324 Atlantic Blvd",0,1,N/A
+737218,"December 29, 2016",Florida,Orlando,"Meadowmouse Street",0,1,N/A
+737314,"December 29, 2016","North Carolina",Bostic,"202 Whippoorwill Drive",0,1,N/A
+737207,"December 29, 2016",Florida,Orlando,"7000 block of West Colonial Drive",0,0,N/A
+737709,"December 29, 2016",Louisiana,Shreveport,"5189 Shreveport Blanchard Highway",0,1,N/A
+738127,"December 29, 2016",Florida,Deland,"208 West Division Street",0,1,N/A
+878671,"December 29, 2016",California,Brisbane,"San Bruno Ave and Bayshore Blvd",0,0,N/A
+1032900,"December 29, 2016",Maryland,Frederick,"22 Hillcrest Dr",0,1,N/A
+737178,"December 29, 2016",Utah,"Salt Lake City","Wakara Way",0,0,N/A
+739110,"December 29, 2016","New York","Corona (Queens)","64th Pl and Central Ave",0,0,N/A
+739114,"December 29, 2016",Michigan,"Battle Creek","65 Stringham Road",0,0,N/A
+738321,"December 29, 2016",Indiana,Gary,"1000 block of Burr Street",0,0,N/A
+738111,"December 29, 2016",Florida,Seminole,"109th Ave and CR 296",0,0,N/A
+738108,"December 29, 2016",Florida,"Spring Hill (Weeki Wachee)","9227 Lake Drive",0,0,N/A
+737806,"December 29, 2016",Indiana,Ligonier,"11405 N State Rd 5",0,0,N/A
+738037,"December 29, 2016","North Carolina",Greenville,"Arlington Blvd and South Memorial Drive",0,1,N/A
+739093,"December 29, 2016",Kentucky,Hopkinsville,"Boxwood Dr and Westwood Dr",0,0,N/A
+737127,"December 29, 2016",Indiana,Indianapolis,"1400 block of West 34th Street",0,1,N/A
+745004,"December 29, 2016",Virginia,Norfolk,"300 block of Mahone Avenue",0,0,N/A
+738095,"December 29, 2016",Virginia,"Virginia Beach","5100 block of Dandy Court",0,1,N/A
+739751,"December 29, 2016",Alabama,"Shelby (county)","6000 block of Retreat Circle",0,0,N/A
+739074,"December 29, 2016",Florida,Tampa,"Fletcher Ave E and Bruce B Downs Blvd",0,0,N/A
+739073,"December 29, 2016",Florida,Tampa,"1300 block of 138th Ave E",0,0,N/A
+737420,"December 29, 2016",Kentucky,Louisville,"Dixie Highway and Hale Avenue",0,1,N/A
+737101,"December 29, 2016",Illinois,Chicago,"500 block of East 75th Street",0,1,N/A
+737413,"December 29, 2016",Kentucky,"Louisville (Shively)","1900 block of Dubourg Avenue",0,1,N/A
+737099,"December 29, 2016",Michigan,Saginaw,"1100 block of Scofield",0,1,N/A
+737097,"December 29, 2016",Michigan,Saginaw,"Casmir and Norman",1,0,N/A
+738213,"December 29, 2016",Indiana,Monticello,"W 1200 N and N 850 W",0,0,N/A
+737095,"December 29, 2016",Michigan,Muskegon,"1700 block of Terrace Street",0,1,N/A
+737827,"December 29, 2016",Illinois,"East Peoria","809 Springfield Road",1,1,N/A
+737086,"December 29, 2016",Illinois,Chicago,"700 block of North Christiana",0,1,N/A
+737082,"December 29, 2016",Illinois,Chicago,"800 block of East 63rd Street",0,1,N/A
+737059,"December 29, 2016",Illinois,Chicago,"2200 block of West 21st Street",0,1,N/A
+738093,"December 29, 2016",Virginia,Roanoke,"Orange Ave and 20th Street",0,1,N/A
+737071,"December 29, 2016",Illinois,Chicago,"2400 block of East 74th Place",0,1,N/A
+1261417,"December 29, 2016",Arkansas,Mcneil,"Cedar Street",1,0,N/A
+738087,"December 29, 2016",Pennsylvania,Erie,"500 block of E 22nd St",0,1,N/A
+738072,"December 29, 2016",Illinois,"Williamson (county)","Locust Grove Road",0,3,N/A
+740671,"December 29, 2016",Kentucky,"Bowling Green","Meng Road",0,1,N/A
+736838,"December 29, 2016",Wisconsin,Janesville,"305 Rockport Road",0,0,N/A
+737052,"December 29, 2016",Texas,Dallas,"13200 block of Fish Road",0,1,N/A
+738063,"December 29, 2016",Florida,"Miami (North Miami)","1410 NW 120th St",0,0,N/A
+738047,"December 29, 2016",Tennessee,Memphis,"1100 block of Ethel Street",0,1,N/A
+737017,"December 29, 2016",Kentucky,Russellville,"Bonnie Drive",0,0,N/A
+738503,"December 29, 2016",Virginia,Williamsburg,"731 E Rochambeau Dr",0,0,N/A
+738090,"December 29, 2016",Maryland,"Capitol Heights","3914 Byers St",1,0,N/A
+738816,"December 29, 2016",Washington,"Rock Island",N/A,0,1,N/A
+737663,"December 29, 2016",Illinois,"Rolling Meadows","2404 Algonquin Parkway",0,1,N/A
+737348,"December 29, 2016",Pennsylvania,Harrisburg,"1601 Sycamore St",1,0,N/A
+738004,"December 29, 2016",Illinois,Rockford,"1032 East State Street",0,0,N/A
+738000,"December 29, 2016",Georgia,Valdosta,"Madison Highway",0,0,N/A
+737492,"December 29, 2016",Texas,"Port Arthur","3801 Highway 73",1,0,N/A
+743364,"December 29, 2016",Indiana,"Union City","600 block of W Pearl St",0,0,N/A
+737980,"December 29, 2016","New York","Huntington Station (South Huntington)","Magerus Street",0,0,N/A
+737978,"December 29, 2016",California,Hesperia,"13000 block of Cucamonga Ct",0,0,N/A
+737976,"December 29, 2016",California,Richmond,"Roosevelt Avenue and 42nd Street",0,1,N/A
+737970,"December 29, 2016",California,Oakland,"7200 Bancroft Avenue",0,0,N/A
+737964,"December 29, 2016",California,"San Diego","Beadnell Way",0,0,N/A
+737295,"December 29, 2016",Missouri,"Kansas City","4801 Main Street",1,0,N/A
+737956,"December 29, 2016",Alabama,Athens,"17700 block of Athens Pass",0,0,N/A
+737955,"December 29, 2016",Alabama,Decatur,"1400 block of 7th Ave SE",0,0,N/A
+737952,"December 29, 2016",California,Salinas,"500 block of James Street",0,2,N/A
+740546,"December 29, 2016",Louisiana,"New Orleans","12000 block of S Interstate 10 Service Road",0,0,N/A
+737927,"December 29, 2016",Tennessee,Memphis,"3400 block of Warford Street",0,1,N/A
+737732,"December 29, 2016",Louisiana,"New Orleans","100 block of Cypress Grove Court",1,1,N/A
+737912,"December 29, 2016",Michigan,Detroit,"14000 block of Hampshire",0,1,N/A
+738877,"December 29, 2016",California,Vallejo,"300 block of Wallace Ave",0,0,N/A
+737902,"December 29, 2016",California,Homeland,"25000 block of Avenida Ramada Drive",0,0,N/A
+736674,"December 29, 2016",Oregon,Portland,"11324 NE Sandy Blvd",0,1,N/A
+1060765,"December 29, 2016",Delaware,Dover,"W North Street and Saulsbury Rd",0,0,N/A
+748891,"December 29, 2016",Georgia,"Henry (county)","Rock Quarry Road",0,0,N/A
+737345,"December 29, 2016",Michigan,"Muskegon (Norton Shores)","Norton Avenue and Henry Street",1,0,N/A
+738799,"December 29, 2016",Pennsylvania,Philadelphia,"Courtland St and Boudinot St",0,2,N/A
+740571,"December 29, 2016",Michigan,Detroit,"14000 block of Hampshire St",0,1,N/A
+737914,"December 29, 2016",Michigan,Detroit,"14000 block of Fordham",1,0,N/A
+737568,"December 29, 2016","New York",Troy,"150 5th Ave",0,1,N/A
+737856,"December 29, 2016",Missouri,"O Fallon","801 Belleau Creek Road",1,0,N/A
+1125164,"December 29, 2016",Florida,"Orange Park","455 Park Ave",0,0,N/A
+738336,"December 29, 2016",Texas,Lufkin,"500 block of FM 843",0,1,N/A
+736701,"December 29, 2016",Alabama,Enterprise,"200 block of Apache Drive",0,1,N/A
+737840,"December 29, 2016",Illinois,Springfield,"200 block of 12th Street",0,1,N/A
+737837,"December 29, 2016",Delaware,"Seaford (Blades)","West 2nd St",0,0,N/A
+737290,"December 29, 2016",Mississippi,"Macon (Prairie Point)","Buggs Ferry Road",1,0,N/A
+737834,"December 29, 2016",Mississippi,"Leake (county)","Midway Road",1,0,N/A
+737817,"December 29, 2016",Illinois,Peoria,"2700 block of West Malone Street",0,1,N/A
+738693,"December 29, 2016",Illinois,Peoria,"2519 W Starr St",0,2,N/A
+738725,"December 29, 2016",Missouri,Branson,N/A,0,0,N/A
+738723,"December 29, 2016","South Carolina",Eutawville,"Craig St",0,0,N/A
+737336,"December 29, 2016",Kentucky,Lexington,"780 Faulkner Avenue",1,0,N/A
+738706,"December 29, 2016",Kentucky,Owensboro,"W 5th and Sycamore St",0,1,N/A
+823129,"December 29, 2016",Texas,Longview,"2100 block of Airline Dr",0,0,N/A
+738655,"December 29, 2016",Massachusetts,Brockton,"9 Emerald St",0,0,N/A
+737488,"December 29, 2016",Ohio,Cleveland,"4900 block of Biddulph Road",1,0,N/A
