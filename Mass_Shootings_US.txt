@@ -1,6 +1,6 @@
 
 # DDL
-CREATE DATABASE trump
+CREATE DATABASE MassShootings
 
 # DML
 # CONTEXT-DATABASE: trump
