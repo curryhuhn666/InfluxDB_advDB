@@ -5,503 +5,503 @@ CREATE DATABASE Trumpv2
 # DML
 # CONTEXT-DATABASE: Trumpv2
 
-shooting IncidentID=1021362,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Kilgore",Address="1910 Meadowgreen Dr",Killed=1,Injured=0,Operations="nan" 1514682000.0
-shooting IncidentID=1017727,IncidentDate="December 31, 2017",State="Tennessee",CityOrCounty="Nashville",Address="I 65 and Trinity Lane",Killed=1,Injured=1,Operations="nan" 1514685600.0
-shooting IncidentID=1018010,IncidentDate="December 31, 2017",State="Alabama",CityOrCounty="Huntsville",Address="1409 Lancewood Dr NW",Killed=0,Injured=1,Operations="nan" 1514689200.0
-shooting IncidentID=1023659,IncidentDate="December 31, 2017",State="North Carolina",CityOrCounty="Elizabethtown",Address="968 Jacobs Loop Rd",Killed=0,Injured=1,Operations="nan" 1514692800.0
-shooting IncidentID=1020322,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Urbana",Address="1365 N Lincoln Ave",Killed=0,Injured=1,Operations="nan" 1514696400.0
-shooting IncidentID=1017993,IncidentDate="December 31, 2017",State="Georgia",CityOrCounty="Atlanta",Address="Glenwood Ave",Killed=0,Injured=1,Operations="nan" 1514700000.0
-shooting IncidentID=1020019,IncidentDate="December 31, 2017",State="Washington",CityOrCounty="Marysville",Address="5115 84th St NE",Killed=0,Injured=0,Operations="nan" 1514703600.0
-shooting IncidentID=1017947,IncidentDate="December 31, 2017",State="Michigan",CityOrCounty="Ypsilanti",Address="Cliffs Dr",Killed=1,Injured=0,Operations="nan" 1514707200.0
-shooting IncidentID=1017986,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Lubbock",Address="6002 Slide Rd",Killed=0,Injured=0,Operations="nan" 1514710800.0
-shooting IncidentID=1018774,IncidentDate="December 31, 2017",State="Virginia",CityOrCounty="Chesapeake",Address="600 block of Happy Acres",Killed=0,Injured=1,Operations="nan" 1514714400.0
-shooting IncidentID=1018763,IncidentDate="December 31, 2017",State="Arkansas",CityOrCounty="Fayetteville",Address="3215 N Northhills Blvd",Killed=0,Injured=0,Operations="nan" 1514718000.0
-shooting IncidentID=1017868,IncidentDate="December 31, 2017",State="Oklahoma",CityOrCounty="Oklahoma City",Address="1111 S Eastern Ave",Killed=0,Injured=1,Operations="nan" 1514721600.0
-shooting IncidentID=1017484,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Orlando",Address="I-4 and Kirkman Rd",Killed=0,Injured=3,Operations="nan" 1514725200.0
-shooting IncidentID=1017977,IncidentDate="December 31, 2017",State="Minnesota",CityOrCounty="Stillwater (Oak Park Heights)",Address="14800 block of 57th St N",Killed=0,Injured=0,Operations="nan" 1514728800.0
-shooting IncidentID=1052098,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="San Antonio",Address="1600 block of Mardell St",Killed=1,Injured=0,Operations="nan" 1514732400.0
-shooting IncidentID=1161485,IncidentDate="December 31, 2017",State="Arkansas",CityOrCounty="North Little Rock",Address="5612 John F Kennedy Blvd",Killed=0,Injured=0,Operations="nan" 1514736000.0
-shooting IncidentID=1078962,IncidentDate="December 31, 2017",State="North Carolina",CityOrCounty="Engelhard",Address="N Lake Rd",Killed=0,Injured=0,Operations="nan" 1514739600.0
-shooting IncidentID=1019108,IncidentDate="December 31, 2017",State="Colorado",CityOrCounty="Denver",Address="214 S Federal Blvd",Killed=1,Injured=0,Operations="nan" 1514743200.0
-shooting IncidentID=1017997,IncidentDate="December 31, 2017",State="Missouri",CityOrCounty="Florissant",Address="11300 block of Bristol Rock Rd",Killed=1,Injured=0,Operations="nan" 1514746800.0
-shooting IncidentID=1017788,IncidentDate="December 31, 2017",State="New York",CityOrCounty="Brooklyn",Address="E 15th St and Ave S",Killed=0,Injured=1,Operations="nan" 1514750400.0
-shooting IncidentID=1031302,IncidentDate="December 31, 2017",State="California",CityOrCounty="Northridge",Address="8644 Balboa Blvd",Killed=1,Injured=0,Operations="nan" 1514754000.0
-shooting IncidentID=1025819,IncidentDate="December 31, 2017",State="South Carolina",CityOrCounty="Florence",Address="500 S Ballard St",Killed=1,Injured=0,Operations="nan" 1514757600.0
-shooting IncidentID=1019944,IncidentDate="December 31, 2017",State="California",CityOrCounty="San Diego",Address="Teak St and S 38th Street",Killed=1,Injured=0,Operations="nan" 1514761200.0
-shooting IncidentID=1018459,IncidentDate="December 31, 2017",State="Missouri",CityOrCounty="Columbia",Address="1612 N Providence Rd",Killed=0,Injured=0,Operations="nan" 1514764800.0
-shooting IncidentID=1021272,IncidentDate="December 31, 2017",State="Georgia",CityOrCounty="Mableton",Address="Felton Ln",Killed=0,Injured=0,Operations="nan" 1514768400.0
-shooting IncidentID=1018456,IncidentDate="December 31, 2017",State="California",CityOrCounty="Bakersfield",Address="1101 E Belle Ter",Killed=0,Injured=0,Operations="nan" 1514772000.0
-shooting IncidentID=1017714,IncidentDate="December 31, 2017",State="California",CityOrCounty="Los Angeles",Address="869 S Western Ave",Killed=0,Injured=1,Operations="nan" 1514775600.0
-shooting IncidentID=1017976,IncidentDate="December 31, 2017",State="Minnesota",CityOrCounty="Minneapolis",Address="3200 block of Polk St NE",Killed=0,Injured=0,Operations="nan" 1514779200.0
-shooting IncidentID=1018229,IncidentDate="December 31, 2017",State="Georgia",CityOrCounty="Augusta",Address="1814 Fayetteville Dr",Killed=1,Injured=0,Operations="nan" 1514782800.0
-shooting IncidentID=1017975,IncidentDate="December 31, 2017",State="Minnesota",CityOrCounty="Minneapolis",Address="2400 block of Plymouth Ave N",Killed=0,Injured=0,Operations="nan" 1514786400.0
-shooting IncidentID=1018693,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="San Antonio",Address="1227 Quintana Rd",Killed=0,Injured=0,Operations="nan" 1514790000.0
-shooting IncidentID=1017954,IncidentDate="December 31, 2017",State="North Carolina",CityOrCounty="Charlotte",Address="500 Block of Capps Hill Mine Rd",Killed=0,Injured=1,Operations="nan" 1514793600.0
-shooting IncidentID=1017956,IncidentDate="December 31, 2017",State="North Carolina",CityOrCounty="Charlotte",Address="6600 Block of Elgywood Ln",Killed=0,Injured=1,Operations="nan" 1514797200.0
-shooting IncidentID=1017749,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Fort Worth",Address="5800 block of Hiett Ct",Killed=0,Injured=2,Operations="nan" 1514800800.0
-shooting IncidentID=1018661,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Joliet",Address="900 Rosalind St",Killed=2,Injured=0,Operations="nan" 1514804400.0
-shooting IncidentID=1019967,IncidentDate="December 31, 2017",State="California",CityOrCounty="Richmond",Address="600 block of South 21st St",Killed=0,Injured=0,Operations="nan" 1514808000.0
-shooting IncidentID=1017958,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Chicago",Address="7300 S Sangamon St",Killed=0,Injured=1,Operations="nan" 1514811600.0
-shooting IncidentID=1017764,IncidentDate="December 31, 2017",State="California",CityOrCounty="Delano",Address="2100 block of Norwalk St",Killed=1,Injured=0,Operations="nan" 1514815200.0
-shooting IncidentID=1020131,IncidentDate="December 31, 2017",State="Massachusetts",CityOrCounty="Canton",Address="Randolph St",Killed=0,Injured=0,Operations="nan" 1514818800.0
-shooting IncidentID=1021222,IncidentDate="December 31, 2017",State="Washington",CityOrCounty="University Place",Address="6300 block of 54th St W",Killed=0,Injured=0,Operations="nan" 1514822400.0
-shooting IncidentID=1017945,IncidentDate="December 31, 2017",State="Oregon",CityOrCounty="Eugene",Address="W 13th Ave and Polk St",Killed=0,Injured=0,Operations="nan" 1514826000.0
-shooting IncidentID=1064707,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Hillsborough (county)",Address="nan",Killed=0,Injured=0,Operations="nan" 1514829600.0
-shooting IncidentID=1018532,IncidentDate="December 31, 2017",State="Virginia",CityOrCounty="Hopewell",Address="2400 block of Wakefield Street",Killed=1,Injured=0,Operations="nan" 1514833200.0
-shooting IncidentID=1018079,IncidentDate="December 31, 2017",State="Nevada",CityOrCounty="Las Vegas",Address="4800 block of Chantilly Ave",Killed=1,Injured=0,Operations="nan" 1514836800.0
-shooting IncidentID=1018282,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Austin",Address="4800 block of Doss Rd",Killed=1,Injured=0,Operations="nan" 1514840400.0
-shooting IncidentID=1019020,IncidentDate="December 31, 2017",State="Mississippi",CityOrCounty="Cleveland",Address="nan",Killed=1,Injured=0,Operations="nan" 1514844000.0
-shooting IncidentID=1017876,IncidentDate="December 31, 2017",State="Massachusetts",CityOrCounty="Boston",Address="Blue Hill Ave and Sunderland St",Killed=0,Injured=0,Operations="nan" 1514847600.0
-shooting IncidentID=1018218,IncidentDate="December 31, 2017",State="New Jersey",CityOrCounty="Trenton",Address="100 block of Brown St",Killed=1,Injured=1,Operations="nan" 1514851200.0
-shooting IncidentID=1133679,IncidentDate="December 31, 2017",State="South Carolina",CityOrCounty="Myrtle Beach",Address="3506 US 501",Killed=0,Injured=0,Operations="nan" 1514854800.0
-shooting IncidentID=1017597,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Chicago",Address="nan",Killed=0,Injured=1,Operations="nan" 1514858400.0
-shooting IncidentID=1019687,IncidentDate="December 31, 2017",State="Wisconsin",CityOrCounty="Sheboygan",Address="1500 block of Martin Ave",Killed=0,Injured=0,Operations="nan" 1514862000.0
-shooting IncidentID=1018718,IncidentDate="December 31, 2017",State="New Jersey",CityOrCounty="Annandale",Address="31 Petticoat Ln",Killed=0,Injured=1,Operations="nan" 1514865600.0
-shooting IncidentID=1018549,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Rockford",Address="Albert Ave and Blaisdell St",Killed=0,Injured=1,Operations="nan" 1514869200.0
-shooting IncidentID=1018580,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Rockford",Address="1100 Greenwood Ave",Killed=0,Injured=0,Operations="nan" 1514872800.0
-shooting IncidentID=1017372,IncidentDate="December 31, 2017",State="Colorado",CityOrCounty="Littleton (Highlands Ranch)",Address="3404 E County Line Rd",Killed=2,Injured=6,Operations="nan" 1514876400.0
-shooting IncidentID=1018424,IncidentDate="December 31, 2017",State="Utah",CityOrCounty="Magna",Address="2665 S 8990 W",Killed=2,Injured=0,Operations="nan" 1514880000.0
-shooting IncidentID=1040084,IncidentDate="December 31, 2017",State="Pennsylvania",CityOrCounty="Millersville",Address="300 block of W Juniata Parkway",Killed=0,Injured=0,Operations="nan" 1514883600.0
-shooting IncidentID=1022893,IncidentDate="December 31, 2017",State="California",CityOrCounty="Stockton",Address="800 Block of DuPont Dr",Killed=0,Injured=0,Operations="nan" 1514887200.0
-shooting IncidentID=1018405,IncidentDate="December 31, 2017",State="Louisiana",CityOrCounty="Shreveport",Address="Virginia Avenue",Killed=0,Injured=1,Operations="nan" 1514890800.0
-shooting IncidentID=1018396,IncidentDate="December 31, 2017",State="Louisiana",CityOrCounty="New Orleans",Address="North Villere Street and Gordon Street",Killed=0,Injured=1,Operations="nan" 1514894400.0
-shooting IncidentID=1018378,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="Sandusky",Address="Hancock St and Reese St",Killed=0,Injured=0,Operations="nan" 1514898000.0
-shooting IncidentID=1020462,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Decatur",Address="S Oakland Ave",Killed=0,Injured=1,Operations="nan" 1514901600.0
-shooting IncidentID=1017724,IncidentDate="December 31, 2017",State="Tennessee",CityOrCounty="Madison",Address="201 E Palestine Ave",Killed=1,Injured=0,Operations="nan" 1514905200.0
-shooting IncidentID=1020460,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Decatur",Address="Grand Ave",Killed=0,Injured=1,Operations="nan" 1514908800.0
-shooting IncidentID=1017606,IncidentDate="December 31, 2017",State="Indiana",CityOrCounty="Indianapolis",Address="5300 Acorn Ln",Killed=1,Injured=0,Operations="nan" 1514912400.0
-shooting IncidentID=1018307,IncidentDate="December 31, 2017",State="Mississippi",CityOrCounty="Magnolia",Address="1016 DL Jefferson Ln",Killed=1,Injured=0,Operations="nan" 1514916000.0
-shooting IncidentID=1017638,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="Cleveland",Address="Kenyon Ave and E 65th St",Killed=1,Injured=0,Operations="nan" 1514919600.0
-shooting IncidentID=1019165,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Highlands",Address="Mizell St",Killed=1,Injured=0,Operations="nan" 1514923200.0
-shooting IncidentID=1017477,IncidentDate="December 31, 2017",State="Kentucky",CityOrCounty="Louisville",Address="434 Eastern Pkwy",Killed=0,Injured=1,Operations="nan" 1514926800.0
-shooting IncidentID=1017406,IncidentDate="December 31, 2017",State="Virginia",CityOrCounty="Norfolk",Address="3700 block of Tait Terr",Killed=1,Injured=0,Operations="nan" 1514930400.0
-shooting IncidentID=1017888,IncidentDate="December 31, 2017",State="District of Columbia",CityOrCounty="Washington",Address="3200 block of Georgia Ave NW",Killed=0,Injured=1,Operations="nan" 1514934000.0
-shooting IncidentID=1018928,IncidentDate="December 31, 2017",State="West Virginia",CityOrCounty="Morgantown",Address="1824 Cassville-Mount Morris Rd",Killed=0,Injured=2,Operations="nan" 1514937600.0
-shooting IncidentID=1017760,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Boynton Beach",Address="200 Block of NW 3rd Ave",Killed=2,Injured=0,Operations="nan" 1514941200.0
-shooting IncidentID=1022743,IncidentDate="December 31, 2017",State="Maryland",CityOrCounty="Salisbury",Address="200 block of Winterborn Ln",Killed=0,Injured=0,Operations="nan" 1514944800.0
-shooting IncidentID=1017648,IncidentDate="December 31, 2017",State="Mississippi",CityOrCounty="Byram",Address="131 Handley Boulevard",Killed=0,Injured=1,Operations="nan" 1514948400.0
-shooting IncidentID=1021733,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="East Saint Louis",Address="2300 Ridge Ave",Killed=0,Injured=0,Operations="nan" 1514952000.0
-shooting IncidentID=1017644,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Houston",Address="14000 block of Park Row Dr",Killed=0,Injured=1,Operations="nan" 1514955600.0
-shooting IncidentID=1020965,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Saint Petersburg",Address="170 Beach Dr NE",Killed=0,Injured=1,Operations="nan" 1514959200.0
-shooting IncidentID=1019711,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Cape Coral",Address="5703 Cape Harbour Dr",Killed=0,Injured=0,Operations="nan" 1514962800.0
-shooting IncidentID=1017635,IncidentDate="December 31, 2017",State="Louisiana",CityOrCounty="Shreveport",Address="400 block of E 66th Street",Killed=0,Injured=0,Operations="nan" 1514966400.0
-shooting IncidentID=1018148,IncidentDate="December 31, 2017",State="Maryland",CityOrCounty="Baltimore",Address="500 block of S Bentalou St",Killed=0,Injured=0,Operations="nan" 1514970000.0
-shooting IncidentID=1018271,IncidentDate="December 31, 2017",State="District of Columbia",CityOrCounty="Washington",Address="600 block of Newton St NW",Killed=0,Injured=1,Operations="nan" 1514973600.0
-shooting IncidentID=1019170,IncidentDate="December 31, 2017",State="Kansas",CityOrCounty="Topeka",Address="1000 block of SW 33rd Terrace",Killed=0,Injured=0,Operations="nan" 1514977200.0
-shooting IncidentID=1019163,IncidentDate="December 31, 2017",State="Colorado",CityOrCounty="Colorado Springs",Address="7000 block of N Academy Blvd",Killed=0,Injured=1,Operations="nan" 1514980800.0
-shooting IncidentID=1018887,IncidentDate="December 31, 2017",State="Wisconsin",CityOrCounty="Milwaukee",Address="40th and Sheridan",Killed=1,Injured=0,Operations="nan" 1514984400.0
-shooting IncidentID=1018726,IncidentDate="December 31, 2017",State="Hawaii",CityOrCounty="Mililani",Address="nan",Killed=0,Injured=0,Operations="nan" 1514988000.0
-shooting IncidentID=1018259,IncidentDate="December 31, 2017",State="Connecticut",CityOrCounty="Hartford",Address="600 block of Blue Hills Ave",Killed=0,Injured=0,Operations="nan" 1514991600.0
-shooting IncidentID=1018257,IncidentDate="December 31, 2017",State="South Carolina",CityOrCounty="Greenville",Address="115 Rasor Dr",Killed=1,Injured=0,Operations="nan" 1514995200.0
-shooting IncidentID=1019673,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Fort Pierce",Address="300 Block of N 31st St",Killed=0,Injured=0,Operations="nan" 1514998800.0
-shooting IncidentID=1018252,IncidentDate="December 31, 2017",State="South Carolina",CityOrCounty="Columbia",Address="Coley Rd",Killed=1,Injured=0,Operations="nan" 1515002400.0
-shooting IncidentID=1019128,IncidentDate="December 31, 2017",State="California",CityOrCounty="West Sacramento",Address="1050 W Capitol Ave",Killed=3,Injured=0,Operations="nan" 1515006000.0
-shooting IncidentID=1019120,IncidentDate="December 31, 2017",State="Indiana",CityOrCounty="Evansville",Address="1500 Joyce Ave",Killed=0,Injured=1,Operations="nan" 1515009600.0
-shooting IncidentID=1017377,IncidentDate="December 31, 2017",State="California",CityOrCounty="Winnetka",Address="6900 block of Oakdale Ave",Killed=0,Injured=1,Operations="nan" 1515013200.0
-shooting IncidentID=1017799,IncidentDate="December 31, 2017",State="California",CityOrCounty="Vallejo",Address="Tennessee St and Tuolumne St",Killed=0,Injured=0,Operations="nan" 1515016800.0
-shooting IncidentID=1018855,IncidentDate="December 31, 2017",State="Georgia",CityOrCounty="Lithia Springs",Address="nan",Killed=0,Injured=0,Operations="nan" 1515020400.0
-shooting IncidentID=1022645,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Kankakee",Address="1000 E Willow S",Killed=0,Injured=0,Operations="nan" 1515024000.0
-shooting IncidentID=1020748,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Houston",Address="nan",Killed=0,Injured=0,Operations="nan" 1515027600.0
-shooting IncidentID=1019097,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="Youngstown",Address="700 block of Cassius Ave",Killed=0,Injured=0,Operations="nan" 1515031200.0
-shooting IncidentID=1019095,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="Youngstown",Address="3600 block of Neilson Ave",Killed=0,Injured=0,Operations="nan" 1515034800.0
-shooting IncidentID=1018845,IncidentDate="December 31, 2017",State="Colorado",CityOrCounty="Fort Lupton",Address="200 block of McKinley Ave",Killed=0,Injured=1,Operations="nan" 1515038400.0
-shooting IncidentID=1018224,IncidentDate="December 31, 2017",State="New Jersey",CityOrCounty="Camden",Address="600 block of Woodland St",Killed=1,Injured=0,Operations="nan" 1515042000.0
-shooting IncidentID=1017510,IncidentDate="December 31, 2017",State="Washington",CityOrCounty="Renton",Address="3200 block of SE 12th St",Killed=0,Injured=2,Operations="nan" 1515045600.0
-shooting IncidentID=1019212,IncidentDate="December 31, 2017",State="Kentucky",CityOrCounty="Robards",Address="11000 block of US 41",Killed=0,Injured=1,Operations="nan" 1515049200.0
-shooting IncidentID=1069150,IncidentDate="December 31, 2017",State="Delaware",CityOrCounty="Wilmington",Address="1300 block of Banning St",Killed=0,Injured=0,Operations="nan" 1515052800.0
-shooting IncidentID=1018216,IncidentDate="December 31, 2017",State="North Carolina",CityOrCounty="Sanford",Address="590 Nicole Dr",Killed=0,Injured=1,Operations="nan" 1515056400.0
-shooting IncidentID=1017652,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="Mechanicsburg",Address="9800 block of Loveless Rd",Killed=1,Injured=1,Operations="nan" 1515060000.0
-shooting IncidentID=1021518,IncidentDate="December 31, 2017",State="New Mexico",CityOrCounty="Mesilla Park",Address="9000 block of Clovis Rd",Killed=0,Injured=0,Operations="nan" 1515063600.0
-shooting IncidentID=1019407,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="Dayton (West Carrollton)",Address="300 block of Enxing Ave",Killed=2,Injured=0,Operations="nan" 1515067200.0
-shooting IncidentID=1018195,IncidentDate="December 31, 2017",State="Michigan",CityOrCounty="Detroit",Address="Gratiot and 7 Mile",Killed=0,Injured=1,Operations="nan" 1515070800.0
-shooting IncidentID=1018193,IncidentDate="December 31, 2017",State="Michigan",CityOrCounty="Detroit",Address="Dix and Woodmere",Killed=0,Injured=1,Operations="nan" 1515074400.0
-shooting IncidentID=1019420,IncidentDate="December 31, 2017",State="Washington",CityOrCounty="Seattle",Address="nan",Killed=0,Injured=0,Operations="nan" 1515078000.0
-shooting IncidentID=1018104,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Chicago",Address="11500 S State St",Killed=0,Injured=2,Operations="nan" 1515081600.0
-shooting IncidentID=1018172,IncidentDate="December 31, 2017",State="New York",CityOrCounty="Buffalo",Address="100 block of Oakmont Ave",Killed=0,Injured=1,Operations="nan" 1515085200.0
-shooting IncidentID=1018157,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Fort Lauderdale (Lauderhill)",Address="5300 Block of NW 17th Ct",Killed=1,Injured=0,Operations="nan" 1515088800.0
-shooting IncidentID=1018168,IncidentDate="December 31, 2017",State="New York",CityOrCounty="Rochester",Address="Walnut St",Killed=0,Injured=0,Operations="nan" 1515092400.0
-shooting IncidentID=1018786,IncidentDate="December 31, 2017",State="Virginia",CityOrCounty="Norfolk",Address="300 block of Virginian Dr",Killed=1,Injured=1,Operations="nan" 1515096000.0
-shooting IncidentID=1019018,IncidentDate="December 31, 2017",State="Mississippi",CityOrCounty="Tupelo",Address="Spring Street",Killed=0,Injured=1,Operations="nan" 1515099600.0
-shooting IncidentID=1018317,IncidentDate="December 31, 2017",State="Pennsylvania",CityOrCounty="York",Address="100 block of W Maple St",Killed=0,Injured=1,Operations="nan" 1515103200.0
-shooting IncidentID=1019007,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Pensacola",Address="2607 E Olive Rd",Killed=0,Injured=0,Operations="nan" 1515106800.0
-shooting IncidentID=1033116,IncidentDate="December 31, 2017",State="Indiana",CityOrCounty="Indianapolis",Address="6700 block of W Hollow Run Dr",Killed=0,Injured=0,Operations="nan" 1515110400.0
-shooting IncidentID=1036643,IncidentDate="December 31, 2017",State="New York",CityOrCounty="Bronx",Address="nan",Killed=0,Injured=1,Operations="nan" 1515114000.0
-shooting IncidentID=1017422,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Chicago",Address="2335 Howard St",Killed=0,Injured=4,Operations="nan" 1515117600.0
-shooting IncidentID=1019612,IncidentDate="December 31, 2017",State="Alabama",CityOrCounty="Birmingham",Address="10th Street South",Killed=0,Injured=0,Operations="nan" 1515121200.0
-shooting IncidentID=1019604,IncidentDate="December 31, 2017",State="Alabama",CityOrCounty="Opp",Address="Mullins Street",Killed=0,Injured=1,Operations="nan" 1515124800.0
-shooting IncidentID=1017393,IncidentDate="December 31, 2017",State="West Virginia",CityOrCounty="Flemington",Address="45 High St",Killed=1,Injured=0,Operations="nan" 1515128400.0
-shooting IncidentID=1020900,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Fort Pierce",Address="601 N 25th St",Killed=0,Injured=1,Operations="nan" 1515132000.0
-shooting IncidentID=1020202,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="South Webster",Address="500 block of Jackson Fork Rd",Killed=0,Injured=1,Operations="nan" 1515135600.0
-shooting IncidentID=1020146,IncidentDate="December 31, 2017",State="Georgia",CityOrCounty="Snellville",Address="1500 block of Scenic Hwy N",Killed=0,Injured=1,Operations="nan" 1515139200.0
-shooting IncidentID=1018101,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Chicago",Address="1900 S Sawyer Ave",Killed=0,Injured=1,Operations="nan" 1515142800.0
-shooting IncidentID=1020867,IncidentDate="December 31, 2017",State="Kansas",CityOrCounty="Topeka",Address="300 block of SE 36th St",Killed=0,Injured=0,Operations="nan" 1515146400.0
-shooting IncidentID=1018336,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="Groveport",Address="4000 block of Yukon Ave",Killed=1,Injured=0,Operations="nan" 1515150000.0
-shooting IncidentID=1019342,IncidentDate="December 31, 2017",State="Georgia",CityOrCounty="Cartersville",Address="2 Cain Dr",Killed=0,Injured=0,Operations="nan" 1515153600.0
-shooting IncidentID=1021943,IncidentDate="December 31, 2017",State="Alabama",CityOrCounty="Selma",Address="300 block of Gaines Avenue",Killed=0,Injured=1,Operations="nan" 1515157200.0
-shooting IncidentID=1021938,IncidentDate="December 31, 2017",State="Alabama",CityOrCounty="Selma",Address="1700 block of Water Avenue",Killed=0,Injured=2,Operations="nan" 1515160800.0
-shooting IncidentID=1018083,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Houston",Address="1200 Louisiana St",Killed=0,Injured=0,Operations="nan" 1515164400.0
-shooting IncidentID=1020177,IncidentDate="December 31, 2017",State="South Carolina",CityOrCounty="Orangeburg",Address="Clarendon St",Killed=0,Injured=0,Operations="nan" 1515168000.0
-shooting IncidentID=1018059,IncidentDate="December 31, 2017",State="Alaska",CityOrCounty="Anchorage",Address="1000 block of West 26th Ave",Killed=0,Injured=0,Operations="nan" 1515171600.0
-shooting IncidentID=1018932,IncidentDate="December 31, 2017",State="Massachusetts",CityOrCounty="Marblehead",Address="Arrowhead Rd",Killed=0,Injured=0,Operations="nan" 1515175200.0
-shooting IncidentID=1018043,IncidentDate="December 31, 2017",State="New York",CityOrCounty="Rochester",Address="Ackerman St",Killed=0,Injured=0,Operations="nan" 1515178800.0
-shooting IncidentID=1018118,IncidentDate="December 31, 2017",State="New Jersey",CityOrCounty="Long Branch",Address="635 Wall St",Killed=4,Injured=0,Operations="nan" 1515182400.0
-shooting IncidentID=1018038,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Dallas",Address="3600 block of Odessa St",Killed=0,Injured=0,Operations="nan" 1515186000.0
-shooting IncidentID=1017855,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Orlando",Address="I-4 and Conroy Rd",Killed=0,Injured=2,Operations="nan" 1515189600.0
-shooting IncidentID=1017545,IncidentDate="December 31, 2017",State="Pennsylvania",CityOrCounty="Harrisburg",Address="1900 block of Brookwood St",Killed=1,Injured=1,Operations="nan" 1515193200.0
-shooting IncidentID=1017914,IncidentDate="December 31, 2017",State="New Jersey",CityOrCounty="Newark",Address="2nd St and Central Ave",Killed=1,Injured=0,Operations="nan" 1515196800.0
-shooting IncidentID=1018373,IncidentDate="December 31, 2017",State="Nevada",CityOrCounty="Las Vegas",Address="Alexander Rd and Lamb Blvd",Killed=1,Injured=0,Operations="nan" 1515200400.0
-shooting IncidentID=1018032,IncidentDate="December 31, 2017",State="South Carolina",CityOrCounty="Columbia",Address="Bluff Rd",Killed=1,Injured=0,Operations="nan" 1515204000.0
-shooting IncidentID=1018151,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Jacksonville",Address="34th St and Wilson St",Killed=1,Injured=0,Operations="nan" 1515207600.0
-shooting IncidentID=1018019,IncidentDate="December 31, 2017",State="Nevada",CityOrCounty="Las Vegas",Address="1200 block of Parliament Pl",Killed=0,Injured=1,Operations="nan" 1515211200.0
-shooting IncidentID=1026102,IncidentDate="December 31, 2017",State="Oklahoma",CityOrCounty="Enid",Address="1610 S Van Buren St",Killed=0,Injured=0,Operations="nan" 1515214800.0
-shooting IncidentID=1018016,IncidentDate="December 31, 2017",State="California",CityOrCounty="Los Angeles",Address="5600 San Vicente Blvd",Killed=0,Injured=1,Operations="nan" 1515218400.0
-shooting IncidentID=1018261,IncidentDate="December 31, 2017",State="Massachusetts",CityOrCounty="Lawrence",Address="170 Reservoir St",Killed=1,Injured=0,Operations="nan" 1515222000.0
-shooting IncidentID=1018014,IncidentDate="December 31, 2017",State="South Carolina",CityOrCounty="Florence",Address="200 Block of E Liberty St",Killed=0,Injured=0,Operations="nan" 1515225600.0
-shooting IncidentID=1018012,IncidentDate="December 31, 2017",State="Alabama",CityOrCounty="Mobile",Address="Rose Lane",Killed=0,Injured=1,Operations="nan" 1515229200.0
-shooting IncidentID=1016980,IncidentDate="December 30, 2017",State="Nevada",CityOrCounty="Las Vegas",Address="740 S Decatur Blvd",Killed=3,Injured=0,Operations="nan" 1515146400.0
-shooting IncidentID=1018000,IncidentDate="December 30, 2017",State="Texas",CityOrCounty="Corpus Christi",Address="802 Barry St",Killed=0,Injured=0,Operations="nan" 1515150000.0
-shooting IncidentID=1018862,IncidentDate="December 30, 2017",State="Kentucky",CityOrCounty="Lexington",Address="500 block of Ohio St",Killed=0,Injured=0,Operations="nan" 1515153600.0
-shooting IncidentID=1018827,IncidentDate="December 30, 2017",State="Indiana",CityOrCounty="Bloomington",Address="4300 block of E Paynetown Rd",Killed=0,Injured=1,Operations="nan" 1515157200.0
-shooting IncidentID=1016955,IncidentDate="December 30, 2017",State="Utah",CityOrCounty="Salt Lake City (South Salt Lake)",Address="2694 State St",Killed=0,Injured=1,Operations="nan" 1515160800.0
-shooting IncidentID=1017990,IncidentDate="December 30, 2017",State="Georgia",CityOrCounty="Atlanta",Address="2841 Greenbriar Pkwy SW",Killed=0,Injured=1,Operations="nan" 1515164400.0
-shooting IncidentID=1055854,IncidentDate="December 30, 2017",State="Kentucky",CityOrCounty="Paducah",Address="3100 block of Harrison St",Killed=0,Injured=0,Operations="nan" 1515168000.0
-shooting IncidentID=1017017,IncidentDate="December 30, 2017",State="Tennessee",CityOrCounty="Nashville",Address="3928 Patton Hill Rd",Killed=0,Injured=1,Operations="nan" 1515171600.0
-shooting IncidentID=1020032,IncidentDate="December 30, 2017",State="Oregon",CityOrCounty="Klamath Falls",Address="US 97 and Oregon Ave",Killed=0,Injured=0,Operations="nan" 1515175200.0
-shooting IncidentID=1020026,IncidentDate="December 30, 2017",State="North Carolina",CityOrCounty="Southmont",Address="214 Fern Creek Dr",Killed=0,Injured=0,Operations="nan" 1515178800.0
-shooting IncidentID=1017182,IncidentDate="December 30, 2017",State="Oregon",CityOrCounty="Portland",Address="13000 block of NE Prescott Dr",Killed=0,Injured=0,Operations="nan" 1515182400.0
-shooting IncidentID=1023602,IncidentDate="December 30, 2017",State="Washington",CityOrCounty="Auburn",Address="200 block of F St SW",Killed=1,Injured=0,Operations="nan" 1515186000.0
-shooting IncidentID=1017108,IncidentDate="December 30, 2017",State="Louisiana",CityOrCounty="New Orleans",Address="1800 block of Esplanade Ave",Killed=0,Injured=1,Operations="nan" 1515189600.0
-shooting IncidentID=1022368,IncidentDate="December 30, 2017",State="Massachusetts",CityOrCounty="Milford",Address="Colby Dr",Killed=0,Injured=0,Operations="nan" 1515193200.0
-shooting IncidentID=1020734,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Aurora",Address="1000 N Highland Ave",Killed=0,Injured=0,Operations="nan" 1515196800.0
-shooting IncidentID=1017974,IncidentDate="December 30, 2017",State="Minnesota",CityOrCounty="Saint Paul",Address="1345 Western Ave N",Killed=0,Injured=0,Operations="nan" 1515200400.0
-shooting IncidentID=1017968,IncidentDate="December 30, 2017",State="Minnesota",CityOrCounty="Burnsville",Address="Hilltop Rd and Circle Dr",Killed=1,Injured=0,Operations="nan" 1515204000.0
-shooting IncidentID=1019379,IncidentDate="December 30, 2017",State="Indiana",CityOrCounty="Lakeville",Address="305 S Michigan St",Killed=0,Injured=0,Operations="nan" 1515207600.0
-shooting IncidentID=1018044,IncidentDate="December 30, 2017",State="Massachusetts",CityOrCounty="Lawrence",Address="nan",Killed=0,Injured=0,Operations="nan" 1515211200.0
-shooting IncidentID=1017101,IncidentDate="December 30, 2017",State="Alabama",CityOrCounty="Springville",Address="I-59",Killed=0,Injured=1,Operations="nan" 1515214800.0
-shooting IncidentID=1018004,IncidentDate="December 30, 2017",State="Texas",CityOrCounty="Crowell",Address="407 North First St",Killed=1,Injured=0,Operations="nan" 1515218400.0
-shooting IncidentID=1017988,IncidentDate="December 30, 2017",State="North Carolina",CityOrCounty="Ernul",Address="585 Aurora Rd",Killed=1,Injured=1,Operations="nan" 1515222000.0
-shooting IncidentID=1021941,IncidentDate="December 30, 2017",State="Alabama",CityOrCounty="Selma",Address="nan",Killed=0,Injured=1,Operations="nan" 1515225600.0
-shooting IncidentID=1017946,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Sarasota",Address="2300 Block of University Pkwy",Killed=0,Injured=3,Operations="nan" 1515229200.0
-shooting IncidentID=1017143,IncidentDate="December 30, 2017",State="Maryland",CityOrCounty="Baltimore",Address="nan",Killed=0,Injured=1,Operations="nan" 1515232800.0
-shooting IncidentID=1017063,IncidentDate="December 30, 2017",State="California",CityOrCounty="Oakland",Address="3400 block of High St",Killed=1,Injured=0,Operations="nan" 1515236400.0
-shooting IncidentID=1018877,IncidentDate="December 30, 2017",State="Kansas",CityOrCounty="Wichita",Address="1500 block of N Gentry",Killed=0,Injured=1,Operations="nan" 1515240000.0
-shooting IncidentID=1019960,IncidentDate="December 30, 2017",State="California",CityOrCounty="Alameda",Address="300 block of Stardust Pl",Killed=0,Injured=0,Operations="nan" 1515243600.0
-shooting IncidentID=1017617,IncidentDate="December 30, 2017",State="Pennsylvania",CityOrCounty="York",Address="1400 W Market St",Killed=0,Injured=0,Operations="nan" 1515247200.0
-shooting IncidentID=1017940,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Tampa",Address="1806 N Nebraska Ave",Killed=1,Injured=1,Operations="nan" 1515250800.0
-shooting IncidentID=1017584,IncidentDate="December 30, 2017",State="Pennsylvania",CityOrCounty="Pittsburgh",Address="7000 block of Hermitage St",Killed=0,Injured=2,Operations="nan" 1515254400.0
-shooting IncidentID=1017720,IncidentDate="December 30, 2017",State="South Carolina",CityOrCounty="Charleston",Address="1385 Ashley River Rd",Killed=0,Injured=0,Operations="nan" 1515258000.0
-shooting IncidentID=1021774,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Mount Vernon",Address="103 Potomac Blvd",Killed=0,Injured=0,Operations="nan" 1515261600.0
-shooting IncidentID=1016919,IncidentDate="December 30, 2017",State="Ohio",CityOrCounty="Cleveland",Address="6700 block of Sebert Ave",Killed=1,Injured=0,Operations="nan" 1515265200.0
-shooting IncidentID=1017139,IncidentDate="December 30, 2017",State="Maryland",CityOrCounty="Baltimore",Address="2500 block of Edmondson Ave",Killed=0,Injured=0,Operations="nan" 1515268800.0
-shooting IncidentID=1017128,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Miami",Address="1704 NW 7th St",Killed=0,Injured=1,Operations="nan" 1515272400.0
-shooting IncidentID=1017902,IncidentDate="December 30, 2017",State="Oklahoma",CityOrCounty="Tulsa",Address="3300 E Pine St",Killed=0,Injured=1,Operations="nan" 1515276000.0
-shooting IncidentID=1022308,IncidentDate="December 30, 2017",State="Idaho",CityOrCounty="Mullan",Address="500 block of Pine St",Killed=0,Injured=0,Operations="nan" 1515279600.0
-shooting IncidentID=1017391,IncidentDate="December 30, 2017",State="California",CityOrCounty="Redwood City",Address="1900 Broadway",Killed=1,Injured=0,Operations="nan" 1515283200.0
-shooting IncidentID=1017872,IncidentDate="December 30, 2017",State="Massachusetts",CityOrCounty="Boston",Address="22 Edge Hill St",Killed=0,Injured=0,Operations="nan" 1515286800.0
-shooting IncidentID=1017834,IncidentDate="December 30, 2017",State="Nebraska",CityOrCounty="Omaha",Address="6015 Binney St",Killed=0,Injured=0,Operations="nan" 1515290400.0
-shooting IncidentID=1017235,IncidentDate="December 30, 2017",State="Connecticut",CityOrCounty="Manchester",Address="1540 Pleasant Valley Rd",Killed=1,Injured=0,Operations="nan" 1515294000.0
-shooting IncidentID=1017839,IncidentDate="December 30, 2017",State="Maryland",CityOrCounty="Baltimore",Address="600 block of N Glover St",Killed=0,Injured=1,Operations="nan" 1515297600.0
-shooting IncidentID=1017831,IncidentDate="December 30, 2017",State="Iowa",CityOrCounty="Muscatine",Address="Hershey Ave and Clinton St",Killed=0,Injured=0,Operations="nan" 1515301200.0
-shooting IncidentID=1017383,IncidentDate="December 30, 2017",State="California",CityOrCounty="San Pablo",Address="2800 block of Valencia Way",Killed=1,Injured=1,Operations="nan" 1515304800.0
-shooting IncidentID=1017829,IncidentDate="December 30, 2017",State="Maryland",CityOrCounty="Baltimore",Address="4200 block of Wabash Ave",Killed=0,Injured=1,Operations="nan" 1515308400.0
-shooting IncidentID=1017301,IncidentDate="December 30, 2017",State="Missouri",CityOrCounty="Saint Louis",Address="800 block of Riverview Blvd",Killed=0,Injured=1,Operations="nan" 1515312000.0
-shooting IncidentID=1018470,IncidentDate="December 30, 2017",State="California",CityOrCounty="Modesto",Address="601 N Franklin St",Killed=1,Injured=0,Operations="nan" 1515315600.0
-shooting IncidentID=1017497,IncidentDate="December 30, 2017",State="New York",CityOrCounty="Brooklyn",Address="214 Bristol St",Killed=0,Injured=1,Operations="nan" 1515319200.0
-shooting IncidentID=1017793,IncidentDate="December 30, 2017",State="California",CityOrCounty="Compton",Address="8000 block of Compton Ave",Killed=0,Injured=0,Operations="nan" 1515322800.0
-shooting IncidentID=1017786,IncidentDate="December 30, 2017",State="District of Columbia",CityOrCounty="Washington",Address="800 block of 8th St NE",Killed=0,Injured=1,Operations="nan" 1515326400.0
-shooting IncidentID=1021138,IncidentDate="December 30, 2017",State="Ohio",CityOrCounty="Donnelsville",Address="E Main St",Killed=0,Injured=0,Operations="nan" 1515330000.0
-shooting IncidentID=1017775,IncidentDate="December 30, 2017",State="California",CityOrCounty="Stockton",Address="500 Block of Marengo Ave",Killed=0,Injured=0,Operations="nan" 1515333600.0
-shooting IncidentID=1018480,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Peoria",Address="1100 S Matthew St",Killed=0,Injured=0,Operations="nan" 1515337200.0
-shooting IncidentID=1017773,IncidentDate="December 30, 2017",State="California",CityOrCounty="Stockton",Address="2200 Block of Manthey Rd",Killed=0,Injured=0,Operations="nan" 1515340800.0
-shooting IncidentID=1017770,IncidentDate="December 30, 2017",State="California",CityOrCounty="Stockton",Address="Access St and Tam O Shanter Dr",Killed=1,Injured=0,Operations="nan" 1515344400.0
-shooting IncidentID=1017038,IncidentDate="December 30, 2017",State="Virginia",CityOrCounty="Hopewell",Address="4100 block of Robert E Lee Dr",Killed=0,Injured=1,Operations="nan" 1515348000.0
-shooting IncidentID=1025768,IncidentDate="December 30, 2017",State="Wisconsin",CityOrCounty="Milwaukee",Address="Ogden Ave",Killed=0,Injured=0,Operations="nan" 1515351600.0
-shooting IncidentID=1017755,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Anna Maria",Address="Pine Ave and Gulf Dr",Killed=0,Injured=1,Operations="nan" 1515355200.0
-shooting IncidentID=1022012,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Palm Beach Gardens (Riviera Beach)",Address="Ave T",Killed=0,Injured=0,Operations="nan" 1515358800.0
-shooting IncidentID=1019328,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Rockford",Address="1400 S Main St",Killed=0,Injured=1,Operations="nan" 1515362400.0
-shooting IncidentID=1032117,IncidentDate="December 30, 2017",State="California",CityOrCounty="Los Angeles",Address="15228 S Avalon Blvd",Killed=0,Injured=2,Operations="nan" 1515366000.0
-shooting IncidentID=1017022,IncidentDate="December 30, 2017",State="Tennessee",CityOrCounty="Nashville",Address="707 19th Ave N",Killed=0,Injured=1,Operations="nan" 1515369600.0
-shooting IncidentID=1017070,IncidentDate="December 30, 2017",State="Indiana",CityOrCounty="Evansville",Address="5000 Monroe Ave",Killed=1,Injured=0,Operations="nan" 1515373200.0
-shooting IncidentID=1020746,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Aurora",Address="W Galena Blvd and S Stolp Ave",Killed=0,Injured=0,Operations="nan" 1515376800.0
-shooting IncidentID=1017010,IncidentDate="December 30, 2017",State="Texas",CityOrCounty="Dallas",Address="11111 Walnut Hill Ln",Killed=0,Injured=1,Operations="nan" 1515380400.0
-shooting IncidentID=1017003,IncidentDate="December 30, 2017",State="Kentucky",CityOrCounty="Lexington",Address="2300 block of Versailles Road",Killed=0,Injured=1,Operations="nan" 1515384000.0
-shooting IncidentID=1018402,IncidentDate="December 30, 2017",State="Louisiana",CityOrCounty="Scott",Address="1100 block of Roper Drive",Killed=0,Injured=1,Operations="nan" 1515387600.0
-shooting IncidentID=1018940,IncidentDate="December 30, 2017",State="New York",CityOrCounty="Attica",Address="Tooley Rd Exd",Killed=0,Injured=1,Operations="nan" 1515391200.0
-shooting IncidentID=1019469,IncidentDate="December 30, 2017",State="Iowa",CityOrCounty="Cedar Rapids",Address="1631 Bever Ave SE",Killed=0,Injured=1,Operations="nan" 1515394800.0
-shooting IncidentID=1017006,IncidentDate="December 30, 2017",State="Tennessee",CityOrCounty="Harriman",Address="200 block of Harding Road",Killed=1,Injured=0,Operations="nan" 1515398400.0
-shooting IncidentID=1019797,IncidentDate="December 30, 2017",State="California",CityOrCounty="Trinidad",Address="200 Big Lagoon Park Rd",Killed=0,Injured=0,Operations="nan" 1515402000.0
-shooting IncidentID=1017734,IncidentDate="December 30, 2017",State="Arkansas",CityOrCounty="Helena",Address="100 block of Oakland Street",Killed=1,Injured=1,Operations="nan" 1515405600.0
-shooting IncidentID=1016959,IncidentDate="December 30, 2017",State="Texas",CityOrCounty="Houston",Address="W Orem and Townwood",Killed=1,Injured=0,Operations="nan" 1515409200.0
-shooting IncidentID=1017980,IncidentDate="December 30, 2017",State="North Carolina",CityOrCounty="High Point",Address="523 Amos St",Killed=1,Injured=0,Operations="nan" 1515412800.0
-shooting IncidentID=1019775,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Bradenton",Address="600 Block of 22nd Ln E",Killed=0,Injured=0,Operations="nan" 1515416400.0
-shooting IncidentID=1016882,IncidentDate="December 30, 2017",State="South Carolina",CityOrCounty="Columbia",Address="300 block of Mapleview Drive",Killed=0,Injured=0,Operations="nan" 1515420000.0
-shooting IncidentID=1019242,IncidentDate="December 30, 2017",State="Arkansas",CityOrCounty="Little Rock",Address="4109 E 35th St",Killed=0,Injured=0,Operations="nan" 1515423600.0
-shooting IncidentID=1022804,IncidentDate="December 30, 2017",State="Arizona",CityOrCounty="Goodyear",Address="Pebble Creek Pkwy and Indian School Rd",Killed=0,Injured=0,Operations="nan" 1515427200.0
-shooting IncidentID=1017226,IncidentDate="December 30, 2017",State="Alaska",CityOrCounty="Anchorage",Address="100 block of Oklahoma St",Killed=1,Injured=0,Operations="nan" 1515430800.0
-shooting IncidentID=1019235,IncidentDate="December 30, 2017",State="Arkansas",CityOrCounty="Little Rock",Address="1500 block of Peyton St",Killed=0,Injured=1,Operations="nan" 1515434400.0
-shooting IncidentID=1017291,IncidentDate="December 30, 2017",State="Missouri",CityOrCounty="Saint Louis",Address="6412 Michigan Ave",Killed=0,Injured=3,Operations="nan" 1515438000.0
-shooting IncidentID=1017123,IncidentDate="December 30, 2017",State="Louisiana",CityOrCounty="New Orleans",Address="8700 block of Dinkins St",Killed=0,Injured=1,Operations="nan" 1515441600.0
-shooting IncidentID=1017260,IncidentDate="December 30, 2017",State="Kansas",CityOrCounty="Kansas City",Address="700 block of N 9th St",Killed=1,Injured=0,Operations="nan" 1515445200.0
-shooting IncidentID=1017151,IncidentDate="December 30, 2017",State="Maryland",CityOrCounty="District Heights",Address="3318 Walters Ln",Killed=1,Injured=0,Operations="nan" 1515448800.0
-shooting IncidentID=1016904,IncidentDate="December 30, 2017",State="New Jersey",CityOrCounty="Paterson",Address="Peach St and Plum St",Killed=0,Injured=1,Operations="nan" 1515452400.0
-shooting IncidentID=1017878,IncidentDate="December 30, 2017",State="Maryland",CityOrCounty="Baltimore",Address="1500 block of Shields Pl",Killed=0,Injured=0,Operations="nan" 1515456000.0
-shooting IncidentID=1022747,IncidentDate="December 30, 2017",State="Maryland",CityOrCounty="Salisbury",Address="E Church St",Killed=0,Injured=1,Operations="nan" 1515459600.0
-shooting IncidentID=1017636,IncidentDate="December 30, 2017",State="Louisiana",CityOrCounty="Shreveport",Address="900 block of Beauregard Drive",Killed=0,Injured=1,Operations="nan" 1515463200.0
-shooting IncidentID=1017615,IncidentDate="December 30, 2017",State="Arkansas",CityOrCounty="Little Rock",Address="2800 block of East Roosevelt Road",Killed=0,Injured=1,Operations="nan" 1515466800.0
-shooting IncidentID=1017609,IncidentDate="December 30, 2017",State="Arkansas",CityOrCounty="Little Rock",Address="2600 block of Booker Street",Killed=0,Injured=1,Operations="nan" 1515470400.0
-shooting IncidentID=1017591,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Chicago",Address="1400 N Lotus Ave",Killed=0,Injured=1,Operations="nan" 1515474000.0
-shooting IncidentID=1017086,IncidentDate="December 30, 2017",State="West Virginia",CityOrCounty="Charleston",Address="1300 block of Renaissance Cir",Killed=0,Injured=1,Operations="nan" 1515477600.0
-shooting IncidentID=1021377,IncidentDate="December 30, 2017",State="Texas",CityOrCounty="Hillsboro",Address="1000 block of E Walnut St",Killed=1,Injured=0,Operations="nan" 1515481200.0
-shooting IncidentID=1017573,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Chicago",Address="5300 W Ohio St",Killed=0,Injured=1,Operations="nan" 1515484800.0
-shooting IncidentID=1017571,IncidentDate="December 30, 2017",State="Missouri",CityOrCounty="Fulton",Address="500 block of Grand Ave",Killed=0,Injured=0,Operations="nan" 1515488400.0
-shooting IncidentID=1020342,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Kankakee",Address="600 N Harrison Ave",Killed=0,Injured=0,Operations="nan" 1515492000.0
-shooting IncidentID=1022923,IncidentDate="December 30, 2017",State="New Hampshire",CityOrCounty="Portsmouth",Address="Melcher St",Killed=0,Injured=0,Operations="nan" 1515495600.0
-shooting IncidentID=1017564,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Chicago",Address="300 S Kilbourn Ave",Killed=0,Injured=1,Operations="nan" 1515499200.0
-shooting IncidentID=1019693,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Fort Pierce",Address="N 33rd St and Angle Rd",Killed=0,Injured=0,Operations="nan" 1515502800.0
-shooting IncidentID=1019160,IncidentDate="December 30, 2017",State="California",CityOrCounty="San Bernardino",Address="Genevieve St and 34th St",Killed=0,Injured=0,Operations="nan" 1515506400.0
-shooting IncidentID=1019606,IncidentDate="December 30, 2017",State="Alabama",CityOrCounty="Athens",Address="Henry Drive",Killed=0,Injured=1,Operations="nan" 1515510000.0
-shooting IncidentID=1017544,IncidentDate="December 30, 2017",State="Kansas",CityOrCounty="Topeka",Address="3rd St and Lawrence St",Killed=0,Injured=0,Operations="nan" 1515513600.0
-shooting IncidentID=1017535,IncidentDate="December 30, 2017",State="Missouri",CityOrCounty="Independence",Address="14609 E Truman Rd",Killed=1,Injured=0,Operations="nan" 1515517200.0
-shooting IncidentID=1018848,IncidentDate="December 30, 2017",State="Minnesota",CityOrCounty="Minneapolis (Robbinsdale)",Address="3300 Oakdale Ave N",Killed=0,Injured=1,Operations="nan" 1515520800.0
-shooting IncidentID=1021290,IncidentDate="December 30, 2017",State="Georgia",CityOrCounty="Jackson (county)",Address="nan",Killed=0,Injured=0,Operations="nan" 1515524400.0
-shooting IncidentID=1025912,IncidentDate="December 30, 2017",State="Massachusetts",CityOrCounty="Cambridge",Address="Massachusetts Ave",Killed=0,Injured=0,Operations="nan" 1515528000.0
-shooting IncidentID=1016898,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Chicago",Address="3000 W Jackson Blvd",Killed=0,Injured=1,Operations="nan" 1515531600.0
-shooting IncidentID=1016895,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Chicago",Address="5700 W Washington Blvd",Killed=0,Injured=1,Operations="nan" 1515535200.0
-shooting IncidentID=1017815,IncidentDate="December 30, 2017",State="Iowa",CityOrCounty="Council Bluffs",Address="2701 23rd Ave",Killed=0,Injured=1,Operations="nan" 1515538800.0
-shooting IncidentID=1019646,IncidentDate="December 30, 2017",State="Wisconsin",CityOrCounty="Brookfield",Address="20150 W. Blue Mound Road",Killed=1,Injured=0,Operations="nan" 1515542400.0
-shooting IncidentID=1018573,IncidentDate="December 30, 2017",State="Oklahoma",CityOrCounty="Tishomingo",Address="Slippery Falls Rd and 3rd St",Killed=0,Injured=0,Operations="nan" 1515546000.0
-shooting IncidentID=1019557,IncidentDate="December 30, 2017",State="Hawaii",CityOrCounty="Pahoa",Address="Hee St",Killed=0,Injured=0,Operations="nan" 1515549600.0
-shooting IncidentID=1017276,IncidentDate="December 30, 2017",State="South Carolina",CityOrCounty="Florence",Address="155 W Lucas St",Killed=0,Injured=1,Operations="nan" 1515553200.0
-shooting IncidentID=1018186,IncidentDate="December 30, 2017",State="New Jersey",CityOrCounty="Eatontown",Address="Richardson Ave",Killed=0,Injured=0,Operations="nan" 1515556800.0
-shooting IncidentID=1017473,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Polk City",Address="9511 Evans Road",Killed=2,Injured=1,Operations="nan" 1515560400.0
-shooting IncidentID=1017880,IncidentDate="December 30, 2017",State="Oklahoma",CityOrCounty="Tulsa",Address="nan",Killed=0,Injured=1,Operations="nan" 1515564000.0
-shooting IncidentID=1019611,IncidentDate="December 30, 2017",State="Alabama",CityOrCounty="Gadsden",Address="1001 Rainbow Dr",Killed=0,Injured=0,Operations="nan" 1515567600.0
-shooting IncidentID=1017015,IncidentDate="December 30, 2017",State="Tennessee",CityOrCounty="Chattanooga",Address="nan",Killed=0,Injured=1,Operations="nan" 1515571200.0
-shooting IncidentID=1017180,IncidentDate="December 30, 2017",State="Washington",CityOrCounty="Vancouver",Address="12500 block of NE 28th St",Killed=1,Injured=0,Operations="nan" 1515574800.0
-shooting IncidentID=1017670,IncidentDate="December 30, 2017",State="Ohio",CityOrCounty="Columbus",Address="847 E 11th Ave",Killed=1,Injured=0,Operations="nan" 1515578400.0
-shooting IncidentID=1018951,IncidentDate="December 30, 2017",State="Alabama",CityOrCounty="Greensboro",Address="County Rd 16",Killed=1,Injured=0,Operations="nan" 1515582000.0
-shooting IncidentID=1017642,IncidentDate="December 30, 2017",State="Ohio",CityOrCounty="Cleveland",Address="Euclid Ave and E 79th St",Killed=1,Injured=0,Operations="nan" 1515585600.0
-shooting IncidentID=1019596,IncidentDate="December 30, 2017",State="Oklahoma",CityOrCounty="Tulsa",Address="10021 E 71st St",Killed=0,Injured=0,Operations="nan" 1515589200.0
-shooting IncidentID=1016864,IncidentDate="December 30, 2017",State="Connecticut",CityOrCounty="Bridgeport",Address="Astoria Ave and Laurel Ave",Killed=0,Injured=0,Operations="nan" 1515592800.0
-shooting IncidentID=1017366,IncidentDate="December 30, 2017",State="Massachusetts",CityOrCounty="Boston",Address="Elder St",Killed=0,Injured=1,Operations="nan" 1515596400.0
-shooting IncidentID=1017350,IncidentDate="December 30, 2017",State="Louisiana",CityOrCounty="Baton Rouge",Address="6224 Plank Rd.",Killed=2,Injured=0,Operations="nan" 1515600000.0
-shooting IncidentID=1017334,IncidentDate="December 30, 2017",State="Louisiana",CityOrCounty="Baton Rouge",Address="1400 block of Lake Callais Ct",Killed=0,Injured=1,Operations="nan" 1515603600.0
-shooting IncidentID=1018081,IncidentDate="December 30, 2017",State="Maine",CityOrCounty="Waterville",Address="Yeaton St",Killed=0,Injured=0,Operations="nan" 1515607200.0
-shooting IncidentID=1020184,IncidentDate="December 30, 2017",State="South Carolina",CityOrCounty="Florence",Address="900 Block of W Marion St",Killed=0,Injured=1,Operations="nan" 1515610800.0
-shooting IncidentID=1017319,IncidentDate="December 30, 2017",State="Colorado",CityOrCounty="Colorado Springs",Address="1300 block of Marsh Hawk Dr",Killed=0,Injured=1,Operations="nan" 1515614400.0
-shooting IncidentID=1020165,IncidentDate="December 30, 2017",State="South Carolina",CityOrCounty="Greenwood",Address="Sylvan Rd",Killed=0,Injured=0,Operations="nan" 1515618000.0
-shooting IncidentID=1017315,IncidentDate="December 30, 2017",State="Tennessee",CityOrCounty="Antioch",Address="2900 block of Brantley Drive",Killed=0,Injured=1,Operations="nan" 1515621600.0
-shooting IncidentID=1017312,IncidentDate="December 30, 2017",State="Mississippi",CityOrCounty="Jackson",Address="400 block of Bonita Street",Killed=1,Injured=0,Operations="nan" 1515625200.0
-shooting IncidentID=1017306,IncidentDate="December 30, 2017",State="Mississippi",CityOrCounty="Jackson",Address="212 Lindsey Drive",Killed=1,Injured=0,Operations="nan" 1515628800.0
-shooting IncidentID=1018071,IncidentDate="December 30, 2017",State="Alaska",CityOrCounty="Wasilla",Address="Pittman Road",Killed=0,Injured=0,Operations="nan" 1515632400.0
-shooting IncidentID=1017933,IncidentDate="December 30, 2017",State="Washington",CityOrCounty="Lynnwood",Address="16100 Ash Way",Killed=1,Injured=0,Operations="nan" 1515636000.0
-shooting IncidentID=1018028,IncidentDate="December 30, 2017",State="Virginia",CityOrCounty="Fredericksburg",Address="10950 Pierson Dr",Killed=0,Injured=0,Operations="nan" 1515639600.0
-shooting IncidentID=1017258,IncidentDate="December 30, 2017",State="Kansas",CityOrCounty="Kansas City",Address="1200 block of Kansas Ave",Killed=0,Injured=1,Operations="nan" 1515643200.0
-shooting IncidentID=1017254,IncidentDate="December 30, 2017",State="Massachusetts",CityOrCounty="Deerfield",Address="Greenfield Rd",Killed=0,Injured=0,Operations="nan" 1515646800.0
-shooting IncidentID=1017251,IncidentDate="December 30, 2017",State="Michigan",CityOrCounty="Detroit",Address="Evergreen Ave and Lyndon Ave",Killed=0,Injured=1,Operations="nan" 1515650400.0
-shooting IncidentID=1018023,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Belle Glade",Address="400 block of W Ave A",Killed=0,Injured=1,Operations="nan" 1515654000.0
-shooting IncidentID=1017228,IncidentDate="December 30, 2017",State="Arizona",CityOrCounty="Phoenix",Address="1503 W Missouri Ave",Killed=0,Injured=1,Operations="nan" 1515657600.0
-shooting IncidentID=1017058,IncidentDate="December 30, 2017",State="Virginia",CityOrCounty="Martinsville",Address="1105 Brookdale Rd",Killed=1,Injured=0,Operations="nan" 1515661200.0
-shooting IncidentID=1019353,IncidentDate="December 30, 2017",State="Georgia",CityOrCounty="Savannah",Address="Montgomery St and W Park Ave",Killed=1,Injured=0,Operations="nan" 1515664800.0
-shooting IncidentID=1016444,IncidentDate="December 29, 2017",State="Oklahoma",CityOrCounty="Hartshorne",Address="1200 block of Lehigh Ave",Killed=1,Injured=1,Operations="nan" 1515582000.0
-shooting IncidentID=1058735,IncidentDate="December 29, 2017",State="Georgia",CityOrCounty="Riverdale",Address="Lake Ridge Pkwy",Killed=1,Injured=0,Operations="nan" 1515585600.0
-shooting IncidentID=1016713,IncidentDate="December 29, 2017",State="Massachusetts",CityOrCounty="Taunton",Address="152 Dunbar St",Killed=0,Injured=0,Operations="nan" 1515589200.0
-shooting IncidentID=1016711,IncidentDate="December 29, 2017",State="Massachusetts",CityOrCounty="Boston",Address="4 Hecla St",Killed=0,Injured=0,Operations="nan" 1515592800.0
-shooting IncidentID=1045194,IncidentDate="December 29, 2017",State="Massachusetts",CityOrCounty="Boston",Address="920 Adams St",Killed=0,Injured=0,Operations="nan" 1515596400.0
-shooting IncidentID=1016824,IncidentDate="December 29, 2017",State="Kentucky",CityOrCounty="Leitchfield",Address="4334 Grayson Springs Rd",Killed=1,Injured=0,Operations="nan" 1515600000.0
-shooting IncidentID=1016447,IncidentDate="December 29, 2017",State="Texas",CityOrCounty="Houston",Address="14300 S Post Oak Rd",Killed=3,Injured=0,Operations="nan" 1515603600.0
-shooting IncidentID=1020060,IncidentDate="December 29, 2017",State="Texas",CityOrCounty="Houston",Address="5404 Nordling",Killed=1,Injured=0,Operations="nan" 1515607200.0
-shooting IncidentID=1018792,IncidentDate="December 29, 2017",State="New York",CityOrCounty="Niagara Falls",Address="1000 block of 20th St",Killed=0,Injured=0,Operations="nan" 1515610800.0
-shooting IncidentID=1025969,IncidentDate="December 29, 2017",State="Georgia",CityOrCounty="Atlanta",Address="1700 Block of Friar Tuck Rd",Killed=0,Injured=0,Operations="nan" 1515614400.0
-shooting IncidentID=1428055,IncidentDate="December 29, 2017",State="Iowa",CityOrCounty="Cedar Rapids",Address="nan",Killed=0,Injured=0,Operations="nan" 1515618000.0
-shooting IncidentID=1021018,IncidentDate="December 29, 2017",State="Minnesota",CityOrCounty="Morrison (county)",Address="nan",Killed=0,Injured=0,Operations="nan" 1515621600.0
-shooting IncidentID=1016651,IncidentDate="December 29, 2017",State="Virginia",CityOrCounty="Fieldale",Address="nan",Killed=0,Injured=0,Operations="nan" 1515625200.0
-shooting IncidentID=1019878,IncidentDate="December 29, 2017",State="New York",CityOrCounty="Monticello",Address="Pleasant St",Killed=0,Injured=0,Operations="nan" 1515628800.0
-shooting IncidentID=1016592,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Wilmington",Address="600 block of Campbell St",Killed=0,Injured=0,Operations="nan" 1515632400.0
-shooting IncidentID=1017962,IncidentDate="December 29, 2017",State="New Mexico",CityOrCounty="Albuquerque",Address="Central Ave and 14th St",Killed=0,Injured=0,Operations="nan" 1515636000.0
-shooting IncidentID=1016580,IncidentDate="December 29, 2017",State="Virginia",CityOrCounty="Richmond",Address="1030 German School Rd",Killed=0,Injured=0,Operations="nan" 1515639600.0
-shooting IncidentID=1016571,IncidentDate="December 29, 2017",State="Virginia",CityOrCounty="Richmond",Address="3000 block of Meadowbridge Rd",Killed=0,Injured=1,Operations="nan" 1515643200.0
-shooting IncidentID=1016560,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Fayetteville",Address="3060 block of Cumberland Rd",Killed=0,Injured=2,Operations="nan" 1515646800.0
-shooting IncidentID=1016400,IncidentDate="December 29, 2017",State="Maryland",CityOrCounty="Baltimore",Address="400 block of N East Ave",Killed=0,Injured=1,Operations="nan" 1515650400.0
-shooting IncidentID=1016838,IncidentDate="December 29, 2017",State="Indiana",CityOrCounty="Indianapolis",Address="W 25th St and Doctor MLK Jr St",Killed=0,Injured=1,Operations="nan" 1515654000.0
-shooting IncidentID=1017077,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Melbourne (West Melbourne)",Address="Palm Bay Rd and Norfolk Pkwy",Killed=0,Injured=1,Operations="nan" 1515657600.0
-shooting IncidentID=1054332,IncidentDate="December 29, 2017",State="Maryland",CityOrCounty="Salisbury",Address="800 block of Seminole Blvd",Killed=0,Injured=0,Operations="nan" 1515661200.0
-shooting IncidentID=1016526,IncidentDate="December 29, 2017",State="Tennessee",CityOrCounty="Chattanooga",Address="1800 block of E 4th St",Killed=0,Injured=1,Operations="nan" 1515664800.0
-shooting IncidentID=1028479,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Hollywood (Cooper City)",Address="nan",Killed=0,Injured=0,Operations="nan" 1515668400.0
-shooting IncidentID=1018006,IncidentDate="December 29, 2017",State="Mississippi",CityOrCounty="Wayne (county)",Address="nan",Killed=0,Injured=1,Operations="nan" 1515672000.0
-shooting IncidentID=1017103,IncidentDate="December 29, 2017",State="Kentucky",CityOrCounty="Paducah",Address="2400 Irvin Cobb Dr",Killed=0,Injured=0,Operations="nan" 1515675600.0
-shooting IncidentID=1016508,IncidentDate="December 29, 2017",State="Tennessee",CityOrCounty="Springfield",Address="20th Ave W",Killed=0,Injured=1,Operations="nan" 1515679200.0
-shooting IncidentID=1016506,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Rocky Mount",Address="2740 Stewart Ln",Killed=1,Injured=0,Operations="nan" 1515682800.0
-shooting IncidentID=1016246,IncidentDate="December 29, 2017",State="Texas",CityOrCounty="San Antonio",Address="4700 block of Belinda Lee St",Killed=1,Injured=0,Operations="nan" 1515686400.0
-shooting IncidentID=1016501,IncidentDate="December 29, 2017",State="Tennessee",CityOrCounty="Springfield",Address="15th Ave W",Killed=0,Injured=1,Operations="nan" 1515690000.0
-shooting IncidentID=1017126,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Miami",Address="NW 133rd St and NW 13th St",Killed=0,Injured=1,Operations="nan" 1515693600.0
-shooting IncidentID=1017119,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Hialeah",Address="7194 W 12th Ave",Killed=0,Injured=1,Operations="nan" 1515697200.0
-shooting IncidentID=1022307,IncidentDate="December 29, 2017",State="Idaho",CityOrCounty="Mullan",Address="500 block of Pine St",Killed=0,Injured=0,Operations="nan" 1515700800.0
-shooting IncidentID=1017117,IncidentDate="December 29, 2017",State="Mississippi",CityOrCounty="Wiggins",Address="Stennis Dr",Killed=0,Injured=0,Operations="nan" 1515704400.0
-shooting IncidentID=1017874,IncidentDate="December 29, 2017",State="Maryland",CityOrCounty="Baltimore",Address="3200 block of Powhatan Ave",Killed=0,Injured=0,Operations="nan" 1515708000.0
-shooting IncidentID=1016812,IncidentDate="December 29, 2017",State="Arkansas",CityOrCounty="Lonsdale",Address="2700 block of Highway 128",Killed=0,Injured=1,Operations="nan" 1515711600.0
-shooting IncidentID=1020930,IncidentDate="December 29, 2017",State="Mississippi",CityOrCounty="Booneville",Address="nan",Killed=0,Injured=0,Operations="nan" 1515715200.0
-shooting IncidentID=1017851,IncidentDate="December 29, 2017",State="Maryland",CityOrCounty="Frederick",Address="600 block of Heather Ridge Dr",Killed=0,Injured=1,Operations="nan" 1515718800.0
-shooting IncidentID=1016479,IncidentDate="December 29, 2017",State="Washington",CityOrCounty="Vancouver",Address="5113 NE 31st Ct",Killed=0,Injured=0,Operations="nan" 1515722400.0
-shooting IncidentID=1017825,IncidentDate="December 29, 2017",State="Georgia",CityOrCounty="Columbus",Address="1400 block of 24th St",Killed=0,Injured=3,Operations="nan" 1515726000.0
-shooting IncidentID=1017818,IncidentDate="December 29, 2017",State="Georgia",CityOrCounty="Columbus",Address="Lumpkin Ct",Killed=1,Injured=0,Operations="nan" 1515729600.0
-shooting IncidentID=1017165,IncidentDate="December 29, 2017",State="Delaware",CityOrCounty="Dover",Address="820 Carvel Dr",Killed=0,Injured=0,Operations="nan" 1515733200.0
-shooting IncidentID=1017805,IncidentDate="December 29, 2017",State="Nebraska",CityOrCounty="Lincoln",Address="N 68th St and Aylesworth Ave",Killed=0,Injured=0,Operations="nan" 1515736800.0
-shooting IncidentID=1118297,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Tallahassee",Address="3000 block of S Adams St",Killed=0,Injured=0,Operations="nan" 1515740400.0
-shooting IncidentID=1017298,IncidentDate="December 29, 2017",State="Missouri",CityOrCounty="Saint Louis",Address="2200 block of Keokuk St",Killed=0,Injured=2,Operations="nan" 1515744000.0
-shooting IncidentID=1016462,IncidentDate="December 29, 2017",State="California",CityOrCounty="Long Beach",Address="300 E San Antonio Dr",Killed=2,Injured=1,Operations="nan" 1515747600.0
-shooting IncidentID=1047023,IncidentDate="December 29, 2017",State="Colorado",CityOrCounty="Thornton",Address="11600 block of Riverdale Rd",Killed=1,Injured=0,Operations="nan" 1515751200.0
-shooting IncidentID=1017045,IncidentDate="December 29, 2017",State="California",CityOrCounty="Apple Valley",Address="14000 block of Navajo Rd",Killed=0,Injured=0,Operations="nan" 1515754800.0
-shooting IncidentID=1018322,IncidentDate="December 29, 2017",State="Ohio",CityOrCounty="Lorain",Address="1900 block of Madison Ave",Killed=1,Injured=0,Operations="nan" 1515758400.0
-shooting IncidentID=1038014,IncidentDate="December 29, 2017",State="Illinois",CityOrCounty="Mattoon",Address="Health Center Dr",Killed=0,Injured=0,Operations="nan" 1515762000.0
-shooting IncidentID=1019330,IncidentDate="December 29, 2017",State="Georgia",CityOrCounty="Athens",Address="135 Hoyt St",Killed=0,Injured=0,Operations="nan" 1515765600.0
-shooting IncidentID=1017026,IncidentDate="December 29, 2017",State="California",CityOrCounty="Santa Rosa",Address="1250 Hahman Dr",Killed=0,Injured=0,Operations="nan" 1515769200.0
-shooting IncidentID=1016865,IncidentDate="December 29, 2017",State="Illinois",CityOrCounty="Champaign",Address="County Rd 1800 N and N Rising Rd",Killed=0,Injured=0,Operations="nan" 1515772800.0
-shooting IncidentID=1140416,IncidentDate="December 29, 2017",State="California",CityOrCounty="Sacramento",Address="7800 block of Center Parkway",Killed=0,Injured=1,Operations="nan" 1515776400.0
-shooting IncidentID=1016836,IncidentDate="December 29, 2017",State="California",CityOrCounty="Los Angeles",Address="Hartford Ave",Killed=0,Injured=1,Operations="nan" 1515780000.0
-shooting IncidentID=1016428,IncidentDate="December 29, 2017",State="Louisiana",CityOrCounty="New Orleans",Address="Desire Street and North Derbigny Street",Killed=0,Injured=1,Operations="nan" 1515783600.0
-shooting IncidentID=1017966,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Chapel Hill",Address="400 Block of W Rosemary St",Killed=0,Injured=0,Operations="nan" 1515787200.0
-shooting IncidentID=1020524,IncidentDate="December 29, 2017",State="South Dakota",CityOrCounty="Brandon",Address="1400 block of S Lakota Ave",Killed=0,Injured=0,Operations="nan" 1515790800.0
-shooting IncidentID=1016349,IncidentDate="December 29, 2017",State="District of Columbia",CityOrCounty="Washington",Address="3900 block of 1st St SE",Killed=1,Injured=0,Operations="nan" 1515794400.0
-shooting IncidentID=1016796,IncidentDate="December 29, 2017",State="District of Columbia",CityOrCounty="Washington",Address="700 block of Fairmont St NW",Killed=0,Injured=2,Operations="nan" 1515798000.0
-shooting IncidentID=1017141,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Avon Park",Address="220 Garrett Rd",Killed=1,Injured=0,Operations="nan" 1515801600.0
-shooting IncidentID=1019245,IncidentDate="December 29, 2017",State="Delaware",CityOrCounty="Wilmington",Address="2800 block of Washington St",Killed=0,Injured=0,Operations="nan" 1515805200.0
-shooting IncidentID=1017710,IncidentDate="December 29, 2017",State="South Carolina",CityOrCounty="Rock Hill",Address="Saluda Road",Killed=0,Injured=0,Operations="nan" 1515808800.0
-shooting IncidentID=1016913,IncidentDate="December 29, 2017",State="New York",CityOrCounty="Commack",Address="6136 Jericho Turnpike",Killed=0,Injured=0,Operations="nan" 1515812400.0
-shooting IncidentID=1019627,IncidentDate="December 29, 2017",State="South Carolina",CityOrCounty="Bluffton",Address="nan",Killed=0,Injured=1,Operations="nan" 1515816000.0
-shooting IncidentID=1016846,IncidentDate="December 29, 2017",State="Missouri",CityOrCounty="Springfield",Address="2655 N Glenstone Ave",Killed=1,Injured=0,Operations="nan" 1515819600.0
-shooting IncidentID=1017841,IncidentDate="December 29, 2017",State="Maryland",CityOrCounty="Frederick",Address="500 block of Wellington Ct",Killed=0,Injured=0,Operations="nan" 1515823200.0
-shooting IncidentID=1089430,IncidentDate="December 29, 2017",State="Wisconsin",CityOrCounty="Raymond",Address="Waukesha Rd",Killed=0,Injured=0,Operations="nan" 1515826800.0
-shooting IncidentID=1017663,IncidentDate="December 29, 2017",State="Alabama",CityOrCounty="Montgomery",Address="3400 block of Norman Bridge Road",Killed=0,Injured=1,Operations="nan" 1515830400.0
-shooting IncidentID=1017408,IncidentDate="December 29, 2017",State="Virginia",CityOrCounty="Smithfield",Address="1205 S Church St",Killed=1,Injured=0,Operations="nan" 1515834000.0
-shooting IncidentID=1017308,IncidentDate="December 29, 2017",State="Mississippi",CityOrCounty="Jackson",Address="5400 block of Brookhollow Dr",Killed=1,Injured=0,Operations="nan" 1515837600.0
-shooting IncidentID=1019179,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Albemarle",Address="US 52 N",Killed=0,Injured=1,Operations="nan" 1515841200.0
-shooting IncidentID=1017624,IncidentDate="December 29, 2017",State="Arkansas",CityOrCounty="Monticello",Address="100 block of Cook Lane",Killed=0,Injured=1,Operations="nan" 1515844800.0
-shooting IncidentID=1022735,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Fort Walton Beach",Address="Holmes Blvd and Martisa Rd",Killed=0,Injured=0,Operations="nan" 1515848400.0
-shooting IncidentID=1016911,IncidentDate="December 29, 2017",State="New Jersey",CityOrCounty="Absecon",Address="200 block of E White Horse Pike",Killed=0,Injured=0,Operations="nan" 1515852000.0
-shooting IncidentID=1016889,IncidentDate="December 29, 2017",State="Illinois",CityOrCounty="Chicago",Address="12500 S Emerald Ave",Killed=1,Injured=1,Operations="nan" 1515855600.0
-shooting IncidentID=1040858,IncidentDate="December 29, 2017",State="Illinois",CityOrCounty="Alton",Address="1200 Central Ave",Killed=0,Injured=0,Operations="nan" 1515859200.0
-shooting IncidentID=1016324,IncidentDate="December 29, 2017",State="Ohio",CityOrCounty="Akron",Address="786 West Market St",Killed=0,Injured=1,Operations="nan" 1515862800.0
-shooting IncidentID=1017537,IncidentDate="December 29, 2017",State="Pennsylvania",CityOrCounty="Altoona",Address="58th St and 6th Ave",Killed=0,Injured=0,Operations="nan" 1515866400.0
-shooting IncidentID=1017033,IncidentDate="December 29, 2017",State="California",CityOrCounty="South Gate",Address="9800 block of Bowman Ave",Killed=1,Injured=0,Operations="nan" 1515870000.0
-shooting IncidentID=1019418,IncidentDate="December 29, 2017",State="Missouri",CityOrCounty="Saint Louis",Address="5300 block of Lucas-Hunt Rd",Killed=0,Injured=0,Operations="nan" 1515873600.0
-shooting IncidentID=1016892,IncidentDate="December 29, 2017",State="Illinois",CityOrCounty="Chicago",Address="1000 N Campbell Ave",Killed=0,Injured=1,Operations="nan" 1515877200.0
-shooting IncidentID=1019015,IncidentDate="December 29, 2017",State="Mississippi",CityOrCounty="Silver Creek",Address="US 84",Killed=0,Injured=1,Operations="nan" 1515880800.0
-shooting IncidentID=1021563,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Panama City",Address="Tower Rd",Killed=0,Injured=0,Operations="nan" 1515884400.0
-shooting IncidentID=1016273,IncidentDate="December 29, 2017",State="Illinois",CityOrCounty="Chicago",Address="2300 W Grand Ave",Killed=0,Injured=1,Operations="nan" 1515888000.0
-shooting IncidentID=1016261,IncidentDate="December 29, 2017",State="Illinois",CityOrCounty="Chicago",Address="7600 S Rhodes Ave",Killed=0,Injured=1,Operations="nan" 1515891600.0
-shooting IncidentID=1016570,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Reidsville",Address="101 Peony Ln",Killed=0,Injured=0,Operations="nan" 1515895200.0
-shooting IncidentID=1019632,IncidentDate="December 29, 2017",State="South Carolina",CityOrCounty="York",Address="Cripple Creek Dr",Killed=0,Injured=0,Operations="nan" 1515898800.0
-shooting IncidentID=1016880,IncidentDate="December 29, 2017",State="South Carolina",CityOrCounty="Columbia",Address="900 block of Walnut Street",Killed=0,Injured=1,Operations="nan" 1515902400.0
-shooting IncidentID=1016762,IncidentDate="December 29, 2017",State="Missouri",CityOrCounty="Saint Louis",Address="4900 block of Rosalie St",Killed=0,Injured=1,Operations="nan" 1515906000.0
-shooting IncidentID=1019461,IncidentDate="December 29, 2017",State="Iowa",CityOrCounty="Forest City",Address="nan",Killed=0,Injured=0,Operations="nan" 1515909600.0
-shooting IncidentID=1017243,IncidentDate="December 29, 2017",State="Indiana",CityOrCounty="South Bend",Address="nan",Killed=0,Injured=1,Operations="nan" 1515913200.0
-shooting IncidentID=1071050,IncidentDate="December 29, 2017",State="Oklahoma",CityOrCounty="Sallisaw",Address="nan",Killed=0,Injured=0,Operations="nan" 1515916800.0
-shooting IncidentID=1016829,IncidentDate="December 29, 2017",State="Georgia",CityOrCounty="Atlanta",Address="2727 Godby Rd",Killed=0,Injured=1,Operations="nan" 1515920400.0
-shooting IncidentID=1016612,IncidentDate="December 29, 2017",State="Oklahoma",CityOrCounty="Oklahoma City",Address="3900 block of SE 48th St",Killed=1,Injured=0,Operations="nan" 1515924000.0
-shooting IncidentID=1016231,IncidentDate="December 29, 2017",State="Oregon",CityOrCounty="Eugene",Address="446 Clark St",Killed=0,Injured=0,Operations="nan" 1515927600.0
-shooting IncidentID=1016222,IncidentDate="December 29, 2017",State="South Carolina",CityOrCounty="Columbia",Address="1727 Percival Rd",Killed=0,Injured=0,Operations="nan" 1515931200.0
-shooting IncidentID=1016871,IncidentDate="December 29, 2017",State="New York",CityOrCounty="Rochester",Address="Dewey Ave and Magee Ave",Killed=0,Injured=1,Operations="nan" 1515934800.0
-shooting IncidentID=1016182,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Miami",Address="NW 10th Ave and NW 36th St",Killed=0,Injured=1,Operations="nan" 1515938400.0
-shooting IncidentID=1017701,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Durham",Address="1100 block of Gurley St",Killed=0,Injured=1,Operations="nan" 1515942000.0
-shooting IncidentID=1016810,IncidentDate="December 29, 2017",State="California",CityOrCounty="Bakersfield",Address="Spectrum Park Way",Killed=1,Injured=0,Operations="nan" 1515945600.0
-shooting IncidentID=1017340,IncidentDate="December 29, 2017",State="Louisiana",CityOrCounty="Baton Rouge",Address="3800 Plank Road",Killed=0,Injured=1,Operations="nan" 1515949200.0
-shooting IncidentID=1016564,IncidentDate="December 29, 2017",State="Louisiana",CityOrCounty="Baton Rouge",Address="2400 block of Georgia Street",Killed=1,Injured=0,Operations="nan" 1515952800.0
-shooting IncidentID=1016430,IncidentDate="December 29, 2017",State="Louisiana",CityOrCounty="Baton Rouge",Address="3200 Plank Rd",Killed=1,Injured=0,Operations="nan" 1515956400.0
-shooting IncidentID=1016840,IncidentDate="December 29, 2017",State="Maine",CityOrCounty="Pittsfield",Address="858 Main St",Killed=0,Injured=0,Operations="nan" 1515960000.0
-shooting IncidentID=1031120,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Kinston",Address="E Washington Ave and Liberty Hill Rd",Killed=0,Injured=0,Operations="nan" 1515963600.0
-shooting IncidentID=1016833,IncidentDate="December 29, 2017",State="Louisiana",CityOrCounty="Marrero",Address="2800 block of Doreen Lane",Killed=0,Injured=1,Operations="nan" 1515967200.0
-shooting IncidentID=1016463,IncidentDate="December 29, 2017",State="Texas",CityOrCounty="San Antonio",Address="7300 Block of Marble Creek Dr",Killed=1,Injured=0,Operations="nan" 1515970800.0
-shooting IncidentID=1016822,IncidentDate="December 29, 2017",State="Arkansas",CityOrCounty="Little Rock",Address="Jennings Rd",Killed=0,Injured=0,Operations="nan" 1515974400.0
-shooting IncidentID=1017263,IncidentDate="December 29, 2017",State="South Carolina",CityOrCounty="Hartsville",Address="Primus Park Rd",Killed=0,Injured=0,Operations="nan" 1515978000.0
-shooting IncidentID=1016807,IncidentDate="December 29, 2017",State="California",CityOrCounty="Caruthers",Address="2388 W Tahoe Ave",Killed=0,Injured=2,Operations="nan" 1515981600.0
-shooting IncidentID=1016805,IncidentDate="December 29, 2017",State="California",CityOrCounty="Oakland",Address="5800 block of Bancroft Avenue",Killed=0,Injured=1,Operations="nan" 1515985200.0
-shooting IncidentID=1017632,IncidentDate="December 29, 2017",State="New Mexico",CityOrCounty="Albuquerque",Address="Central Ave SW and 14th St SW",Killed=0,Injured=0,Operations="nan" 1515988800.0
-shooting IncidentID=1016581,IncidentDate="December 29, 2017",State="Texas",CityOrCounty="Terrell",Address="301 Tanger Dr",Killed=0,Injured=1,Operations="nan" 1515992400.0
-shooting IncidentID=1017256,IncidentDate="December 29, 2017",State="Wisconsin",CityOrCounty="Milwaukee",Address="3300 block of W Vliet St",Killed=0,Injured=1,Operations="nan" 1515996000.0
-shooting IncidentID=1016908,IncidentDate="December 29, 2017",State="New Jersey",CityOrCounty="Trenton",Address="nan",Killed=0,Injured=0,Operations="nan" 1515999600.0
-shooting IncidentID=1017246,IncidentDate="December 29, 2017",State="Michigan",CityOrCounty="Detroit",Address="8600 block of Stahelin Ave",Killed=0,Injured=1,Operations="nan" 1516003200.0
-shooting IncidentID=1017883,IncidentDate="December 29, 2017",State="California",CityOrCounty="Banning",Address="700 block of Hoffer St",Killed=1,Injured=1,Operations="nan" 1516006800.0
-shooting IncidentID=1016764,IncidentDate="December 29, 2017",State="Connecticut",CityOrCounty="Bridgeport",Address="Trumbull Ave",Killed=0,Injured=0,Operations="nan" 1516010400.0
-shooting IncidentID=1016756,IncidentDate="December 29, 2017",State="Connecticut",CityOrCounty="Bridgeport",Address="4402 Main St",Killed=0,Injured=1,Operations="nan" 1516014000.0
-shooting IncidentID=1017233,IncidentDate="December 29, 2017",State="Colorado",CityOrCounty="Colorado Springs",Address="2000 block of Carmel Dr",Killed=0,Injured=1,Operations="nan" 1516017600.0
-shooting IncidentID=1016736,IncidentDate="December 29, 2017",State="California",CityOrCounty="Fontana",Address="11200 block of Poplar Ave",Killed=2,Injured=0,Operations="nan" 1516021200.0
-shooting IncidentID=1016264,IncidentDate="December 28, 2017",State="Texas",CityOrCounty="Houston",Address="5901 Selinsky Rd",Killed=1,Injured=2,Operations="nan" 1515938400.0
-shooting IncidentID=1015944,IncidentDate="December 28, 2017",State="North Carolina",CityOrCounty="Durham",Address="1200 Block of Wabash St",Killed=1,Injured=0,Operations="nan" 1515942000.0
-shooting IncidentID=1016731,IncidentDate="December 28, 2017",State="California",CityOrCounty="South Gate",Address="9800 block of Bowman Ave",Killed=1,Injured=0,Operations="nan" 1515945600.0
-shooting IncidentID=1016490,IncidentDate="December 28, 2017",State="Missouri",CityOrCounty="Saint Louis",Address="1700 block of Dick Gregory Pl",Killed=1,Injured=0,Operations="nan" 1515949200.0
-shooting IncidentID=1017539,IncidentDate="December 28, 2017",State="Pennsylvania",CityOrCounty="Brownsville",Address="253 3rd Ave",Killed=0,Injured=0,Operations="nan" 1515952800.0
-shooting IncidentID=1016129,IncidentDate="December 28, 2017",State="Pennsylvania",CityOrCounty="Dover",Address="3800 block of Kings Ln",Killed=1,Injured=0,Operations="nan" 1515956400.0
-shooting IncidentID=1015964,IncidentDate="December 28, 2017",State="Connecticut",CityOrCounty="New Haven",Address="300 block of Poplar St",Killed=0,Injured=1,Operations="nan" 1515960000.0
-shooting IncidentID=1015963,IncidentDate="December 28, 2017",State="Connecticut",CityOrCounty="Westport",Address="Merritt Pkwy",Killed=0,Injured=0,Operations="nan" 1515963600.0
-shooting IncidentID=1015956,IncidentDate="December 28, 2017",State="California",CityOrCounty="Stockton",Address="1100 Block of E Hazelton Ave",Killed=0,Injured=0,Operations="nan" 1515967200.0
-shooting IncidentID=1016678,IncidentDate="December 28, 2017",State="Massachusetts",CityOrCounty="Boston",Address="3091 Washington St",Killed=0,Injured=0,Operations="nan" 1515970800.0
-shooting IncidentID=1016477,IncidentDate="December 28, 2017",State="Oregon",CityOrCounty="Brookings",Address="15441 Oceanview Dr",Killed=0,Injured=1,Operations="nan" 1515974400.0
-shooting IncidentID=1016662,IncidentDate="December 28, 2017",State="South Carolina",CityOrCounty="Columbia",Address="100 block of Silo Ct",Killed=0,Injured=1,Operations="nan" 1515978000.0
-shooting IncidentID=1015803,IncidentDate="December 28, 2017",State="California",CityOrCounty="Bakersfield",Address="E 11th St and S King St",Killed=0,Injured=1,Operations="nan" 1515981600.0
-shooting IncidentID=1302326,IncidentDate="December 28, 2017",State="Ohio",CityOrCounty="Thornville",Address="11000 block of Roley Hills Rd",Killed=0,Injured=0,Operations="nan" 1515985200.0
-shooting IncidentID=1017187,IncidentDate="December 28, 2017",State="Washington",CityOrCounty="College Place",Address="700 block of S College Ave",Killed=0,Injured=0,Operations="nan" 1515988800.0
-shooting IncidentID=1016187,IncidentDate="December 28, 2017",State="Massachusetts",CityOrCounty="Boston",Address="32 Florian St",Killed=0,Injured=3,Operations="nan" 1515992400.0
-shooting IncidentID=1016637,IncidentDate="December 28, 2017",State="Massachusetts",CityOrCounty="Brockton",Address="16-18 Bunker Ave",Killed=0,Injured=0,Operations="nan" 1515996000.0
-shooting IncidentID=1021283,IncidentDate="December 28, 2017",State="Oregon",CityOrCounty="Brookings",Address="19100 Barnacle Rock Rd",Killed=0,Injured=0,Operations="nan" 1515999600.0
-shooting IncidentID=1021280,IncidentDate="December 28, 2017",State="Oregon",CityOrCounty="Veneta",Address="Erdman Way",Killed=0,Injured=0,Operations="nan" 1516003200.0
-shooting IncidentID=1015687,IncidentDate="December 28, 2017",State="Louisiana",CityOrCounty="New Orleans",Address="2900 block of St Anthony St",Killed=0,Injured=2,Operations="nan" 1516006800.0
-shooting IncidentID=1016619,IncidentDate="December 28, 2017",State="Alabama",CityOrCounty="Birmingham",Address="Highway 280",Killed=1,Injured=0,Operations="nan" 1516010400.0
-shooting IncidentID=1015876,IncidentDate="December 28, 2017",State="Montana",CityOrCounty="Kalispell",Address="Lower Valley Rd",Killed=0,Injured=1,Operations="nan" 1516014000.0
-shooting IncidentID=1017170,IncidentDate="December 28, 2017",State="Louisiana",CityOrCounty="New Orleans",Address="2400 block of Farragut St",Killed=0,Injured=0,Operations="nan" 1516017600.0
-shooting IncidentID=1015869,IncidentDate="December 28, 2017",State="Florida",CityOrCounty="Panama City",Address="Cherry St and S Hwy 22 A",Killed=0,Injured=1,Operations="nan" 1516021200.0
-shooting IncidentID=1015859,IncidentDate="December 28, 2017",State="Florida",CityOrCounty="Orlando",Address="Kirkland Blvd",Killed=0,Injured=1,Operations="nan" 1516024800.0
-shooting IncidentID=1015857,IncidentDate="December 28, 2017",State="California",CityOrCounty="Stockton",Address="1600 Block of 6th St",Killed=0,Injured=0,Operations="nan" 1516028400.0
-shooting IncidentID=1015849,IncidentDate="December 28, 2017",State="California",CityOrCounty="Stockton",Address="Arcade St and El Dorado St",Killed=0,Injured=0,Operations="nan" 1516032000.0
-shooting IncidentID=1016574,IncidentDate="December 28, 2017",State="North Carolina",CityOrCounty="High Point",Address="Garrison St",Killed=1,Injured=1,Operations="nan" 1516035600.0
-shooting IncidentID=1015690,IncidentDate="December 28, 2017",State="Virginia",CityOrCounty="Fredericksburg",Address="18 Newcastle Pl",Killed=2,Injured=0,Operations="nan" 1516039200.0
-shooting IncidentID=1016532,IncidentDate="December 28, 2017",State="Tennessee",CityOrCounty="Memphis",Address="Walden Glen Cove",Killed=1,Injured=1,Operations="nan" 1516042800.0
-shooting IncidentID=1016536,IncidentDate="December 28, 2017",State="Louisiana",CityOrCounty="Shreveport",Address="Portland Avenue and Attaway Avenue",Killed=0,Injured=1,Operations="nan" 1516046400.0
-shooting IncidentID=1016528,IncidentDate="December 28, 2017",State="Louisiana",CityOrCounty="Natchitoches",Address="1500 block of Stella Street",Killed=0,Injured=0,Operations="nan" 1516050000.0
-shooting IncidentID=1016107,IncidentDate="December 28, 2017",State="South Carolina",CityOrCounty="Greenville",Address="700 Haywood Rd",Killed=0,Injured=0,Operations="nan" 1516053600.0
-shooting IncidentID=1018954,IncidentDate="December 28, 2017",State="Alabama",CityOrCounty="Dothan",Address="nan",Killed=0,Injured=1,Operations="nan" 1516057200.0
-shooting IncidentID=1016045,IncidentDate="December 28, 2017",State="Texas",CityOrCounty="Fort Worth",Address="2300 block of New York Ave",Killed=1,Injured=0,Operations="nan" 1516060800.0
-shooting IncidentID=1015815,IncidentDate="December 28, 2017",State="California",CityOrCounty="Arvin",Address="200 Campus Dr",Killed=0,Injured=0,Operations="nan" 1516064400.0
-shooting IncidentID=1042080,IncidentDate="December 28, 2017",State="Florida",CityOrCounty="Gainesville",Address="1200 block of SW 61 Terrace",Killed=0,Injured=0,Operations="nan" 1516068000.0
-shooting IncidentID=1016031,IncidentDate="December 28, 2017",State="Georgia",CityOrCounty="Atlanta",Address="Linkwood Rd",Killed=1,Injured=0,Operations="nan" 1516071600.0
-shooting IncidentID=1015813,IncidentDate="December 28, 2017",State="Tennessee",CityOrCounty="Murfreesboro",Address="1000 block of Gunnerson Ave",Killed=0,Injured=0,Operations="nan" 1516075200.0
-shooting IncidentID=1016488,IncidentDate="December 28, 2017",State="Kansas",CityOrCounty="Wichita",Address="1000 block of McCormick",Killed=1,Injured=0,Operations="nan" 1516078800.0
-shooting IncidentID=1016483,IncidentDate="December 28, 2017",State="Idaho",CityOrCounty="Rathdrum",Address="1300 block of W Laramie Ave",Killed=0,Injured=0,Operations="nan" 1516082400.0
-shooting IncidentID=1017098,IncidentDate="December 28, 2017",State="Kentucky",CityOrCounty="Mayfield",Address="Sherwood Forrest",Killed=0,Injured=1,Operations="nan" 1516086000.0
-shooting IncidentID=1016475,IncidentDate="December 28, 2017",State="Texas",CityOrCounty="Taylor",Address="100 block of Carlos Parker Blvd",Killed=0,Injured=1,Operations="nan" 1516089600.0
-shooting IncidentID=1015795,IncidentDate="December 28, 2017",State="California",CityOrCounty="Bakersfield",Address="E 3rd St and Tyree Toliver St",Killed=0,Injured=0,Operations="nan" 1516093200.0
-shooting IncidentID=1016516,IncidentDate="December 28, 2017",State="Tennessee",CityOrCounty="Chattanooga",Address="7600 block of N Bishop Dr",Killed=1,Injured=0,Operations="nan" 1516096800.0
-shooting IncidentID=1015835,IncidentDate="December 28, 2017",State="Florida",CityOrCounty="Fort Lauderdale",Address="3670 N State Route 7",Killed=0,Injured=1,Operations="nan" 1516100400.0
-shooting IncidentID=1016511,IncidentDate="December 28, 2017",State="Tennessee",CityOrCounty="Jackson",Address="Briarcliff Dr",Killed=0,Injured=1,Operations="nan" 1516104000.0
-shooting IncidentID=1017860,IncidentDate="December 28, 2017",State="Oklahoma",CityOrCounty="Chickasha",Address="nan",Killed=0,Injured=1,Operations="nan" 1516107600.0
-shooting IncidentID=1017051,IncidentDate="December 28, 2017",State="California",CityOrCounty="Compton",Address="100 block of E Caldwell St",Killed=2,Injured=0,Operations="nan" 1516111200.0
-shooting IncidentID=1015788,IncidentDate="December 28, 2017",State="Indiana",CityOrCounty="Elkhart",Address="2020 E Bristol St",Killed=1,Injured=0,Operations="nan" 1516114800.0
-shooting IncidentID=1036492,IncidentDate="December 28, 2017",State="Texas",CityOrCounty="Beaumont",Address="3025 Washington Blvd",Killed=1,Injured=0,Operations="nan" 1516118400.0
-shooting IncidentID=1016437,IncidentDate="December 28, 2017",State="Mississippi",CityOrCounty="Biloxi (Saint Martin)",Address="Tucker Road",Killed=0,Injured=1,Operations="nan" 1516122000.0
-shooting IncidentID=1015756,IncidentDate="December 28, 2017",State="District of Columbia",CityOrCounty="Washington",Address="1300 block of Congress St SE",Killed=0,Injured=0,Operations="nan" 1516125600.0
-shooting IncidentID=1021426,IncidentDate="December 28, 2017",State="South Carolina",CityOrCounty="Longs",Address="N SC 905",Killed=0,Injured=0,Operations="nan" 1516129200.0
-shooting IncidentID=1016623,IncidentDate="December 28, 2017",State="Alabama",CityOrCounty="Birmingham",Address="400 block of Princeton Avenue",Killed=0,Injured=1,Operations="nan" 1516132800.0
-shooting IncidentID=1017737,IncidentDate="December 28, 2017",State="Virginia",CityOrCounty="Fredericksburg",Address="Heron Drive",Killed=1,Injured=1,Operations="nan" 1516136400.0
-shooting IncidentID=1018961,IncidentDate="December 28, 2017",State="Alabama",CityOrCounty="Alexander City",Address="Hillabee St",Killed=0,Injured=0,Operations="nan" 1516140000.0
-shooting IncidentID=1016952,IncidentDate="December 28, 2017",State="Ohio",CityOrCounty="Dayton",Address="3500 block of Stanford Pl",Killed=0,Injured=0,Operations="nan" 1516143600.0
-shooting IncidentID=1018956,IncidentDate="December 28, 2017",State="Alabama",CityOrCounty="Alexander City",Address="US-280",Killed=0,Injured=0,Operations="nan" 1516147200.0
-shooting IncidentID=1015771,IncidentDate="December 28, 2017",State="Illinois",CityOrCounty="Dolton",Address="733 E 142nd St",Killed=1,Injured=1,Operations="nan" 1516150800.0
-shooting IncidentID=1019766,IncidentDate="December 28, 2017",State="Missouri",CityOrCounty="Saint Robert",Address="Tampa Rd",Killed=0,Injured=0,Operations="nan" 1516154400.0
-shooting IncidentID=1044685,IncidentDate="December 28, 2017",State="Florida",CityOrCounty="Green Cove Springs",Address="Haven Ave",Killed=0,Injured=0,Operations="nan" 1516158000.0
-shooting IncidentID=1015657,IncidentDate="December 28, 2017",State="Mississippi",CityOrCounty="Moorhead",Address="1008 Olive St",Killed=0,Injured=1,Operations="nan" 1516161600.0
-shooting IncidentID=1015645,IncidentDate="December 28, 2017",State="Texas",CityOrCounty="Dallas",Address="14900 block of Lasater Rd",Killed=0,Injured=1,Operations="nan" 1516165200.0
-shooting IncidentID=1431101,IncidentDate="December 28, 2017",State="Maryland",CityOrCounty="Hyattsville",Address="7600 block of Muncy Rd",Killed=0,Injured=1,Operations="nan" 1516168800.0
-shooting IncidentID=1015634,IncidentDate="December 28, 2017",State="Kentucky",CityOrCounty="Versailles",Address="1580 Pisgah Pike",Killed=0,Injured=1,Operations="nan" 1516172400.0
-shooting IncidentID=1016021,IncidentDate="December 28, 2017",State="North Carolina",CityOrCounty="Salisbury",Address="115 E 11th St",Killed=0,Injured=1,Operations="nan" 1516176000.0
-shooting IncidentID=1016716,IncidentDate="December 28, 2017",State="Texas",CityOrCounty="Houston",Address="3010 Gears Rd",Killed=0,Injured=0,Operations="nan" 1516179600.0
-shooting IncidentID=1016402,IncidentDate="December 28, 2017",State="Maryland",CityOrCounty="Baltimore",Address="400 block of N East Ave",Killed=0,Injured=1,Operations="nan" 1516183200.0
-shooting IncidentID=1016387,IncidentDate="December 28, 2017",State="Delaware",CityOrCounty="Wilmington",Address="201 S Heald St",Killed=0,Injured=1,Operations="nan" 1516186800.0
-shooting IncidentID=1020999,IncidentDate="December 28, 2017",State="Pennsylvania",CityOrCounty="Johnstown",Address="Congress Ave",Killed=0,Injured=0,Operations="nan" 1516190400.0
-shooting IncidentID=1015614,IncidentDate="December 28, 2017",State="District of Columbia",CityOrCounty="Washington",Address="950 Eastern Ave NE",Killed=1,Injured=0,Operations="nan" 1516194000.0
-shooting IncidentID=1015599,IncidentDate="December 28, 2017",State="California",CityOrCounty="Selma",Address="Country Rose Ln",Killed=1,Injured=0,Operations="nan" 1516197600.0
-shooting IncidentID=1016621,IncidentDate="December 28, 2017",State="Alabama",CityOrCounty="Demopolis",Address="1500 block of Queensbury Ln",Killed=1,Injured=0,Operations="nan" 1516201200.0
-shooting IncidentID=1016093,IncidentDate="December 28, 2017",State="South Carolina",CityOrCounty="Winnsboro",Address="SC 200",Killed=2,Injured=0,Operations="nan" 1516204800.0
-shooting IncidentID=1016329,IncidentDate="December 28, 2017",State="Ohio",CityOrCounty="Columbus",Address="4790 Hilton Corporate Dr",Killed=1,Injured=1,Operations="nan" 1516208400.0
-shooting IncidentID=1017530,IncidentDate="December 28, 2017",State="New Jersey",CityOrCounty="Franklin",Address="Rutherford Ave",Killed=0,Injured=0,Operations="nan" 1516212000.0
-shooting IncidentID=1022650,IncidentDate="December 28, 2017",State="Illinois",CityOrCounty="Kankakee",Address="400  N Schuyler Ave",Killed=0,Injured=0,Operations="nan" 1516215600.0
-shooting IncidentID=1015565,IncidentDate="December 28, 2017",State="New York",CityOrCounty="Buffalo",Address="100 block of E Amherst St",Killed=1,Injured=1,Operations="nan" 1516219200.0
+shooting IncidentID=1021362,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Kilgore",Address="1910 Meadowgreen Dr",Killed=1,Injured=0,Operations="nan" 1514682000
+shooting IncidentID=1017727,IncidentDate="December 31, 2017",State="Tennessee",CityOrCounty="Nashville",Address="I 65 and Trinity Lane",Killed=1,Injured=1,Operations="nan" 1514685600
+shooting IncidentID=1018010,IncidentDate="December 31, 2017",State="Alabama",CityOrCounty="Huntsville",Address="1409 Lancewood Dr NW",Killed=0,Injured=1,Operations="nan" 1514689200
+shooting IncidentID=1023659,IncidentDate="December 31, 2017",State="North Carolina",CityOrCounty="Elizabethtown",Address="968 Jacobs Loop Rd",Killed=0,Injured=1,Operations="nan" 1514692800
+shooting IncidentID=1020322,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Urbana",Address="1365 N Lincoln Ave",Killed=0,Injured=1,Operations="nan" 1514696400
+shooting IncidentID=1017993,IncidentDate="December 31, 2017",State="Georgia",CityOrCounty="Atlanta",Address="Glenwood Ave",Killed=0,Injured=1,Operations="nan" 1514700000
+shooting IncidentID=1020019,IncidentDate="December 31, 2017",State="Washington",CityOrCounty="Marysville",Address="5115 84th St NE",Killed=0,Injured=0,Operations="nan" 1514703600
+shooting IncidentID=1017947,IncidentDate="December 31, 2017",State="Michigan",CityOrCounty="Ypsilanti",Address="Cliffs Dr",Killed=1,Injured=0,Operations="nan" 1514707200
+shooting IncidentID=1017986,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Lubbock",Address="6002 Slide Rd",Killed=0,Injured=0,Operations="nan" 1514710800
+shooting IncidentID=1018774,IncidentDate="December 31, 2017",State="Virginia",CityOrCounty="Chesapeake",Address="600 block of Happy Acres",Killed=0,Injured=1,Operations="nan" 1514714400
+shooting IncidentID=1018763,IncidentDate="December 31, 2017",State="Arkansas",CityOrCounty="Fayetteville",Address="3215 N Northhills Blvd",Killed=0,Injured=0,Operations="nan" 1514718000
+shooting IncidentID=1017868,IncidentDate="December 31, 2017",State="Oklahoma",CityOrCounty="Oklahoma City",Address="1111 S Eastern Ave",Killed=0,Injured=1,Operations="nan" 1514721600
+shooting IncidentID=1017484,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Orlando",Address="I-4 and Kirkman Rd",Killed=0,Injured=3,Operations="nan" 1514725200
+shooting IncidentID=1017977,IncidentDate="December 31, 2017",State="Minnesota",CityOrCounty="Stillwater (Oak Park Heights)",Address="14800 block of 57th St N",Killed=0,Injured=0,Operations="nan" 1514728800
+shooting IncidentID=1052098,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="San Antonio",Address="1600 block of Mardell St",Killed=1,Injured=0,Operations="nan" 1514732400
+shooting IncidentID=1161485,IncidentDate="December 31, 2017",State="Arkansas",CityOrCounty="North Little Rock",Address="5612 John F Kennedy Blvd",Killed=0,Injured=0,Operations="nan" 1514736000
+shooting IncidentID=1078962,IncidentDate="December 31, 2017",State="North Carolina",CityOrCounty="Engelhard",Address="N Lake Rd",Killed=0,Injured=0,Operations="nan" 1514739600
+shooting IncidentID=1019108,IncidentDate="December 31, 2017",State="Colorado",CityOrCounty="Denver",Address="214 S Federal Blvd",Killed=1,Injured=0,Operations="nan" 1514743200
+shooting IncidentID=1017997,IncidentDate="December 31, 2017",State="Missouri",CityOrCounty="Florissant",Address="11300 block of Bristol Rock Rd",Killed=1,Injured=0,Operations="nan" 1514746800
+shooting IncidentID=1017788,IncidentDate="December 31, 2017",State="New York",CityOrCounty="Brooklyn",Address="E 15th St and Ave S",Killed=0,Injured=1,Operations="nan" 1514750400
+shooting IncidentID=1031302,IncidentDate="December 31, 2017",State="California",CityOrCounty="Northridge",Address="8644 Balboa Blvd",Killed=1,Injured=0,Operations="nan" 1514754000
+shooting IncidentID=1025819,IncidentDate="December 31, 2017",State="South Carolina",CityOrCounty="Florence",Address="500 S Ballard St",Killed=1,Injured=0,Operations="nan" 1514757600
+shooting IncidentID=1019944,IncidentDate="December 31, 2017",State="California",CityOrCounty="San Diego",Address="Teak St and S 38th Street",Killed=1,Injured=0,Operations="nan" 1514761200
+shooting IncidentID=1018459,IncidentDate="December 31, 2017",State="Missouri",CityOrCounty="Columbia",Address="1612 N Providence Rd",Killed=0,Injured=0,Operations="nan" 1514764800
+shooting IncidentID=1021272,IncidentDate="December 31, 2017",State="Georgia",CityOrCounty="Mableton",Address="Felton Ln",Killed=0,Injured=0,Operations="nan" 1514768400
+shooting IncidentID=1018456,IncidentDate="December 31, 2017",State="California",CityOrCounty="Bakersfield",Address="1101 E Belle Ter",Killed=0,Injured=0,Operations="nan" 1514772000
+shooting IncidentID=1017714,IncidentDate="December 31, 2017",State="California",CityOrCounty="Los Angeles",Address="869 S Western Ave",Killed=0,Injured=1,Operations="nan" 1514775600
+shooting IncidentID=1017976,IncidentDate="December 31, 2017",State="Minnesota",CityOrCounty="Minneapolis",Address="3200 block of Polk St NE",Killed=0,Injured=0,Operations="nan" 1514779200
+shooting IncidentID=1018229,IncidentDate="December 31, 2017",State="Georgia",CityOrCounty="Augusta",Address="1814 Fayetteville Dr",Killed=1,Injured=0,Operations="nan" 1514782800
+shooting IncidentID=1017975,IncidentDate="December 31, 2017",State="Minnesota",CityOrCounty="Minneapolis",Address="2400 block of Plymouth Ave N",Killed=0,Injured=0,Operations="nan" 1514786400
+shooting IncidentID=1018693,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="San Antonio",Address="1227 Quintana Rd",Killed=0,Injured=0,Operations="nan" 1514790000
+shooting IncidentID=1017954,IncidentDate="December 31, 2017",State="North Carolina",CityOrCounty="Charlotte",Address="500 Block of Capps Hill Mine Rd",Killed=0,Injured=1,Operations="nan" 1514793600
+shooting IncidentID=1017956,IncidentDate="December 31, 2017",State="North Carolina",CityOrCounty="Charlotte",Address="6600 Block of Elgywood Ln",Killed=0,Injured=1,Operations="nan" 1514797200
+shooting IncidentID=1017749,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Fort Worth",Address="5800 block of Hiett Ct",Killed=0,Injured=2,Operations="nan" 1514800800
+shooting IncidentID=1018661,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Joliet",Address="900 Rosalind St",Killed=2,Injured=0,Operations="nan" 1514804400
+shooting IncidentID=1019967,IncidentDate="December 31, 2017",State="California",CityOrCounty="Richmond",Address="600 block of South 21st St",Killed=0,Injured=0,Operations="nan" 1514808000
+shooting IncidentID=1017958,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Chicago",Address="7300 S Sangamon St",Killed=0,Injured=1,Operations="nan" 1514811600
+shooting IncidentID=1017764,IncidentDate="December 31, 2017",State="California",CityOrCounty="Delano",Address="2100 block of Norwalk St",Killed=1,Injured=0,Operations="nan" 1514815200
+shooting IncidentID=1020131,IncidentDate="December 31, 2017",State="Massachusetts",CityOrCounty="Canton",Address="Randolph St",Killed=0,Injured=0,Operations="nan" 1514818800
+shooting IncidentID=1021222,IncidentDate="December 31, 2017",State="Washington",CityOrCounty="University Place",Address="6300 block of 54th St W",Killed=0,Injured=0,Operations="nan" 1514822400
+shooting IncidentID=1017945,IncidentDate="December 31, 2017",State="Oregon",CityOrCounty="Eugene",Address="W 13th Ave and Polk St",Killed=0,Injured=0,Operations="nan" 1514826000
+shooting IncidentID=1064707,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Hillsborough (county)",Address="nan",Killed=0,Injured=0,Operations="nan" 1514829600
+shooting IncidentID=1018532,IncidentDate="December 31, 2017",State="Virginia",CityOrCounty="Hopewell",Address="2400 block of Wakefield Street",Killed=1,Injured=0,Operations="nan" 1514833200
+shooting IncidentID=1018079,IncidentDate="December 31, 2017",State="Nevada",CityOrCounty="Las Vegas",Address="4800 block of Chantilly Ave",Killed=1,Injured=0,Operations="nan" 1514836800
+shooting IncidentID=1018282,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Austin",Address="4800 block of Doss Rd",Killed=1,Injured=0,Operations="nan" 1514840400
+shooting IncidentID=1019020,IncidentDate="December 31, 2017",State="Mississippi",CityOrCounty="Cleveland",Address="nan",Killed=1,Injured=0,Operations="nan" 1514844000
+shooting IncidentID=1017876,IncidentDate="December 31, 2017",State="Massachusetts",CityOrCounty="Boston",Address="Blue Hill Ave and Sunderland St",Killed=0,Injured=0,Operations="nan" 1514847600
+shooting IncidentID=1018218,IncidentDate="December 31, 2017",State="New Jersey",CityOrCounty="Trenton",Address="100 block of Brown St",Killed=1,Injured=1,Operations="nan" 1514851200
+shooting IncidentID=1133679,IncidentDate="December 31, 2017",State="South Carolina",CityOrCounty="Myrtle Beach",Address="3506 US 501",Killed=0,Injured=0,Operations="nan" 1514854800
+shooting IncidentID=1017597,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Chicago",Address="nan",Killed=0,Injured=1,Operations="nan" 1514858400
+shooting IncidentID=1019687,IncidentDate="December 31, 2017",State="Wisconsin",CityOrCounty="Sheboygan",Address="1500 block of Martin Ave",Killed=0,Injured=0,Operations="nan" 1514862000
+shooting IncidentID=1018718,IncidentDate="December 31, 2017",State="New Jersey",CityOrCounty="Annandale",Address="31 Petticoat Ln",Killed=0,Injured=1,Operations="nan" 1514865600
+shooting IncidentID=1018549,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Rockford",Address="Albert Ave and Blaisdell St",Killed=0,Injured=1,Operations="nan" 1514869200
+shooting IncidentID=1018580,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Rockford",Address="1100 Greenwood Ave",Killed=0,Injured=0,Operations="nan" 1514872800
+shooting IncidentID=1017372,IncidentDate="December 31, 2017",State="Colorado",CityOrCounty="Littleton (Highlands Ranch)",Address="3404 E County Line Rd",Killed=2,Injured=6,Operations="nan" 1514876400
+shooting IncidentID=1018424,IncidentDate="December 31, 2017",State="Utah",CityOrCounty="Magna",Address="2665 S 8990 W",Killed=2,Injured=0,Operations="nan" 1514880000
+shooting IncidentID=1040084,IncidentDate="December 31, 2017",State="Pennsylvania",CityOrCounty="Millersville",Address="300 block of W Juniata Parkway",Killed=0,Injured=0,Operations="nan" 1514883600
+shooting IncidentID=1022893,IncidentDate="December 31, 2017",State="California",CityOrCounty="Stockton",Address="800 Block of DuPont Dr",Killed=0,Injured=0,Operations="nan" 1514887200
+shooting IncidentID=1018405,IncidentDate="December 31, 2017",State="Louisiana",CityOrCounty="Shreveport",Address="Virginia Avenue",Killed=0,Injured=1,Operations="nan" 1514890800
+shooting IncidentID=1018396,IncidentDate="December 31, 2017",State="Louisiana",CityOrCounty="New Orleans",Address="North Villere Street and Gordon Street",Killed=0,Injured=1,Operations="nan" 1514894400
+shooting IncidentID=1018378,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="Sandusky",Address="Hancock St and Reese St",Killed=0,Injured=0,Operations="nan" 1514898000
+shooting IncidentID=1020462,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Decatur",Address="S Oakland Ave",Killed=0,Injured=1,Operations="nan" 1514901600
+shooting IncidentID=1017724,IncidentDate="December 31, 2017",State="Tennessee",CityOrCounty="Madison",Address="201 E Palestine Ave",Killed=1,Injured=0,Operations="nan" 1514905200
+shooting IncidentID=1020460,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Decatur",Address="Grand Ave",Killed=0,Injured=1,Operations="nan" 1514908800
+shooting IncidentID=1017606,IncidentDate="December 31, 2017",State="Indiana",CityOrCounty="Indianapolis",Address="5300 Acorn Ln",Killed=1,Injured=0,Operations="nan" 1514912400
+shooting IncidentID=1018307,IncidentDate="December 31, 2017",State="Mississippi",CityOrCounty="Magnolia",Address="1016 DL Jefferson Ln",Killed=1,Injured=0,Operations="nan" 1514916000
+shooting IncidentID=1017638,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="Cleveland",Address="Kenyon Ave and E 65th St",Killed=1,Injured=0,Operations="nan" 1514919600
+shooting IncidentID=1019165,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Highlands",Address="Mizell St",Killed=1,Injured=0,Operations="nan" 1514923200
+shooting IncidentID=1017477,IncidentDate="December 31, 2017",State="Kentucky",CityOrCounty="Louisville",Address="434 Eastern Pkwy",Killed=0,Injured=1,Operations="nan" 1514926800
+shooting IncidentID=1017406,IncidentDate="December 31, 2017",State="Virginia",CityOrCounty="Norfolk",Address="3700 block of Tait Terr",Killed=1,Injured=0,Operations="nan" 1514930400
+shooting IncidentID=1017888,IncidentDate="December 31, 2017",State="District of Columbia",CityOrCounty="Washington",Address="3200 block of Georgia Ave NW",Killed=0,Injured=1,Operations="nan" 1514934000
+shooting IncidentID=1018928,IncidentDate="December 31, 2017",State="West Virginia",CityOrCounty="Morgantown",Address="1824 Cassville-Mount Morris Rd",Killed=0,Injured=2,Operations="nan" 1514937600
+shooting IncidentID=1017760,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Boynton Beach",Address="200 Block of NW 3rd Ave",Killed=2,Injured=0,Operations="nan" 1514941200
+shooting IncidentID=1022743,IncidentDate="December 31, 2017",State="Maryland",CityOrCounty="Salisbury",Address="200 block of Winterborn Ln",Killed=0,Injured=0,Operations="nan" 1514944800
+shooting IncidentID=1017648,IncidentDate="December 31, 2017",State="Mississippi",CityOrCounty="Byram",Address="131 Handley Boulevard",Killed=0,Injured=1,Operations="nan" 1514948400
+shooting IncidentID=1021733,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="East Saint Louis",Address="2300 Ridge Ave",Killed=0,Injured=0,Operations="nan" 1514952000
+shooting IncidentID=1017644,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Houston",Address="14000 block of Park Row Dr",Killed=0,Injured=1,Operations="nan" 1514955600
+shooting IncidentID=1020965,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Saint Petersburg",Address="170 Beach Dr NE",Killed=0,Injured=1,Operations="nan" 1514959200
+shooting IncidentID=1019711,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Cape Coral",Address="5703 Cape Harbour Dr",Killed=0,Injured=0,Operations="nan" 1514962800
+shooting IncidentID=1017635,IncidentDate="December 31, 2017",State="Louisiana",CityOrCounty="Shreveport",Address="400 block of E 66th Street",Killed=0,Injured=0,Operations="nan" 1514966400
+shooting IncidentID=1018148,IncidentDate="December 31, 2017",State="Maryland",CityOrCounty="Baltimore",Address="500 block of S Bentalou St",Killed=0,Injured=0,Operations="nan" 1514970000
+shooting IncidentID=1018271,IncidentDate="December 31, 2017",State="District of Columbia",CityOrCounty="Washington",Address="600 block of Newton St NW",Killed=0,Injured=1,Operations="nan" 1514973600
+shooting IncidentID=1019170,IncidentDate="December 31, 2017",State="Kansas",CityOrCounty="Topeka",Address="1000 block of SW 33rd Terrace",Killed=0,Injured=0,Operations="nan" 1514977200
+shooting IncidentID=1019163,IncidentDate="December 31, 2017",State="Colorado",CityOrCounty="Colorado Springs",Address="7000 block of N Academy Blvd",Killed=0,Injured=1,Operations="nan" 1514980800
+shooting IncidentID=1018887,IncidentDate="December 31, 2017",State="Wisconsin",CityOrCounty="Milwaukee",Address="40th and Sheridan",Killed=1,Injured=0,Operations="nan" 1514984400
+shooting IncidentID=1018726,IncidentDate="December 31, 2017",State="Hawaii",CityOrCounty="Mililani",Address="nan",Killed=0,Injured=0,Operations="nan" 1514988000
+shooting IncidentID=1018259,IncidentDate="December 31, 2017",State="Connecticut",CityOrCounty="Hartford",Address="600 block of Blue Hills Ave",Killed=0,Injured=0,Operations="nan" 1514991600
+shooting IncidentID=1018257,IncidentDate="December 31, 2017",State="South Carolina",CityOrCounty="Greenville",Address="115 Rasor Dr",Killed=1,Injured=0,Operations="nan" 1514995200
+shooting IncidentID=1019673,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Fort Pierce",Address="300 Block of N 31st St",Killed=0,Injured=0,Operations="nan" 1514998800
+shooting IncidentID=1018252,IncidentDate="December 31, 2017",State="South Carolina",CityOrCounty="Columbia",Address="Coley Rd",Killed=1,Injured=0,Operations="nan" 1515002400
+shooting IncidentID=1019128,IncidentDate="December 31, 2017",State="California",CityOrCounty="West Sacramento",Address="1050 W Capitol Ave",Killed=3,Injured=0,Operations="nan" 1515006000
+shooting IncidentID=1019120,IncidentDate="December 31, 2017",State="Indiana",CityOrCounty="Evansville",Address="1500 Joyce Ave",Killed=0,Injured=1,Operations="nan" 1515009600
+shooting IncidentID=1017377,IncidentDate="December 31, 2017",State="California",CityOrCounty="Winnetka",Address="6900 block of Oakdale Ave",Killed=0,Injured=1,Operations="nan" 1515013200
+shooting IncidentID=1017799,IncidentDate="December 31, 2017",State="California",CityOrCounty="Vallejo",Address="Tennessee St and Tuolumne St",Killed=0,Injured=0,Operations="nan" 1515016800
+shooting IncidentID=1018855,IncidentDate="December 31, 2017",State="Georgia",CityOrCounty="Lithia Springs",Address="nan",Killed=0,Injured=0,Operations="nan" 1515020400
+shooting IncidentID=1022645,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Kankakee",Address="1000 E Willow S",Killed=0,Injured=0,Operations="nan" 1515024000
+shooting IncidentID=1020748,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Houston",Address="nan",Killed=0,Injured=0,Operations="nan" 1515027600
+shooting IncidentID=1019097,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="Youngstown",Address="700 block of Cassius Ave",Killed=0,Injured=0,Operations="nan" 1515031200
+shooting IncidentID=1019095,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="Youngstown",Address="3600 block of Neilson Ave",Killed=0,Injured=0,Operations="nan" 1515034800
+shooting IncidentID=1018845,IncidentDate="December 31, 2017",State="Colorado",CityOrCounty="Fort Lupton",Address="200 block of McKinley Ave",Killed=0,Injured=1,Operations="nan" 1515038400
+shooting IncidentID=1018224,IncidentDate="December 31, 2017",State="New Jersey",CityOrCounty="Camden",Address="600 block of Woodland St",Killed=1,Injured=0,Operations="nan" 1515042000
+shooting IncidentID=1017510,IncidentDate="December 31, 2017",State="Washington",CityOrCounty="Renton",Address="3200 block of SE 12th St",Killed=0,Injured=2,Operations="nan" 1515045600
+shooting IncidentID=1019212,IncidentDate="December 31, 2017",State="Kentucky",CityOrCounty="Robards",Address="11000 block of US 41",Killed=0,Injured=1,Operations="nan" 1515049200
+shooting IncidentID=1069150,IncidentDate="December 31, 2017",State="Delaware",CityOrCounty="Wilmington",Address="1300 block of Banning St",Killed=0,Injured=0,Operations="nan" 1515052800
+shooting IncidentID=1018216,IncidentDate="December 31, 2017",State="North Carolina",CityOrCounty="Sanford",Address="590 Nicole Dr",Killed=0,Injured=1,Operations="nan" 1515056400
+shooting IncidentID=1017652,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="Mechanicsburg",Address="9800 block of Loveless Rd",Killed=1,Injured=1,Operations="nan" 1515060000
+shooting IncidentID=1021518,IncidentDate="December 31, 2017",State="New Mexico",CityOrCounty="Mesilla Park",Address="9000 block of Clovis Rd",Killed=0,Injured=0,Operations="nan" 1515063600
+shooting IncidentID=1019407,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="Dayton (West Carrollton)",Address="300 block of Enxing Ave",Killed=2,Injured=0,Operations="nan" 1515067200
+shooting IncidentID=1018195,IncidentDate="December 31, 2017",State="Michigan",CityOrCounty="Detroit",Address="Gratiot and 7 Mile",Killed=0,Injured=1,Operations="nan" 1515070800
+shooting IncidentID=1018193,IncidentDate="December 31, 2017",State="Michigan",CityOrCounty="Detroit",Address="Dix and Woodmere",Killed=0,Injured=1,Operations="nan" 1515074400
+shooting IncidentID=1019420,IncidentDate="December 31, 2017",State="Washington",CityOrCounty="Seattle",Address="nan",Killed=0,Injured=0,Operations="nan" 1515078000
+shooting IncidentID=1018104,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Chicago",Address="11500 S State St",Killed=0,Injured=2,Operations="nan" 1515081600
+shooting IncidentID=1018172,IncidentDate="December 31, 2017",State="New York",CityOrCounty="Buffalo",Address="100 block of Oakmont Ave",Killed=0,Injured=1,Operations="nan" 1515085200
+shooting IncidentID=1018157,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Fort Lauderdale (Lauderhill)",Address="5300 Block of NW 17th Ct",Killed=1,Injured=0,Operations="nan" 1515088800
+shooting IncidentID=1018168,IncidentDate="December 31, 2017",State="New York",CityOrCounty="Rochester",Address="Walnut St",Killed=0,Injured=0,Operations="nan" 1515092400
+shooting IncidentID=1018786,IncidentDate="December 31, 2017",State="Virginia",CityOrCounty="Norfolk",Address="300 block of Virginian Dr",Killed=1,Injured=1,Operations="nan" 1515096000
+shooting IncidentID=1019018,IncidentDate="December 31, 2017",State="Mississippi",CityOrCounty="Tupelo",Address="Spring Street",Killed=0,Injured=1,Operations="nan" 1515099600
+shooting IncidentID=1018317,IncidentDate="December 31, 2017",State="Pennsylvania",CityOrCounty="York",Address="100 block of W Maple St",Killed=0,Injured=1,Operations="nan" 1515103200
+shooting IncidentID=1019007,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Pensacola",Address="2607 E Olive Rd",Killed=0,Injured=0,Operations="nan" 1515106800
+shooting IncidentID=1033116,IncidentDate="December 31, 2017",State="Indiana",CityOrCounty="Indianapolis",Address="6700 block of W Hollow Run Dr",Killed=0,Injured=0,Operations="nan" 1515110400
+shooting IncidentID=1036643,IncidentDate="December 31, 2017",State="New York",CityOrCounty="Bronx",Address="nan",Killed=0,Injured=1,Operations="nan" 1515114000
+shooting IncidentID=1017422,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Chicago",Address="2335 Howard St",Killed=0,Injured=4,Operations="nan" 1515117600
+shooting IncidentID=1019612,IncidentDate="December 31, 2017",State="Alabama",CityOrCounty="Birmingham",Address="10th Street South",Killed=0,Injured=0,Operations="nan" 1515121200
+shooting IncidentID=1019604,IncidentDate="December 31, 2017",State="Alabama",CityOrCounty="Opp",Address="Mullins Street",Killed=0,Injured=1,Operations="nan" 1515124800
+shooting IncidentID=1017393,IncidentDate="December 31, 2017",State="West Virginia",CityOrCounty="Flemington",Address="45 High St",Killed=1,Injured=0,Operations="nan" 1515128400
+shooting IncidentID=1020900,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Fort Pierce",Address="601 N 25th St",Killed=0,Injured=1,Operations="nan" 1515132000
+shooting IncidentID=1020202,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="South Webster",Address="500 block of Jackson Fork Rd",Killed=0,Injured=1,Operations="nan" 1515135600
+shooting IncidentID=1020146,IncidentDate="December 31, 2017",State="Georgia",CityOrCounty="Snellville",Address="1500 block of Scenic Hwy N",Killed=0,Injured=1,Operations="nan" 1515139200
+shooting IncidentID=1018101,IncidentDate="December 31, 2017",State="Illinois",CityOrCounty="Chicago",Address="1900 S Sawyer Ave",Killed=0,Injured=1,Operations="nan" 1515142800
+shooting IncidentID=1020867,IncidentDate="December 31, 2017",State="Kansas",CityOrCounty="Topeka",Address="300 block of SE 36th St",Killed=0,Injured=0,Operations="nan" 1515146400
+shooting IncidentID=1018336,IncidentDate="December 31, 2017",State="Ohio",CityOrCounty="Groveport",Address="4000 block of Yukon Ave",Killed=1,Injured=0,Operations="nan" 1515150000
+shooting IncidentID=1019342,IncidentDate="December 31, 2017",State="Georgia",CityOrCounty="Cartersville",Address="2 Cain Dr",Killed=0,Injured=0,Operations="nan" 1515153600
+shooting IncidentID=1021943,IncidentDate="December 31, 2017",State="Alabama",CityOrCounty="Selma",Address="300 block of Gaines Avenue",Killed=0,Injured=1,Operations="nan" 1515157200
+shooting IncidentID=1021938,IncidentDate="December 31, 2017",State="Alabama",CityOrCounty="Selma",Address="1700 block of Water Avenue",Killed=0,Injured=2,Operations="nan" 1515160800
+shooting IncidentID=1018083,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Houston",Address="1200 Louisiana St",Killed=0,Injured=0,Operations="nan" 1515164400
+shooting IncidentID=1020177,IncidentDate="December 31, 2017",State="South Carolina",CityOrCounty="Orangeburg",Address="Clarendon St",Killed=0,Injured=0,Operations="nan" 1515168000
+shooting IncidentID=1018059,IncidentDate="December 31, 2017",State="Alaska",CityOrCounty="Anchorage",Address="1000 block of West 26th Ave",Killed=0,Injured=0,Operations="nan" 1515171600
+shooting IncidentID=1018932,IncidentDate="December 31, 2017",State="Massachusetts",CityOrCounty="Marblehead",Address="Arrowhead Rd",Killed=0,Injured=0,Operations="nan" 1515175200
+shooting IncidentID=1018043,IncidentDate="December 31, 2017",State="New York",CityOrCounty="Rochester",Address="Ackerman St",Killed=0,Injured=0,Operations="nan" 1515178800
+shooting IncidentID=1018118,IncidentDate="December 31, 2017",State="New Jersey",CityOrCounty="Long Branch",Address="635 Wall St",Killed=4,Injured=0,Operations="nan" 1515182400
+shooting IncidentID=1018038,IncidentDate="December 31, 2017",State="Texas",CityOrCounty="Dallas",Address="3600 block of Odessa St",Killed=0,Injured=0,Operations="nan" 1515186000
+shooting IncidentID=1017855,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Orlando",Address="I-4 and Conroy Rd",Killed=0,Injured=2,Operations="nan" 1515189600
+shooting IncidentID=1017545,IncidentDate="December 31, 2017",State="Pennsylvania",CityOrCounty="Harrisburg",Address="1900 block of Brookwood St",Killed=1,Injured=1,Operations="nan" 1515193200
+shooting IncidentID=1017914,IncidentDate="December 31, 2017",State="New Jersey",CityOrCounty="Newark",Address="2nd St and Central Ave",Killed=1,Injured=0,Operations="nan" 1515196800
+shooting IncidentID=1018373,IncidentDate="December 31, 2017",State="Nevada",CityOrCounty="Las Vegas",Address="Alexander Rd and Lamb Blvd",Killed=1,Injured=0,Operations="nan" 1515200400
+shooting IncidentID=1018032,IncidentDate="December 31, 2017",State="South Carolina",CityOrCounty="Columbia",Address="Bluff Rd",Killed=1,Injured=0,Operations="nan" 1515204000
+shooting IncidentID=1018151,IncidentDate="December 31, 2017",State="Florida",CityOrCounty="Jacksonville",Address="34th St and Wilson St",Killed=1,Injured=0,Operations="nan" 1515207600
+shooting IncidentID=1018019,IncidentDate="December 31, 2017",State="Nevada",CityOrCounty="Las Vegas",Address="1200 block of Parliament Pl",Killed=0,Injured=1,Operations="nan" 1515211200
+shooting IncidentID=1026102,IncidentDate="December 31, 2017",State="Oklahoma",CityOrCounty="Enid",Address="1610 S Van Buren St",Killed=0,Injured=0,Operations="nan" 1515214800
+shooting IncidentID=1018016,IncidentDate="December 31, 2017",State="California",CityOrCounty="Los Angeles",Address="5600 San Vicente Blvd",Killed=0,Injured=1,Operations="nan" 1515218400
+shooting IncidentID=1018261,IncidentDate="December 31, 2017",State="Massachusetts",CityOrCounty="Lawrence",Address="170 Reservoir St",Killed=1,Injured=0,Operations="nan" 1515222000
+shooting IncidentID=1018014,IncidentDate="December 31, 2017",State="South Carolina",CityOrCounty="Florence",Address="200 Block of E Liberty St",Killed=0,Injured=0,Operations="nan" 1515225600
+shooting IncidentID=1018012,IncidentDate="December 31, 2017",State="Alabama",CityOrCounty="Mobile",Address="Rose Lane",Killed=0,Injured=1,Operations="nan" 1515229200
+shooting IncidentID=1016980,IncidentDate="December 30, 2017",State="Nevada",CityOrCounty="Las Vegas",Address="740 S Decatur Blvd",Killed=3,Injured=0,Operations="nan" 1515146400
+shooting IncidentID=1018000,IncidentDate="December 30, 2017",State="Texas",CityOrCounty="Corpus Christi",Address="802 Barry St",Killed=0,Injured=0,Operations="nan" 1515150000
+shooting IncidentID=1018862,IncidentDate="December 30, 2017",State="Kentucky",CityOrCounty="Lexington",Address="500 block of Ohio St",Killed=0,Injured=0,Operations="nan" 1515153600
+shooting IncidentID=1018827,IncidentDate="December 30, 2017",State="Indiana",CityOrCounty="Bloomington",Address="4300 block of E Paynetown Rd",Killed=0,Injured=1,Operations="nan" 1515157200
+shooting IncidentID=1016955,IncidentDate="December 30, 2017",State="Utah",CityOrCounty="Salt Lake City (South Salt Lake)",Address="2694 State St",Killed=0,Injured=1,Operations="nan" 1515160800
+shooting IncidentID=1017990,IncidentDate="December 30, 2017",State="Georgia",CityOrCounty="Atlanta",Address="2841 Greenbriar Pkwy SW",Killed=0,Injured=1,Operations="nan" 1515164400
+shooting IncidentID=1055854,IncidentDate="December 30, 2017",State="Kentucky",CityOrCounty="Paducah",Address="3100 block of Harrison St",Killed=0,Injured=0,Operations="nan" 1515168000
+shooting IncidentID=1017017,IncidentDate="December 30, 2017",State="Tennessee",CityOrCounty="Nashville",Address="3928 Patton Hill Rd",Killed=0,Injured=1,Operations="nan" 1515171600
+shooting IncidentID=1020032,IncidentDate="December 30, 2017",State="Oregon",CityOrCounty="Klamath Falls",Address="US 97 and Oregon Ave",Killed=0,Injured=0,Operations="nan" 1515175200
+shooting IncidentID=1020026,IncidentDate="December 30, 2017",State="North Carolina",CityOrCounty="Southmont",Address="214 Fern Creek Dr",Killed=0,Injured=0,Operations="nan" 1515178800
+shooting IncidentID=1017182,IncidentDate="December 30, 2017",State="Oregon",CityOrCounty="Portland",Address="13000 block of NE Prescott Dr",Killed=0,Injured=0,Operations="nan" 1515182400
+shooting IncidentID=1023602,IncidentDate="December 30, 2017",State="Washington",CityOrCounty="Auburn",Address="200 block of F St SW",Killed=1,Injured=0,Operations="nan" 1515186000
+shooting IncidentID=1017108,IncidentDate="December 30, 2017",State="Louisiana",CityOrCounty="New Orleans",Address="1800 block of Esplanade Ave",Killed=0,Injured=1,Operations="nan" 1515189600
+shooting IncidentID=1022368,IncidentDate="December 30, 2017",State="Massachusetts",CityOrCounty="Milford",Address="Colby Dr",Killed=0,Injured=0,Operations="nan" 1515193200
+shooting IncidentID=1020734,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Aurora",Address="1000 N Highland Ave",Killed=0,Injured=0,Operations="nan" 1515196800
+shooting IncidentID=1017974,IncidentDate="December 30, 2017",State="Minnesota",CityOrCounty="Saint Paul",Address="1345 Western Ave N",Killed=0,Injured=0,Operations="nan" 1515200400
+shooting IncidentID=1017968,IncidentDate="December 30, 2017",State="Minnesota",CityOrCounty="Burnsville",Address="Hilltop Rd and Circle Dr",Killed=1,Injured=0,Operations="nan" 1515204000
+shooting IncidentID=1019379,IncidentDate="December 30, 2017",State="Indiana",CityOrCounty="Lakeville",Address="305 S Michigan St",Killed=0,Injured=0,Operations="nan" 1515207600
+shooting IncidentID=1018044,IncidentDate="December 30, 2017",State="Massachusetts",CityOrCounty="Lawrence",Address="nan",Killed=0,Injured=0,Operations="nan" 1515211200
+shooting IncidentID=1017101,IncidentDate="December 30, 2017",State="Alabama",CityOrCounty="Springville",Address="I-59",Killed=0,Injured=1,Operations="nan" 1515214800
+shooting IncidentID=1018004,IncidentDate="December 30, 2017",State="Texas",CityOrCounty="Crowell",Address="407 North First St",Killed=1,Injured=0,Operations="nan" 1515218400
+shooting IncidentID=1017988,IncidentDate="December 30, 2017",State="North Carolina",CityOrCounty="Ernul",Address="585 Aurora Rd",Killed=1,Injured=1,Operations="nan" 1515222000
+shooting IncidentID=1021941,IncidentDate="December 30, 2017",State="Alabama",CityOrCounty="Selma",Address="nan",Killed=0,Injured=1,Operations="nan" 1515225600
+shooting IncidentID=1017946,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Sarasota",Address="2300 Block of University Pkwy",Killed=0,Injured=3,Operations="nan" 1515229200
+shooting IncidentID=1017143,IncidentDate="December 30, 2017",State="Maryland",CityOrCounty="Baltimore",Address="nan",Killed=0,Injured=1,Operations="nan" 1515232800
+shooting IncidentID=1017063,IncidentDate="December 30, 2017",State="California",CityOrCounty="Oakland",Address="3400 block of High St",Killed=1,Injured=0,Operations="nan" 1515236400
+shooting IncidentID=1018877,IncidentDate="December 30, 2017",State="Kansas",CityOrCounty="Wichita",Address="1500 block of N Gentry",Killed=0,Injured=1,Operations="nan" 1515240000
+shooting IncidentID=1019960,IncidentDate="December 30, 2017",State="California",CityOrCounty="Alameda",Address="300 block of Stardust Pl",Killed=0,Injured=0,Operations="nan" 1515243600
+shooting IncidentID=1017617,IncidentDate="December 30, 2017",State="Pennsylvania",CityOrCounty="York",Address="1400 W Market St",Killed=0,Injured=0,Operations="nan" 1515247200
+shooting IncidentID=1017940,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Tampa",Address="1806 N Nebraska Ave",Killed=1,Injured=1,Operations="nan" 1515250800
+shooting IncidentID=1017584,IncidentDate="December 30, 2017",State="Pennsylvania",CityOrCounty="Pittsburgh",Address="7000 block of Hermitage St",Killed=0,Injured=2,Operations="nan" 1515254400
+shooting IncidentID=1017720,IncidentDate="December 30, 2017",State="South Carolina",CityOrCounty="Charleston",Address="1385 Ashley River Rd",Killed=0,Injured=0,Operations="nan" 1515258000
+shooting IncidentID=1021774,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Mount Vernon",Address="103 Potomac Blvd",Killed=0,Injured=0,Operations="nan" 1515261600
+shooting IncidentID=1016919,IncidentDate="December 30, 2017",State="Ohio",CityOrCounty="Cleveland",Address="6700 block of Sebert Ave",Killed=1,Injured=0,Operations="nan" 1515265200
+shooting IncidentID=1017139,IncidentDate="December 30, 2017",State="Maryland",CityOrCounty="Baltimore",Address="2500 block of Edmondson Ave",Killed=0,Injured=0,Operations="nan" 1515268800
+shooting IncidentID=1017128,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Miami",Address="1704 NW 7th St",Killed=0,Injured=1,Operations="nan" 1515272400
+shooting IncidentID=1017902,IncidentDate="December 30, 2017",State="Oklahoma",CityOrCounty="Tulsa",Address="3300 E Pine St",Killed=0,Injured=1,Operations="nan" 1515276000
+shooting IncidentID=1022308,IncidentDate="December 30, 2017",State="Idaho",CityOrCounty="Mullan",Address="500 block of Pine St",Killed=0,Injured=0,Operations="nan" 1515279600
+shooting IncidentID=1017391,IncidentDate="December 30, 2017",State="California",CityOrCounty="Redwood City",Address="1900 Broadway",Killed=1,Injured=0,Operations="nan" 1515283200
+shooting IncidentID=1017872,IncidentDate="December 30, 2017",State="Massachusetts",CityOrCounty="Boston",Address="22 Edge Hill St",Killed=0,Injured=0,Operations="nan" 1515286800
+shooting IncidentID=1017834,IncidentDate="December 30, 2017",State="Nebraska",CityOrCounty="Omaha",Address="6015 Binney St",Killed=0,Injured=0,Operations="nan" 1515290400
+shooting IncidentID=1017235,IncidentDate="December 30, 2017",State="Connecticut",CityOrCounty="Manchester",Address="1540 Pleasant Valley Rd",Killed=1,Injured=0,Operations="nan" 1515294000
+shooting IncidentID=1017839,IncidentDate="December 30, 2017",State="Maryland",CityOrCounty="Baltimore",Address="600 block of N Glover St",Killed=0,Injured=1,Operations="nan" 1515297600
+shooting IncidentID=1017831,IncidentDate="December 30, 2017",State="Iowa",CityOrCounty="Muscatine",Address="Hershey Ave and Clinton St",Killed=0,Injured=0,Operations="nan" 1515301200
+shooting IncidentID=1017383,IncidentDate="December 30, 2017",State="California",CityOrCounty="San Pablo",Address="2800 block of Valencia Way",Killed=1,Injured=1,Operations="nan" 1515304800
+shooting IncidentID=1017829,IncidentDate="December 30, 2017",State="Maryland",CityOrCounty="Baltimore",Address="4200 block of Wabash Ave",Killed=0,Injured=1,Operations="nan" 1515308400
+shooting IncidentID=1017301,IncidentDate="December 30, 2017",State="Missouri",CityOrCounty="Saint Louis",Address="800 block of Riverview Blvd",Killed=0,Injured=1,Operations="nan" 1515312000
+shooting IncidentID=1018470,IncidentDate="December 30, 2017",State="California",CityOrCounty="Modesto",Address="601 N Franklin St",Killed=1,Injured=0,Operations="nan" 1515315600
+shooting IncidentID=1017497,IncidentDate="December 30, 2017",State="New York",CityOrCounty="Brooklyn",Address="214 Bristol St",Killed=0,Injured=1,Operations="nan" 1515319200
+shooting IncidentID=1017793,IncidentDate="December 30, 2017",State="California",CityOrCounty="Compton",Address="8000 block of Compton Ave",Killed=0,Injured=0,Operations="nan" 1515322800
+shooting IncidentID=1017786,IncidentDate="December 30, 2017",State="District of Columbia",CityOrCounty="Washington",Address="800 block of 8th St NE",Killed=0,Injured=1,Operations="nan" 1515326400
+shooting IncidentID=1021138,IncidentDate="December 30, 2017",State="Ohio",CityOrCounty="Donnelsville",Address="E Main St",Killed=0,Injured=0,Operations="nan" 1515330000
+shooting IncidentID=1017775,IncidentDate="December 30, 2017",State="California",CityOrCounty="Stockton",Address="500 Block of Marengo Ave",Killed=0,Injured=0,Operations="nan" 1515333600
+shooting IncidentID=1018480,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Peoria",Address="1100 S Matthew St",Killed=0,Injured=0,Operations="nan" 1515337200
+shooting IncidentID=1017773,IncidentDate="December 30, 2017",State="California",CityOrCounty="Stockton",Address="2200 Block of Manthey Rd",Killed=0,Injured=0,Operations="nan" 1515340800
+shooting IncidentID=1017770,IncidentDate="December 30, 2017",State="California",CityOrCounty="Stockton",Address="Access St and Tam O Shanter Dr",Killed=1,Injured=0,Operations="nan" 1515344400
+shooting IncidentID=1017038,IncidentDate="December 30, 2017",State="Virginia",CityOrCounty="Hopewell",Address="4100 block of Robert E Lee Dr",Killed=0,Injured=1,Operations="nan" 1515348000
+shooting IncidentID=1025768,IncidentDate="December 30, 2017",State="Wisconsin",CityOrCounty="Milwaukee",Address="Ogden Ave",Killed=0,Injured=0,Operations="nan" 1515351600
+shooting IncidentID=1017755,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Anna Maria",Address="Pine Ave and Gulf Dr",Killed=0,Injured=1,Operations="nan" 1515355200
+shooting IncidentID=1022012,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Palm Beach Gardens (Riviera Beach)",Address="Ave T",Killed=0,Injured=0,Operations="nan" 1515358800
+shooting IncidentID=1019328,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Rockford",Address="1400 S Main St",Killed=0,Injured=1,Operations="nan" 1515362400
+shooting IncidentID=1032117,IncidentDate="December 30, 2017",State="California",CityOrCounty="Los Angeles",Address="15228 S Avalon Blvd",Killed=0,Injured=2,Operations="nan" 1515366000
+shooting IncidentID=1017022,IncidentDate="December 30, 2017",State="Tennessee",CityOrCounty="Nashville",Address="707 19th Ave N",Killed=0,Injured=1,Operations="nan" 1515369600
+shooting IncidentID=1017070,IncidentDate="December 30, 2017",State="Indiana",CityOrCounty="Evansville",Address="5000 Monroe Ave",Killed=1,Injured=0,Operations="nan" 1515373200
+shooting IncidentID=1020746,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Aurora",Address="W Galena Blvd and S Stolp Ave",Killed=0,Injured=0,Operations="nan" 1515376800
+shooting IncidentID=1017010,IncidentDate="December 30, 2017",State="Texas",CityOrCounty="Dallas",Address="11111 Walnut Hill Ln",Killed=0,Injured=1,Operations="nan" 1515380400
+shooting IncidentID=1017003,IncidentDate="December 30, 2017",State="Kentucky",CityOrCounty="Lexington",Address="2300 block of Versailles Road",Killed=0,Injured=1,Operations="nan" 1515384000
+shooting IncidentID=1018402,IncidentDate="December 30, 2017",State="Louisiana",CityOrCounty="Scott",Address="1100 block of Roper Drive",Killed=0,Injured=1,Operations="nan" 1515387600
+shooting IncidentID=1018940,IncidentDate="December 30, 2017",State="New York",CityOrCounty="Attica",Address="Tooley Rd Exd",Killed=0,Injured=1,Operations="nan" 1515391200
+shooting IncidentID=1019469,IncidentDate="December 30, 2017",State="Iowa",CityOrCounty="Cedar Rapids",Address="1631 Bever Ave SE",Killed=0,Injured=1,Operations="nan" 1515394800
+shooting IncidentID=1017006,IncidentDate="December 30, 2017",State="Tennessee",CityOrCounty="Harriman",Address="200 block of Harding Road",Killed=1,Injured=0,Operations="nan" 1515398400
+shooting IncidentID=1019797,IncidentDate="December 30, 2017",State="California",CityOrCounty="Trinidad",Address="200 Big Lagoon Park Rd",Killed=0,Injured=0,Operations="nan" 1515402000
+shooting IncidentID=1017734,IncidentDate="December 30, 2017",State="Arkansas",CityOrCounty="Helena",Address="100 block of Oakland Street",Killed=1,Injured=1,Operations="nan" 1515405600
+shooting IncidentID=1016959,IncidentDate="December 30, 2017",State="Texas",CityOrCounty="Houston",Address="W Orem and Townwood",Killed=1,Injured=0,Operations="nan" 1515409200
+shooting IncidentID=1017980,IncidentDate="December 30, 2017",State="North Carolina",CityOrCounty="High Point",Address="523 Amos St",Killed=1,Injured=0,Operations="nan" 1515412800
+shooting IncidentID=1019775,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Bradenton",Address="600 Block of 22nd Ln E",Killed=0,Injured=0,Operations="nan" 1515416400
+shooting IncidentID=1016882,IncidentDate="December 30, 2017",State="South Carolina",CityOrCounty="Columbia",Address="300 block of Mapleview Drive",Killed=0,Injured=0,Operations="nan" 1515420000
+shooting IncidentID=1019242,IncidentDate="December 30, 2017",State="Arkansas",CityOrCounty="Little Rock",Address="4109 E 35th St",Killed=0,Injured=0,Operations="nan" 1515423600
+shooting IncidentID=1022804,IncidentDate="December 30, 2017",State="Arizona",CityOrCounty="Goodyear",Address="Pebble Creek Pkwy and Indian School Rd",Killed=0,Injured=0,Operations="nan" 1515427200
+shooting IncidentID=1017226,IncidentDate="December 30, 2017",State="Alaska",CityOrCounty="Anchorage",Address="100 block of Oklahoma St",Killed=1,Injured=0,Operations="nan" 1515430800
+shooting IncidentID=1019235,IncidentDate="December 30, 2017",State="Arkansas",CityOrCounty="Little Rock",Address="1500 block of Peyton St",Killed=0,Injured=1,Operations="nan" 1515434400
+shooting IncidentID=1017291,IncidentDate="December 30, 2017",State="Missouri",CityOrCounty="Saint Louis",Address="6412 Michigan Ave",Killed=0,Injured=3,Operations="nan" 1515438000
+shooting IncidentID=1017123,IncidentDate="December 30, 2017",State="Louisiana",CityOrCounty="New Orleans",Address="8700 block of Dinkins St",Killed=0,Injured=1,Operations="nan" 1515441600
+shooting IncidentID=1017260,IncidentDate="December 30, 2017",State="Kansas",CityOrCounty="Kansas City",Address="700 block of N 9th St",Killed=1,Injured=0,Operations="nan" 1515445200
+shooting IncidentID=1017151,IncidentDate="December 30, 2017",State="Maryland",CityOrCounty="District Heights",Address="3318 Walters Ln",Killed=1,Injured=0,Operations="nan" 1515448800
+shooting IncidentID=1016904,IncidentDate="December 30, 2017",State="New Jersey",CityOrCounty="Paterson",Address="Peach St and Plum St",Killed=0,Injured=1,Operations="nan" 1515452400
+shooting IncidentID=1017878,IncidentDate="December 30, 2017",State="Maryland",CityOrCounty="Baltimore",Address="1500 block of Shields Pl",Killed=0,Injured=0,Operations="nan" 1515456000
+shooting IncidentID=1022747,IncidentDate="December 30, 2017",State="Maryland",CityOrCounty="Salisbury",Address="E Church St",Killed=0,Injured=1,Operations="nan" 1515459600
+shooting IncidentID=1017636,IncidentDate="December 30, 2017",State="Louisiana",CityOrCounty="Shreveport",Address="900 block of Beauregard Drive",Killed=0,Injured=1,Operations="nan" 1515463200
+shooting IncidentID=1017615,IncidentDate="December 30, 2017",State="Arkansas",CityOrCounty="Little Rock",Address="2800 block of East Roosevelt Road",Killed=0,Injured=1,Operations="nan" 1515466800
+shooting IncidentID=1017609,IncidentDate="December 30, 2017",State="Arkansas",CityOrCounty="Little Rock",Address="2600 block of Booker Street",Killed=0,Injured=1,Operations="nan" 1515470400
+shooting IncidentID=1017591,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Chicago",Address="1400 N Lotus Ave",Killed=0,Injured=1,Operations="nan" 1515474000
+shooting IncidentID=1017086,IncidentDate="December 30, 2017",State="West Virginia",CityOrCounty="Charleston",Address="1300 block of Renaissance Cir",Killed=0,Injured=1,Operations="nan" 1515477600
+shooting IncidentID=1021377,IncidentDate="December 30, 2017",State="Texas",CityOrCounty="Hillsboro",Address="1000 block of E Walnut St",Killed=1,Injured=0,Operations="nan" 1515481200
+shooting IncidentID=1017573,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Chicago",Address="5300 W Ohio St",Killed=0,Injured=1,Operations="nan" 1515484800
+shooting IncidentID=1017571,IncidentDate="December 30, 2017",State="Missouri",CityOrCounty="Fulton",Address="500 block of Grand Ave",Killed=0,Injured=0,Operations="nan" 1515488400
+shooting IncidentID=1020342,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Kankakee",Address="600 N Harrison Ave",Killed=0,Injured=0,Operations="nan" 1515492000
+shooting IncidentID=1022923,IncidentDate="December 30, 2017",State="New Hampshire",CityOrCounty="Portsmouth",Address="Melcher St",Killed=0,Injured=0,Operations="nan" 1515495600
+shooting IncidentID=1017564,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Chicago",Address="300 S Kilbourn Ave",Killed=0,Injured=1,Operations="nan" 1515499200
+shooting IncidentID=1019693,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Fort Pierce",Address="N 33rd St and Angle Rd",Killed=0,Injured=0,Operations="nan" 1515502800
+shooting IncidentID=1019160,IncidentDate="December 30, 2017",State="California",CityOrCounty="San Bernardino",Address="Genevieve St and 34th St",Killed=0,Injured=0,Operations="nan" 1515506400
+shooting IncidentID=1019606,IncidentDate="December 30, 2017",State="Alabama",CityOrCounty="Athens",Address="Henry Drive",Killed=0,Injured=1,Operations="nan" 1515510000
+shooting IncidentID=1017544,IncidentDate="December 30, 2017",State="Kansas",CityOrCounty="Topeka",Address="3rd St and Lawrence St",Killed=0,Injured=0,Operations="nan" 1515513600
+shooting IncidentID=1017535,IncidentDate="December 30, 2017",State="Missouri",CityOrCounty="Independence",Address="14609 E Truman Rd",Killed=1,Injured=0,Operations="nan" 1515517200
+shooting IncidentID=1018848,IncidentDate="December 30, 2017",State="Minnesota",CityOrCounty="Minneapolis (Robbinsdale)",Address="3300 Oakdale Ave N",Killed=0,Injured=1,Operations="nan" 1515520800
+shooting IncidentID=1021290,IncidentDate="December 30, 2017",State="Georgia",CityOrCounty="Jackson (county)",Address="nan",Killed=0,Injured=0,Operations="nan" 1515524400
+shooting IncidentID=1025912,IncidentDate="December 30, 2017",State="Massachusetts",CityOrCounty="Cambridge",Address="Massachusetts Ave",Killed=0,Injured=0,Operations="nan" 1515528000
+shooting IncidentID=1016898,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Chicago",Address="3000 W Jackson Blvd",Killed=0,Injured=1,Operations="nan" 1515531600
+shooting IncidentID=1016895,IncidentDate="December 30, 2017",State="Illinois",CityOrCounty="Chicago",Address="5700 W Washington Blvd",Killed=0,Injured=1,Operations="nan" 1515535200
+shooting IncidentID=1017815,IncidentDate="December 30, 2017",State="Iowa",CityOrCounty="Council Bluffs",Address="2701 23rd Ave",Killed=0,Injured=1,Operations="nan" 1515538800
+shooting IncidentID=1019646,IncidentDate="December 30, 2017",State="Wisconsin",CityOrCounty="Brookfield",Address="20150 W. Blue Mound Road",Killed=1,Injured=0,Operations="nan" 1515542400
+shooting IncidentID=1018573,IncidentDate="December 30, 2017",State="Oklahoma",CityOrCounty="Tishomingo",Address="Slippery Falls Rd and 3rd St",Killed=0,Injured=0,Operations="nan" 1515546000
+shooting IncidentID=1019557,IncidentDate="December 30, 2017",State="Hawaii",CityOrCounty="Pahoa",Address="Hee St",Killed=0,Injured=0,Operations="nan" 1515549600
+shooting IncidentID=1017276,IncidentDate="December 30, 2017",State="South Carolina",CityOrCounty="Florence",Address="155 W Lucas St",Killed=0,Injured=1,Operations="nan" 1515553200
+shooting IncidentID=1018186,IncidentDate="December 30, 2017",State="New Jersey",CityOrCounty="Eatontown",Address="Richardson Ave",Killed=0,Injured=0,Operations="nan" 1515556800
+shooting IncidentID=1017473,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Polk City",Address="9511 Evans Road",Killed=2,Injured=1,Operations="nan" 1515560400
+shooting IncidentID=1017880,IncidentDate="December 30, 2017",State="Oklahoma",CityOrCounty="Tulsa",Address="nan",Killed=0,Injured=1,Operations="nan" 1515564000
+shooting IncidentID=1019611,IncidentDate="December 30, 2017",State="Alabama",CityOrCounty="Gadsden",Address="1001 Rainbow Dr",Killed=0,Injured=0,Operations="nan" 1515567600
+shooting IncidentID=1017015,IncidentDate="December 30, 2017",State="Tennessee",CityOrCounty="Chattanooga",Address="nan",Killed=0,Injured=1,Operations="nan" 1515571200
+shooting IncidentID=1017180,IncidentDate="December 30, 2017",State="Washington",CityOrCounty="Vancouver",Address="12500 block of NE 28th St",Killed=1,Injured=0,Operations="nan" 1515574800
+shooting IncidentID=1017670,IncidentDate="December 30, 2017",State="Ohio",CityOrCounty="Columbus",Address="847 E 11th Ave",Killed=1,Injured=0,Operations="nan" 1515578400
+shooting IncidentID=1018951,IncidentDate="December 30, 2017",State="Alabama",CityOrCounty="Greensboro",Address="County Rd 16",Killed=1,Injured=0,Operations="nan" 1515582000
+shooting IncidentID=1017642,IncidentDate="December 30, 2017",State="Ohio",CityOrCounty="Cleveland",Address="Euclid Ave and E 79th St",Killed=1,Injured=0,Operations="nan" 1515585600
+shooting IncidentID=1019596,IncidentDate="December 30, 2017",State="Oklahoma",CityOrCounty="Tulsa",Address="10021 E 71st St",Killed=0,Injured=0,Operations="nan" 1515589200
+shooting IncidentID=1016864,IncidentDate="December 30, 2017",State="Connecticut",CityOrCounty="Bridgeport",Address="Astoria Ave and Laurel Ave",Killed=0,Injured=0,Operations="nan" 1515592800
+shooting IncidentID=1017366,IncidentDate="December 30, 2017",State="Massachusetts",CityOrCounty="Boston",Address="Elder St",Killed=0,Injured=1,Operations="nan" 1515596400
+shooting IncidentID=1017350,IncidentDate="December 30, 2017",State="Louisiana",CityOrCounty="Baton Rouge",Address="6224 Plank Rd.",Killed=2,Injured=0,Operations="nan" 1515600000
+shooting IncidentID=1017334,IncidentDate="December 30, 2017",State="Louisiana",CityOrCounty="Baton Rouge",Address="1400 block of Lake Callais Ct",Killed=0,Injured=1,Operations="nan" 1515603600
+shooting IncidentID=1018081,IncidentDate="December 30, 2017",State="Maine",CityOrCounty="Waterville",Address="Yeaton St",Killed=0,Injured=0,Operations="nan" 1515607200
+shooting IncidentID=1020184,IncidentDate="December 30, 2017",State="South Carolina",CityOrCounty="Florence",Address="900 Block of W Marion St",Killed=0,Injured=1,Operations="nan" 1515610800
+shooting IncidentID=1017319,IncidentDate="December 30, 2017",State="Colorado",CityOrCounty="Colorado Springs",Address="1300 block of Marsh Hawk Dr",Killed=0,Injured=1,Operations="nan" 1515614400
+shooting IncidentID=1020165,IncidentDate="December 30, 2017",State="South Carolina",CityOrCounty="Greenwood",Address="Sylvan Rd",Killed=0,Injured=0,Operations="nan" 1515618000
+shooting IncidentID=1017315,IncidentDate="December 30, 2017",State="Tennessee",CityOrCounty="Antioch",Address="2900 block of Brantley Drive",Killed=0,Injured=1,Operations="nan" 1515621600
+shooting IncidentID=1017312,IncidentDate="December 30, 2017",State="Mississippi",CityOrCounty="Jackson",Address="400 block of Bonita Street",Killed=1,Injured=0,Operations="nan" 1515625200
+shooting IncidentID=1017306,IncidentDate="December 30, 2017",State="Mississippi",CityOrCounty="Jackson",Address="212 Lindsey Drive",Killed=1,Injured=0,Operations="nan" 1515628800
+shooting IncidentID=1018071,IncidentDate="December 30, 2017",State="Alaska",CityOrCounty="Wasilla",Address="Pittman Road",Killed=0,Injured=0,Operations="nan" 1515632400
+shooting IncidentID=1017933,IncidentDate="December 30, 2017",State="Washington",CityOrCounty="Lynnwood",Address="16100 Ash Way",Killed=1,Injured=0,Operations="nan" 1515636000
+shooting IncidentID=1018028,IncidentDate="December 30, 2017",State="Virginia",CityOrCounty="Fredericksburg",Address="10950 Pierson Dr",Killed=0,Injured=0,Operations="nan" 1515639600
+shooting IncidentID=1017258,IncidentDate="December 30, 2017",State="Kansas",CityOrCounty="Kansas City",Address="1200 block of Kansas Ave",Killed=0,Injured=1,Operations="nan" 1515643200
+shooting IncidentID=1017254,IncidentDate="December 30, 2017",State="Massachusetts",CityOrCounty="Deerfield",Address="Greenfield Rd",Killed=0,Injured=0,Operations="nan" 1515646800
+shooting IncidentID=1017251,IncidentDate="December 30, 2017",State="Michigan",CityOrCounty="Detroit",Address="Evergreen Ave and Lyndon Ave",Killed=0,Injured=1,Operations="nan" 1515650400
+shooting IncidentID=1018023,IncidentDate="December 30, 2017",State="Florida",CityOrCounty="Belle Glade",Address="400 block of W Ave A",Killed=0,Injured=1,Operations="nan" 1515654000
+shooting IncidentID=1017228,IncidentDate="December 30, 2017",State="Arizona",CityOrCounty="Phoenix",Address="1503 W Missouri Ave",Killed=0,Injured=1,Operations="nan" 1515657600
+shooting IncidentID=1017058,IncidentDate="December 30, 2017",State="Virginia",CityOrCounty="Martinsville",Address="1105 Brookdale Rd",Killed=1,Injured=0,Operations="nan" 1515661200
+shooting IncidentID=1019353,IncidentDate="December 30, 2017",State="Georgia",CityOrCounty="Savannah",Address="Montgomery St and W Park Ave",Killed=1,Injured=0,Operations="nan" 1515664800
+shooting IncidentID=1016444,IncidentDate="December 29, 2017",State="Oklahoma",CityOrCounty="Hartshorne",Address="1200 block of Lehigh Ave",Killed=1,Injured=1,Operations="nan" 1515582000
+shooting IncidentID=1058735,IncidentDate="December 29, 2017",State="Georgia",CityOrCounty="Riverdale",Address="Lake Ridge Pkwy",Killed=1,Injured=0,Operations="nan" 1515585600
+shooting IncidentID=1016713,IncidentDate="December 29, 2017",State="Massachusetts",CityOrCounty="Taunton",Address="152 Dunbar St",Killed=0,Injured=0,Operations="nan" 1515589200
+shooting IncidentID=1016711,IncidentDate="December 29, 2017",State="Massachusetts",CityOrCounty="Boston",Address="4 Hecla St",Killed=0,Injured=0,Operations="nan" 1515592800
+shooting IncidentID=1045194,IncidentDate="December 29, 2017",State="Massachusetts",CityOrCounty="Boston",Address="920 Adams St",Killed=0,Injured=0,Operations="nan" 1515596400
+shooting IncidentID=1016824,IncidentDate="December 29, 2017",State="Kentucky",CityOrCounty="Leitchfield",Address="4334 Grayson Springs Rd",Killed=1,Injured=0,Operations="nan" 1515600000
+shooting IncidentID=1016447,IncidentDate="December 29, 2017",State="Texas",CityOrCounty="Houston",Address="14300 S Post Oak Rd",Killed=3,Injured=0,Operations="nan" 1515603600
+shooting IncidentID=1020060,IncidentDate="December 29, 2017",State="Texas",CityOrCounty="Houston",Address="5404 Nordling",Killed=1,Injured=0,Operations="nan" 1515607200
+shooting IncidentID=1018792,IncidentDate="December 29, 2017",State="New York",CityOrCounty="Niagara Falls",Address="1000 block of 20th St",Killed=0,Injured=0,Operations="nan" 1515610800
+shooting IncidentID=1025969,IncidentDate="December 29, 2017",State="Georgia",CityOrCounty="Atlanta",Address="1700 Block of Friar Tuck Rd",Killed=0,Injured=0,Operations="nan" 1515614400
+shooting IncidentID=1428055,IncidentDate="December 29, 2017",State="Iowa",CityOrCounty="Cedar Rapids",Address="nan",Killed=0,Injured=0,Operations="nan" 1515618000
+shooting IncidentID=1021018,IncidentDate="December 29, 2017",State="Minnesota",CityOrCounty="Morrison (county)",Address="nan",Killed=0,Injured=0,Operations="nan" 1515621600
+shooting IncidentID=1016651,IncidentDate="December 29, 2017",State="Virginia",CityOrCounty="Fieldale",Address="nan",Killed=0,Injured=0,Operations="nan" 1515625200
+shooting IncidentID=1019878,IncidentDate="December 29, 2017",State="New York",CityOrCounty="Monticello",Address="Pleasant St",Killed=0,Injured=0,Operations="nan" 1515628800
+shooting IncidentID=1016592,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Wilmington",Address="600 block of Campbell St",Killed=0,Injured=0,Operations="nan" 1515632400
+shooting IncidentID=1017962,IncidentDate="December 29, 2017",State="New Mexico",CityOrCounty="Albuquerque",Address="Central Ave and 14th St",Killed=0,Injured=0,Operations="nan" 1515636000
+shooting IncidentID=1016580,IncidentDate="December 29, 2017",State="Virginia",CityOrCounty="Richmond",Address="1030 German School Rd",Killed=0,Injured=0,Operations="nan" 1515639600
+shooting IncidentID=1016571,IncidentDate="December 29, 2017",State="Virginia",CityOrCounty="Richmond",Address="3000 block of Meadowbridge Rd",Killed=0,Injured=1,Operations="nan" 1515643200
+shooting IncidentID=1016560,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Fayetteville",Address="3060 block of Cumberland Rd",Killed=0,Injured=2,Operations="nan" 1515646800
+shooting IncidentID=1016400,IncidentDate="December 29, 2017",State="Maryland",CityOrCounty="Baltimore",Address="400 block of N East Ave",Killed=0,Injured=1,Operations="nan" 1515650400
+shooting IncidentID=1016838,IncidentDate="December 29, 2017",State="Indiana",CityOrCounty="Indianapolis",Address="W 25th St and Doctor MLK Jr St",Killed=0,Injured=1,Operations="nan" 1515654000
+shooting IncidentID=1017077,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Melbourne (West Melbourne)",Address="Palm Bay Rd and Norfolk Pkwy",Killed=0,Injured=1,Operations="nan" 1515657600
+shooting IncidentID=1054332,IncidentDate="December 29, 2017",State="Maryland",CityOrCounty="Salisbury",Address="800 block of Seminole Blvd",Killed=0,Injured=0,Operations="nan" 1515661200
+shooting IncidentID=1016526,IncidentDate="December 29, 2017",State="Tennessee",CityOrCounty="Chattanooga",Address="1800 block of E 4th St",Killed=0,Injured=1,Operations="nan" 1515664800
+shooting IncidentID=1028479,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Hollywood (Cooper City)",Address="nan",Killed=0,Injured=0,Operations="nan" 1515668400
+shooting IncidentID=1018006,IncidentDate="December 29, 2017",State="Mississippi",CityOrCounty="Wayne (county)",Address="nan",Killed=0,Injured=1,Operations="nan" 1515672000
+shooting IncidentID=1017103,IncidentDate="December 29, 2017",State="Kentucky",CityOrCounty="Paducah",Address="2400 Irvin Cobb Dr",Killed=0,Injured=0,Operations="nan" 1515675600
+shooting IncidentID=1016508,IncidentDate="December 29, 2017",State="Tennessee",CityOrCounty="Springfield",Address="20th Ave W",Killed=0,Injured=1,Operations="nan" 1515679200
+shooting IncidentID=1016506,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Rocky Mount",Address="2740 Stewart Ln",Killed=1,Injured=0,Operations="nan" 1515682800
+shooting IncidentID=1016246,IncidentDate="December 29, 2017",State="Texas",CityOrCounty="San Antonio",Address="4700 block of Belinda Lee St",Killed=1,Injured=0,Operations="nan" 1515686400
+shooting IncidentID=1016501,IncidentDate="December 29, 2017",State="Tennessee",CityOrCounty="Springfield",Address="15th Ave W",Killed=0,Injured=1,Operations="nan" 1515690000
+shooting IncidentID=1017126,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Miami",Address="NW 133rd St and NW 13th St",Killed=0,Injured=1,Operations="nan" 1515693600
+shooting IncidentID=1017119,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Hialeah",Address="7194 W 12th Ave",Killed=0,Injured=1,Operations="nan" 1515697200
+shooting IncidentID=1022307,IncidentDate="December 29, 2017",State="Idaho",CityOrCounty="Mullan",Address="500 block of Pine St",Killed=0,Injured=0,Operations="nan" 1515700800
+shooting IncidentID=1017117,IncidentDate="December 29, 2017",State="Mississippi",CityOrCounty="Wiggins",Address="Stennis Dr",Killed=0,Injured=0,Operations="nan" 1515704400
+shooting IncidentID=1017874,IncidentDate="December 29, 2017",State="Maryland",CityOrCounty="Baltimore",Address="3200 block of Powhatan Ave",Killed=0,Injured=0,Operations="nan" 1515708000
+shooting IncidentID=1016812,IncidentDate="December 29, 2017",State="Arkansas",CityOrCounty="Lonsdale",Address="2700 block of Highway 128",Killed=0,Injured=1,Operations="nan" 1515711600
+shooting IncidentID=1020930,IncidentDate="December 29, 2017",State="Mississippi",CityOrCounty="Booneville",Address="nan",Killed=0,Injured=0,Operations="nan" 1515715200
+shooting IncidentID=1017851,IncidentDate="December 29, 2017",State="Maryland",CityOrCounty="Frederick",Address="600 block of Heather Ridge Dr",Killed=0,Injured=1,Operations="nan" 1515718800
+shooting IncidentID=1016479,IncidentDate="December 29, 2017",State="Washington",CityOrCounty="Vancouver",Address="5113 NE 31st Ct",Killed=0,Injured=0,Operations="nan" 1515722400
+shooting IncidentID=1017825,IncidentDate="December 29, 2017",State="Georgia",CityOrCounty="Columbus",Address="1400 block of 24th St",Killed=0,Injured=3,Operations="nan" 1515726000
+shooting IncidentID=1017818,IncidentDate="December 29, 2017",State="Georgia",CityOrCounty="Columbus",Address="Lumpkin Ct",Killed=1,Injured=0,Operations="nan" 1515729600
+shooting IncidentID=1017165,IncidentDate="December 29, 2017",State="Delaware",CityOrCounty="Dover",Address="820 Carvel Dr",Killed=0,Injured=0,Operations="nan" 1515733200
+shooting IncidentID=1017805,IncidentDate="December 29, 2017",State="Nebraska",CityOrCounty="Lincoln",Address="N 68th St and Aylesworth Ave",Killed=0,Injured=0,Operations="nan" 1515736800
+shooting IncidentID=1118297,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Tallahassee",Address="3000 block of S Adams St",Killed=0,Injured=0,Operations="nan" 1515740400
+shooting IncidentID=1017298,IncidentDate="December 29, 2017",State="Missouri",CityOrCounty="Saint Louis",Address="2200 block of Keokuk St",Killed=0,Injured=2,Operations="nan" 1515744000
+shooting IncidentID=1016462,IncidentDate="December 29, 2017",State="California",CityOrCounty="Long Beach",Address="300 E San Antonio Dr",Killed=2,Injured=1,Operations="nan" 1515747600
+shooting IncidentID=1047023,IncidentDate="December 29, 2017",State="Colorado",CityOrCounty="Thornton",Address="11600 block of Riverdale Rd",Killed=1,Injured=0,Operations="nan" 1515751200
+shooting IncidentID=1017045,IncidentDate="December 29, 2017",State="California",CityOrCounty="Apple Valley",Address="14000 block of Navajo Rd",Killed=0,Injured=0,Operations="nan" 1515754800
+shooting IncidentID=1018322,IncidentDate="December 29, 2017",State="Ohio",CityOrCounty="Lorain",Address="1900 block of Madison Ave",Killed=1,Injured=0,Operations="nan" 1515758400
+shooting IncidentID=1038014,IncidentDate="December 29, 2017",State="Illinois",CityOrCounty="Mattoon",Address="Health Center Dr",Killed=0,Injured=0,Operations="nan" 1515762000
+shooting IncidentID=1019330,IncidentDate="December 29, 2017",State="Georgia",CityOrCounty="Athens",Address="135 Hoyt St",Killed=0,Injured=0,Operations="nan" 1515765600
+shooting IncidentID=1017026,IncidentDate="December 29, 2017",State="California",CityOrCounty="Santa Rosa",Address="1250 Hahman Dr",Killed=0,Injured=0,Operations="nan" 1515769200
+shooting IncidentID=1016865,IncidentDate="December 29, 2017",State="Illinois",CityOrCounty="Champaign",Address="County Rd 1800 N and N Rising Rd",Killed=0,Injured=0,Operations="nan" 1515772800
+shooting IncidentID=1140416,IncidentDate="December 29, 2017",State="California",CityOrCounty="Sacramento",Address="7800 block of Center Parkway",Killed=0,Injured=1,Operations="nan" 1515776400
+shooting IncidentID=1016836,IncidentDate="December 29, 2017",State="California",CityOrCounty="Los Angeles",Address="Hartford Ave",Killed=0,Injured=1,Operations="nan" 1515780000
+shooting IncidentID=1016428,IncidentDate="December 29, 2017",State="Louisiana",CityOrCounty="New Orleans",Address="Desire Street and North Derbigny Street",Killed=0,Injured=1,Operations="nan" 1515783600
+shooting IncidentID=1017966,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Chapel Hill",Address="400 Block of W Rosemary St",Killed=0,Injured=0,Operations="nan" 1515787200
+shooting IncidentID=1020524,IncidentDate="December 29, 2017",State="South Dakota",CityOrCounty="Brandon",Address="1400 block of S Lakota Ave",Killed=0,Injured=0,Operations="nan" 1515790800
+shooting IncidentID=1016349,IncidentDate="December 29, 2017",State="District of Columbia",CityOrCounty="Washington",Address="3900 block of 1st St SE",Killed=1,Injured=0,Operations="nan" 1515794400
+shooting IncidentID=1016796,IncidentDate="December 29, 2017",State="District of Columbia",CityOrCounty="Washington",Address="700 block of Fairmont St NW",Killed=0,Injured=2,Operations="nan" 1515798000
+shooting IncidentID=1017141,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Avon Park",Address="220 Garrett Rd",Killed=1,Injured=0,Operations="nan" 1515801600
+shooting IncidentID=1019245,IncidentDate="December 29, 2017",State="Delaware",CityOrCounty="Wilmington",Address="2800 block of Washington St",Killed=0,Injured=0,Operations="nan" 1515805200
+shooting IncidentID=1017710,IncidentDate="December 29, 2017",State="South Carolina",CityOrCounty="Rock Hill",Address="Saluda Road",Killed=0,Injured=0,Operations="nan" 1515808800
+shooting IncidentID=1016913,IncidentDate="December 29, 2017",State="New York",CityOrCounty="Commack",Address="6136 Jericho Turnpike",Killed=0,Injured=0,Operations="nan" 1515812400
+shooting IncidentID=1019627,IncidentDate="December 29, 2017",State="South Carolina",CityOrCounty="Bluffton",Address="nan",Killed=0,Injured=1,Operations="nan" 1515816000
+shooting IncidentID=1016846,IncidentDate="December 29, 2017",State="Missouri",CityOrCounty="Springfield",Address="2655 N Glenstone Ave",Killed=1,Injured=0,Operations="nan" 1515819600
+shooting IncidentID=1017841,IncidentDate="December 29, 2017",State="Maryland",CityOrCounty="Frederick",Address="500 block of Wellington Ct",Killed=0,Injured=0,Operations="nan" 1515823200
+shooting IncidentID=1089430,IncidentDate="December 29, 2017",State="Wisconsin",CityOrCounty="Raymond",Address="Waukesha Rd",Killed=0,Injured=0,Operations="nan" 1515826800
+shooting IncidentID=1017663,IncidentDate="December 29, 2017",State="Alabama",CityOrCounty="Montgomery",Address="3400 block of Norman Bridge Road",Killed=0,Injured=1,Operations="nan" 1515830400
+shooting IncidentID=1017408,IncidentDate="December 29, 2017",State="Virginia",CityOrCounty="Smithfield",Address="1205 S Church St",Killed=1,Injured=0,Operations="nan" 1515834000
+shooting IncidentID=1017308,IncidentDate="December 29, 2017",State="Mississippi",CityOrCounty="Jackson",Address="5400 block of Brookhollow Dr",Killed=1,Injured=0,Operations="nan" 1515837600
+shooting IncidentID=1019179,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Albemarle",Address="US 52 N",Killed=0,Injured=1,Operations="nan" 1515841200
+shooting IncidentID=1017624,IncidentDate="December 29, 2017",State="Arkansas",CityOrCounty="Monticello",Address="100 block of Cook Lane",Killed=0,Injured=1,Operations="nan" 1515844800
+shooting IncidentID=1022735,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Fort Walton Beach",Address="Holmes Blvd and Martisa Rd",Killed=0,Injured=0,Operations="nan" 1515848400
+shooting IncidentID=1016911,IncidentDate="December 29, 2017",State="New Jersey",CityOrCounty="Absecon",Address="200 block of E White Horse Pike",Killed=0,Injured=0,Operations="nan" 1515852000
+shooting IncidentID=1016889,IncidentDate="December 29, 2017",State="Illinois",CityOrCounty="Chicago",Address="12500 S Emerald Ave",Killed=1,Injured=1,Operations="nan" 1515855600
+shooting IncidentID=1040858,IncidentDate="December 29, 2017",State="Illinois",CityOrCounty="Alton",Address="1200 Central Ave",Killed=0,Injured=0,Operations="nan" 1515859200
+shooting IncidentID=1016324,IncidentDate="December 29, 2017",State="Ohio",CityOrCounty="Akron",Address="786 West Market St",Killed=0,Injured=1,Operations="nan" 1515862800
+shooting IncidentID=1017537,IncidentDate="December 29, 2017",State="Pennsylvania",CityOrCounty="Altoona",Address="58th St and 6th Ave",Killed=0,Injured=0,Operations="nan" 1515866400
+shooting IncidentID=1017033,IncidentDate="December 29, 2017",State="California",CityOrCounty="South Gate",Address="9800 block of Bowman Ave",Killed=1,Injured=0,Operations="nan" 1515870000
+shooting IncidentID=1019418,IncidentDate="December 29, 2017",State="Missouri",CityOrCounty="Saint Louis",Address="5300 block of Lucas-Hunt Rd",Killed=0,Injured=0,Operations="nan" 1515873600
+shooting IncidentID=1016892,IncidentDate="December 29, 2017",State="Illinois",CityOrCounty="Chicago",Address="1000 N Campbell Ave",Killed=0,Injured=1,Operations="nan" 1515877200
+shooting IncidentID=1019015,IncidentDate="December 29, 2017",State="Mississippi",CityOrCounty="Silver Creek",Address="US 84",Killed=0,Injured=1,Operations="nan" 1515880800
+shooting IncidentID=1021563,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Panama City",Address="Tower Rd",Killed=0,Injured=0,Operations="nan" 1515884400
+shooting IncidentID=1016273,IncidentDate="December 29, 2017",State="Illinois",CityOrCounty="Chicago",Address="2300 W Grand Ave",Killed=0,Injured=1,Operations="nan" 1515888000
+shooting IncidentID=1016261,IncidentDate="December 29, 2017",State="Illinois",CityOrCounty="Chicago",Address="7600 S Rhodes Ave",Killed=0,Injured=1,Operations="nan" 1515891600
+shooting IncidentID=1016570,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Reidsville",Address="101 Peony Ln",Killed=0,Injured=0,Operations="nan" 1515895200
+shooting IncidentID=1019632,IncidentDate="December 29, 2017",State="South Carolina",CityOrCounty="York",Address="Cripple Creek Dr",Killed=0,Injured=0,Operations="nan" 1515898800
+shooting IncidentID=1016880,IncidentDate="December 29, 2017",State="South Carolina",CityOrCounty="Columbia",Address="900 block of Walnut Street",Killed=0,Injured=1,Operations="nan" 1515902400
+shooting IncidentID=1016762,IncidentDate="December 29, 2017",State="Missouri",CityOrCounty="Saint Louis",Address="4900 block of Rosalie St",Killed=0,Injured=1,Operations="nan" 1515906000
+shooting IncidentID=1019461,IncidentDate="December 29, 2017",State="Iowa",CityOrCounty="Forest City",Address="nan",Killed=0,Injured=0,Operations="nan" 1515909600
+shooting IncidentID=1017243,IncidentDate="December 29, 2017",State="Indiana",CityOrCounty="South Bend",Address="nan",Killed=0,Injured=1,Operations="nan" 1515913200
+shooting IncidentID=1071050,IncidentDate="December 29, 2017",State="Oklahoma",CityOrCounty="Sallisaw",Address="nan",Killed=0,Injured=0,Operations="nan" 1515916800
+shooting IncidentID=1016829,IncidentDate="December 29, 2017",State="Georgia",CityOrCounty="Atlanta",Address="2727 Godby Rd",Killed=0,Injured=1,Operations="nan" 1515920400
+shooting IncidentID=1016612,IncidentDate="December 29, 2017",State="Oklahoma",CityOrCounty="Oklahoma City",Address="3900 block of SE 48th St",Killed=1,Injured=0,Operations="nan" 1515924000
+shooting IncidentID=1016231,IncidentDate="December 29, 2017",State="Oregon",CityOrCounty="Eugene",Address="446 Clark St",Killed=0,Injured=0,Operations="nan" 1515927600
+shooting IncidentID=1016222,IncidentDate="December 29, 2017",State="South Carolina",CityOrCounty="Columbia",Address="1727 Percival Rd",Killed=0,Injured=0,Operations="nan" 1515931200
+shooting IncidentID=1016871,IncidentDate="December 29, 2017",State="New York",CityOrCounty="Rochester",Address="Dewey Ave and Magee Ave",Killed=0,Injured=1,Operations="nan" 1515934800
+shooting IncidentID=1016182,IncidentDate="December 29, 2017",State="Florida",CityOrCounty="Miami",Address="NW 10th Ave and NW 36th St",Killed=0,Injured=1,Operations="nan" 1515938400
+shooting IncidentID=1017701,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Durham",Address="1100 block of Gurley St",Killed=0,Injured=1,Operations="nan" 1515942000
+shooting IncidentID=1016810,IncidentDate="December 29, 2017",State="California",CityOrCounty="Bakersfield",Address="Spectrum Park Way",Killed=1,Injured=0,Operations="nan" 1515945600
+shooting IncidentID=1017340,IncidentDate="December 29, 2017",State="Louisiana",CityOrCounty="Baton Rouge",Address="3800 Plank Road",Killed=0,Injured=1,Operations="nan" 1515949200
+shooting IncidentID=1016564,IncidentDate="December 29, 2017",State="Louisiana",CityOrCounty="Baton Rouge",Address="2400 block of Georgia Street",Killed=1,Injured=0,Operations="nan" 1515952800
+shooting IncidentID=1016430,IncidentDate="December 29, 2017",State="Louisiana",CityOrCounty="Baton Rouge",Address="3200 Plank Rd",Killed=1,Injured=0,Operations="nan" 1515956400
+shooting IncidentID=1016840,IncidentDate="December 29, 2017",State="Maine",CityOrCounty="Pittsfield",Address="858 Main St",Killed=0,Injured=0,Operations="nan" 1515960000
+shooting IncidentID=1031120,IncidentDate="December 29, 2017",State="North Carolina",CityOrCounty="Kinston",Address="E Washington Ave and Liberty Hill Rd",Killed=0,Injured=0,Operations="nan" 1515963600
+shooting IncidentID=1016833,IncidentDate="December 29, 2017",State="Louisiana",CityOrCounty="Marrero",Address="2800 block of Doreen Lane",Killed=0,Injured=1,Operations="nan" 1515967200
+shooting IncidentID=1016463,IncidentDate="December 29, 2017",State="Texas",CityOrCounty="San Antonio",Address="7300 Block of Marble Creek Dr",Killed=1,Injured=0,Operations="nan" 1515970800
+shooting IncidentID=1016822,IncidentDate="December 29, 2017",State="Arkansas",CityOrCounty="Little Rock",Address="Jennings Rd",Killed=0,Injured=0,Operations="nan" 1515974400
+shooting IncidentID=1017263,IncidentDate="December 29, 2017",State="South Carolina",CityOrCounty="Hartsville",Address="Primus Park Rd",Killed=0,Injured=0,Operations="nan" 1515978000
+shooting IncidentID=1016807,IncidentDate="December 29, 2017",State="California",CityOrCounty="Caruthers",Address="2388 W Tahoe Ave",Killed=0,Injured=2,Operations="nan" 1515981600
+shooting IncidentID=1016805,IncidentDate="December 29, 2017",State="California",CityOrCounty="Oakland",Address="5800 block of Bancroft Avenue",Killed=0,Injured=1,Operations="nan" 1515985200
+shooting IncidentID=1017632,IncidentDate="December 29, 2017",State="New Mexico",CityOrCounty="Albuquerque",Address="Central Ave SW and 14th St SW",Killed=0,Injured=0,Operations="nan" 1515988800
+shooting IncidentID=1016581,IncidentDate="December 29, 2017",State="Texas",CityOrCounty="Terrell",Address="301 Tanger Dr",Killed=0,Injured=1,Operations="nan" 1515992400
+shooting IncidentID=1017256,IncidentDate="December 29, 2017",State="Wisconsin",CityOrCounty="Milwaukee",Address="3300 block of W Vliet St",Killed=0,Injured=1,Operations="nan" 1515996000
+shooting IncidentID=1016908,IncidentDate="December 29, 2017",State="New Jersey",CityOrCounty="Trenton",Address="nan",Killed=0,Injured=0,Operations="nan" 1515999600
+shooting IncidentID=1017246,IncidentDate="December 29, 2017",State="Michigan",CityOrCounty="Detroit",Address="8600 block of Stahelin Ave",Killed=0,Injured=1,Operations="nan" 1516003200
+shooting IncidentID=1017883,IncidentDate="December 29, 2017",State="California",CityOrCounty="Banning",Address="700 block of Hoffer St",Killed=1,Injured=1,Operations="nan" 1516006800
+shooting IncidentID=1016764,IncidentDate="December 29, 2017",State="Connecticut",CityOrCounty="Bridgeport",Address="Trumbull Ave",Killed=0,Injured=0,Operations="nan" 1516010400
+shooting IncidentID=1016756,IncidentDate="December 29, 2017",State="Connecticut",CityOrCounty="Bridgeport",Address="4402 Main St",Killed=0,Injured=1,Operations="nan" 1516014000
+shooting IncidentID=1017233,IncidentDate="December 29, 2017",State="Colorado",CityOrCounty="Colorado Springs",Address="2000 block of Carmel Dr",Killed=0,Injured=1,Operations="nan" 1516017600
+shooting IncidentID=1016736,IncidentDate="December 29, 2017",State="California",CityOrCounty="Fontana",Address="11200 block of Poplar Ave",Killed=2,Injured=0,Operations="nan" 1516021200
+shooting IncidentID=1016264,IncidentDate="December 28, 2017",State="Texas",CityOrCounty="Houston",Address="5901 Selinsky Rd",Killed=1,Injured=2,Operations="nan" 1515938400
+shooting IncidentID=1015944,IncidentDate="December 28, 2017",State="North Carolina",CityOrCounty="Durham",Address="1200 Block of Wabash St",Killed=1,Injured=0,Operations="nan" 1515942000
+shooting IncidentID=1016731,IncidentDate="December 28, 2017",State="California",CityOrCounty="South Gate",Address="9800 block of Bowman Ave",Killed=1,Injured=0,Operations="nan" 1515945600
+shooting IncidentID=1016490,IncidentDate="December 28, 2017",State="Missouri",CityOrCounty="Saint Louis",Address="1700 block of Dick Gregory Pl",Killed=1,Injured=0,Operations="nan" 1515949200
+shooting IncidentID=1017539,IncidentDate="December 28, 2017",State="Pennsylvania",CityOrCounty="Brownsville",Address="253 3rd Ave",Killed=0,Injured=0,Operations="nan" 1515952800
+shooting IncidentID=1016129,IncidentDate="December 28, 2017",State="Pennsylvania",CityOrCounty="Dover",Address="3800 block of Kings Ln",Killed=1,Injured=0,Operations="nan" 1515956400
+shooting IncidentID=1015964,IncidentDate="December 28, 2017",State="Connecticut",CityOrCounty="New Haven",Address="300 block of Poplar St",Killed=0,Injured=1,Operations="nan" 1515960000
+shooting IncidentID=1015963,IncidentDate="December 28, 2017",State="Connecticut",CityOrCounty="Westport",Address="Merritt Pkwy",Killed=0,Injured=0,Operations="nan" 1515963600
+shooting IncidentID=1015956,IncidentDate="December 28, 2017",State="California",CityOrCounty="Stockton",Address="1100 Block of E Hazelton Ave",Killed=0,Injured=0,Operations="nan" 1515967200
+shooting IncidentID=1016678,IncidentDate="December 28, 2017",State="Massachusetts",CityOrCounty="Boston",Address="3091 Washington St",Killed=0,Injured=0,Operations="nan" 1515970800
+shooting IncidentID=1016477,IncidentDate="December 28, 2017",State="Oregon",CityOrCounty="Brookings",Address="15441 Oceanview Dr",Killed=0,Injured=1,Operations="nan" 1515974400
+shooting IncidentID=1016662,IncidentDate="December 28, 2017",State="South Carolina",CityOrCounty="Columbia",Address="100 block of Silo Ct",Killed=0,Injured=1,Operations="nan" 1515978000
+shooting IncidentID=1015803,IncidentDate="December 28, 2017",State="California",CityOrCounty="Bakersfield",Address="E 11th St and S King St",Killed=0,Injured=1,Operations="nan" 1515981600
+shooting IncidentID=1302326,IncidentDate="December 28, 2017",State="Ohio",CityOrCounty="Thornville",Address="11000 block of Roley Hills Rd",Killed=0,Injured=0,Operations="nan" 1515985200
+shooting IncidentID=1017187,IncidentDate="December 28, 2017",State="Washington",CityOrCounty="College Place",Address="700 block of S College Ave",Killed=0,Injured=0,Operations="nan" 1515988800
+shooting IncidentID=1016187,IncidentDate="December 28, 2017",State="Massachusetts",CityOrCounty="Boston",Address="32 Florian St",Killed=0,Injured=3,Operations="nan" 1515992400
+shooting IncidentID=1016637,IncidentDate="December 28, 2017",State="Massachusetts",CityOrCounty="Brockton",Address="16-18 Bunker Ave",Killed=0,Injured=0,Operations="nan" 1515996000
+shooting IncidentID=1021283,IncidentDate="December 28, 2017",State="Oregon",CityOrCounty="Brookings",Address="19100 Barnacle Rock Rd",Killed=0,Injured=0,Operations="nan" 1515999600
+shooting IncidentID=1021280,IncidentDate="December 28, 2017",State="Oregon",CityOrCounty="Veneta",Address="Erdman Way",Killed=0,Injured=0,Operations="nan" 1516003200
+shooting IncidentID=1015687,IncidentDate="December 28, 2017",State="Louisiana",CityOrCounty="New Orleans",Address="2900 block of St Anthony St",Killed=0,Injured=2,Operations="nan" 1516006800
+shooting IncidentID=1016619,IncidentDate="December 28, 2017",State="Alabama",CityOrCounty="Birmingham",Address="Highway 280",Killed=1,Injured=0,Operations="nan" 1516010400
+shooting IncidentID=1015876,IncidentDate="December 28, 2017",State="Montana",CityOrCounty="Kalispell",Address="Lower Valley Rd",Killed=0,Injured=1,Operations="nan" 1516014000
+shooting IncidentID=1017170,IncidentDate="December 28, 2017",State="Louisiana",CityOrCounty="New Orleans",Address="2400 block of Farragut St",Killed=0,Injured=0,Operations="nan" 1516017600
+shooting IncidentID=1015869,IncidentDate="December 28, 2017",State="Florida",CityOrCounty="Panama City",Address="Cherry St and S Hwy 22 A",Killed=0,Injured=1,Operations="nan" 1516021200
+shooting IncidentID=1015859,IncidentDate="December 28, 2017",State="Florida",CityOrCounty="Orlando",Address="Kirkland Blvd",Killed=0,Injured=1,Operations="nan" 1516024800
+shooting IncidentID=1015857,IncidentDate="December 28, 2017",State="California",CityOrCounty="Stockton",Address="1600 Block of 6th St",Killed=0,Injured=0,Operations="nan" 1516028400
+shooting IncidentID=1015849,IncidentDate="December 28, 2017",State="California",CityOrCounty="Stockton",Address="Arcade St and El Dorado St",Killed=0,Injured=0,Operations="nan" 1516032000
+shooting IncidentID=1016574,IncidentDate="December 28, 2017",State="North Carolina",CityOrCounty="High Point",Address="Garrison St",Killed=1,Injured=1,Operations="nan" 1516035600
+shooting IncidentID=1015690,IncidentDate="December 28, 2017",State="Virginia",CityOrCounty="Fredericksburg",Address="18 Newcastle Pl",Killed=2,Injured=0,Operations="nan" 1516039200
+shooting IncidentID=1016532,IncidentDate="December 28, 2017",State="Tennessee",CityOrCounty="Memphis",Address="Walden Glen Cove",Killed=1,Injured=1,Operations="nan" 1516042800
+shooting IncidentID=1016536,IncidentDate="December 28, 2017",State="Louisiana",CityOrCounty="Shreveport",Address="Portland Avenue and Attaway Avenue",Killed=0,Injured=1,Operations="nan" 1516046400
+shooting IncidentID=1016528,IncidentDate="December 28, 2017",State="Louisiana",CityOrCounty="Natchitoches",Address="1500 block of Stella Street",Killed=0,Injured=0,Operations="nan" 1516050000
+shooting IncidentID=1016107,IncidentDate="December 28, 2017",State="South Carolina",CityOrCounty="Greenville",Address="700 Haywood Rd",Killed=0,Injured=0,Operations="nan" 1516053600
+shooting IncidentID=1018954,IncidentDate="December 28, 2017",State="Alabama",CityOrCounty="Dothan",Address="nan",Killed=0,Injured=1,Operations="nan" 1516057200
+shooting IncidentID=1016045,IncidentDate="December 28, 2017",State="Texas",CityOrCounty="Fort Worth",Address="2300 block of New York Ave",Killed=1,Injured=0,Operations="nan" 1516060800
+shooting IncidentID=1015815,IncidentDate="December 28, 2017",State="California",CityOrCounty="Arvin",Address="200 Campus Dr",Killed=0,Injured=0,Operations="nan" 1516064400
+shooting IncidentID=1042080,IncidentDate="December 28, 2017",State="Florida",CityOrCounty="Gainesville",Address="1200 block of SW 61 Terrace",Killed=0,Injured=0,Operations="nan" 1516068000
+shooting IncidentID=1016031,IncidentDate="December 28, 2017",State="Georgia",CityOrCounty="Atlanta",Address="Linkwood Rd",Killed=1,Injured=0,Operations="nan" 1516071600
+shooting IncidentID=1015813,IncidentDate="December 28, 2017",State="Tennessee",CityOrCounty="Murfreesboro",Address="1000 block of Gunnerson Ave",Killed=0,Injured=0,Operations="nan" 1516075200
+shooting IncidentID=1016488,IncidentDate="December 28, 2017",State="Kansas",CityOrCounty="Wichita",Address="1000 block of McCormick",Killed=1,Injured=0,Operations="nan" 1516078800
+shooting IncidentID=1016483,IncidentDate="December 28, 2017",State="Idaho",CityOrCounty="Rathdrum",Address="1300 block of W Laramie Ave",Killed=0,Injured=0,Operations="nan" 1516082400
+shooting IncidentID=1017098,IncidentDate="December 28, 2017",State="Kentucky",CityOrCounty="Mayfield",Address="Sherwood Forrest",Killed=0,Injured=1,Operations="nan" 1516086000
+shooting IncidentID=1016475,IncidentDate="December 28, 2017",State="Texas",CityOrCounty="Taylor",Address="100 block of Carlos Parker Blvd",Killed=0,Injured=1,Operations="nan" 1516089600
+shooting IncidentID=1015795,IncidentDate="December 28, 2017",State="California",CityOrCounty="Bakersfield",Address="E 3rd St and Tyree Toliver St",Killed=0,Injured=0,Operations="nan" 1516093200
+shooting IncidentID=1016516,IncidentDate="December 28, 2017",State="Tennessee",CityOrCounty="Chattanooga",Address="7600 block of N Bishop Dr",Killed=1,Injured=0,Operations="nan" 1516096800
+shooting IncidentID=1015835,IncidentDate="December 28, 2017",State="Florida",CityOrCounty="Fort Lauderdale",Address="3670 N State Route 7",Killed=0,Injured=1,Operations="nan" 1516100400
+shooting IncidentID=1016511,IncidentDate="December 28, 2017",State="Tennessee",CityOrCounty="Jackson",Address="Briarcliff Dr",Killed=0,Injured=1,Operations="nan" 1516104000
+shooting IncidentID=1017860,IncidentDate="December 28, 2017",State="Oklahoma",CityOrCounty="Chickasha",Address="nan",Killed=0,Injured=1,Operations="nan" 1516107600
+shooting IncidentID=1017051,IncidentDate="December 28, 2017",State="California",CityOrCounty="Compton",Address="100 block of E Caldwell St",Killed=2,Injured=0,Operations="nan" 1516111200
+shooting IncidentID=1015788,IncidentDate="December 28, 2017",State="Indiana",CityOrCounty="Elkhart",Address="2020 E Bristol St",Killed=1,Injured=0,Operations="nan" 1516114800
+shooting IncidentID=1036492,IncidentDate="December 28, 2017",State="Texas",CityOrCounty="Beaumont",Address="3025 Washington Blvd",Killed=1,Injured=0,Operations="nan" 1516118400
+shooting IncidentID=1016437,IncidentDate="December 28, 2017",State="Mississippi",CityOrCounty="Biloxi (Saint Martin)",Address="Tucker Road",Killed=0,Injured=1,Operations="nan" 1516122000
+shooting IncidentID=1015756,IncidentDate="December 28, 2017",State="District of Columbia",CityOrCounty="Washington",Address="1300 block of Congress St SE",Killed=0,Injured=0,Operations="nan" 1516125600
+shooting IncidentID=1021426,IncidentDate="December 28, 2017",State="South Carolina",CityOrCounty="Longs",Address="N SC 905",Killed=0,Injured=0,Operations="nan" 1516129200
+shooting IncidentID=1016623,IncidentDate="December 28, 2017",State="Alabama",CityOrCounty="Birmingham",Address="400 block of Princeton Avenue",Killed=0,Injured=1,Operations="nan" 1516132800
+shooting IncidentID=1017737,IncidentDate="December 28, 2017",State="Virginia",CityOrCounty="Fredericksburg",Address="Heron Drive",Killed=1,Injured=1,Operations="nan" 1516136400
+shooting IncidentID=1018961,IncidentDate="December 28, 2017",State="Alabama",CityOrCounty="Alexander City",Address="Hillabee St",Killed=0,Injured=0,Operations="nan" 1516140000
+shooting IncidentID=1016952,IncidentDate="December 28, 2017",State="Ohio",CityOrCounty="Dayton",Address="3500 block of Stanford Pl",Killed=0,Injured=0,Operations="nan" 1516143600
+shooting IncidentID=1018956,IncidentDate="December 28, 2017",State="Alabama",CityOrCounty="Alexander City",Address="US-280",Killed=0,Injured=0,Operations="nan" 1516147200
+shooting IncidentID=1015771,IncidentDate="December 28, 2017",State="Illinois",CityOrCounty="Dolton",Address="733 E 142nd St",Killed=1,Injured=1,Operations="nan" 1516150800
+shooting IncidentID=1019766,IncidentDate="December 28, 2017",State="Missouri",CityOrCounty="Saint Robert",Address="Tampa Rd",Killed=0,Injured=0,Operations="nan" 1516154400
+shooting IncidentID=1044685,IncidentDate="December 28, 2017",State="Florida",CityOrCounty="Green Cove Springs",Address="Haven Ave",Killed=0,Injured=0,Operations="nan" 1516158000
+shooting IncidentID=1015657,IncidentDate="December 28, 2017",State="Mississippi",CityOrCounty="Moorhead",Address="1008 Olive St",Killed=0,Injured=1,Operations="nan" 1516161600
+shooting IncidentID=1015645,IncidentDate="December 28, 2017",State="Texas",CityOrCounty="Dallas",Address="14900 block of Lasater Rd",Killed=0,Injured=1,Operations="nan" 1516165200
+shooting IncidentID=1431101,IncidentDate="December 28, 2017",State="Maryland",CityOrCounty="Hyattsville",Address="7600 block of Muncy Rd",Killed=0,Injured=1,Operations="nan" 1516168800
+shooting IncidentID=1015634,IncidentDate="December 28, 2017",State="Kentucky",CityOrCounty="Versailles",Address="1580 Pisgah Pike",Killed=0,Injured=1,Operations="nan" 1516172400
+shooting IncidentID=1016021,IncidentDate="December 28, 2017",State="North Carolina",CityOrCounty="Salisbury",Address="115 E 11th St",Killed=0,Injured=1,Operations="nan" 1516176000
+shooting IncidentID=1016716,IncidentDate="December 28, 2017",State="Texas",CityOrCounty="Houston",Address="3010 Gears Rd",Killed=0,Injured=0,Operations="nan" 1516179600
+shooting IncidentID=1016402,IncidentDate="December 28, 2017",State="Maryland",CityOrCounty="Baltimore",Address="400 block of N East Ave",Killed=0,Injured=1,Operations="nan" 1516183200
+shooting IncidentID=1016387,IncidentDate="December 28, 2017",State="Delaware",CityOrCounty="Wilmington",Address="201 S Heald St",Killed=0,Injured=1,Operations="nan" 1516186800
+shooting IncidentID=1020999,IncidentDate="December 28, 2017",State="Pennsylvania",CityOrCounty="Johnstown",Address="Congress Ave",Killed=0,Injured=0,Operations="nan" 1516190400
+shooting IncidentID=1015614,IncidentDate="December 28, 2017",State="District of Columbia",CityOrCounty="Washington",Address="950 Eastern Ave NE",Killed=1,Injured=0,Operations="nan" 1516194000
+shooting IncidentID=1015599,IncidentDate="December 28, 2017",State="California",CityOrCounty="Selma",Address="Country Rose Ln",Killed=1,Injured=0,Operations="nan" 1516197600
+shooting IncidentID=1016621,IncidentDate="December 28, 2017",State="Alabama",CityOrCounty="Demopolis",Address="1500 block of Queensbury Ln",Killed=1,Injured=0,Operations="nan" 1516201200
+shooting IncidentID=1016093,IncidentDate="December 28, 2017",State="South Carolina",CityOrCounty="Winnsboro",Address="SC 200",Killed=2,Injured=0,Operations="nan" 1516204800
+shooting IncidentID=1016329,IncidentDate="December 28, 2017",State="Ohio",CityOrCounty="Columbus",Address="4790 Hilton Corporate Dr",Killed=1,Injured=1,Operations="nan" 1516208400
+shooting IncidentID=1017530,IncidentDate="December 28, 2017",State="New Jersey",CityOrCounty="Franklin",Address="Rutherford Ave",Killed=0,Injured=0,Operations="nan" 1516212000
+shooting IncidentID=1022650,IncidentDate="December 28, 2017",State="Illinois",CityOrCounty="Kankakee",Address="400  N Schuyler Ave",Killed=0,Injured=0,Operations="nan" 1516215600
+shooting IncidentID=1015565,IncidentDate="December 28, 2017",State="New York",CityOrCounty="Buffalo",Address="100 block of E Amherst St",Killed=1,Injured=1,Operations="nan" 1516219200
