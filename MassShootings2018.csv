@@ -1,4 +1,4 @@
-IncidentDate,State,CityOrCounty,Address,Killed,Injured,Operations
+IncidentDate,year,State,CityOrCounty,Address,Killed,Injured,Operations
 "December 31, 2018,Ohio,Cleveland,""4462 Denison Ave"",3,2,N/A"
 "December 29, 2018,Ohio,Lima,""904 S Main St"",1,3,N/A"
 "December 28, 2018,Missouri,""Saint Charles"",""150 Whetstone Dr"",4,1,N/A"
