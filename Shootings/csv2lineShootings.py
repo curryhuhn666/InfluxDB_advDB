@@ -80,15 +80,9 @@ CREATE DATABASE %s
 	comp = str(df_full["IncidentDate"][d-1])
     else: 
 	comp = str(df_full["IncidentDate"][d])
-
     l = l + 1
-
-    if s == "nan":	
-	#timestamp = time.mktime(datetime.datetime.strptime(s, "%m-%d-%Y %H:%M:%S").timetuple())
-	timestamp = "00-00-0000 00:00:00"
-    else:    
+	
 	if s == comp:
-
 		if c < 10:
 			if b < 10:
 				s = s + " 00:00:0" + str(b)
@@ -100,60 +94,6 @@ CREATE DATABASE %s
 	                        timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y %H:%M:%S").timetuple())
                         	c = c + 1
 				b = b + 1
-		elif c > 60:
-			a = 1
-			b = 0
-
-			if b < 10:
-				s = s + " 00:0" + str(a) + ":0" + str(b)
-				timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y %H:%M:%S").timetuple()) 			
-			elif b >= 10:
-				s = s + " 00:0" + str(a) + ":" + str(b)
-                	        timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y %H:%M:%S").timetuple())
-
-			c = c + 1
-			b = b + 1
-		elif c > 120:
-			a = 2
-			b = 0
-
- 			if b < 10:
-                        	s = s + " 00:0" + str(a) + ":0" + str(b)
-                        	timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y %H:%M:%S").timetuple())
-                        elif b >= 10:
-                        	s = s + " 00:0" + str(a) + ":" + str(b)
-                        	timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y %H:%M:%S").timetuple())
-			c = c + 1 
-			b = b + 1		
-
-		elif c > 180:
-			a = 3
-			b = 0
-
-			if b < 10:
-                                s = s + " 00:0" + str(a) + ":0" + str(b)
-                                timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y %H:%M:%S").timetuple())
-                        elif b >= 10:
-                                s = s + " 00:0" + str(a) + ":" + str(b)
-                                timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y %H:%M:%S").timetuple())
-			c = c + 1
-			b = b + 1	
-
-		elif c > 240:
-
-			a = 4
-			b = 0
-		
-			if b < 10:
-                                s = s + " 00:0" + str(a) + ":0" + str(b)
-                                timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y %H:%M:%S").timetuple())
-                        elif b >= 10:
-                                s = s + " 00:0" + str(a) + ":" + str(b)
-                                timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y %H:%M:%S").timetuple())
-			c = c + 1
-			b = b + 1
-		l = l + 1
-
 	else:
 		s = str(df_full["IncidentDate"][d])
 		timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y").timetuple())
@@ -169,8 +109,6 @@ CREATE DATABASE %s
             + "Injured=" + str(df_full["Injured"][d]) + ","
             + "Operations=\"" + str(df_full["Operations"][d]) + "\""
 	    + " " + str(timestamp).replace(".0", "")]
-
-    l = l+1
 
     for item in lines:
 	theImportFile.write("%s\n" % item)
