@@ -84,16 +84,16 @@ CREATE DATABASE %s
 	
 	if s == comp:
 		if c < 10:
-			if b < 10:
-				s = s + " 00:00:0" + str(b)
-    				timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y %H:%M:%S").timetuple())
-				c = c + 1
-				b = b + 1
-			elif b >= 10:
-				s = s + " 00:00:" + str(b)
-	                        timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y %H:%M:%S").timetuple())
-                        	c = c + 1
-				b = b + 1
+			s = s + " 00000" + str(c)
+    		timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y %f").timetuple())
+			c = c + 1
+		elif 10 < c > 100: 
+			s = s + " 0000" + str(c)
+			timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y %f").timetuple())
+			c = c + 1
+		elif 100 < c < 1000
+			s = s + " 000" + str(c)
+			timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y %f").timetuple())
 	else:
 		s = str(df_full["IncidentDate"][d])
 		timestamp = time.mktime(datetime.datetime.strptime(s, "%B %d, %Y").timetuple())
